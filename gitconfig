@@ -1,0 +1,8 @@
+[user]
+	name = gman72
+	email = tonygates2@gmail.com
+[core]
+	autocrlf = input
+	editor = /usr/bin/vim
+[safe]
+	directory = /opt/flutter
