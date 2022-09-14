@@ -1,0 +1,19 @@
+- defaults:
+    link:
+      relink: true
+      create: true
+    shell:
+      stdout: true
+      stderr: true
+
+- clean: ['~']
+
+- link:
+    ~/.gitconfig:
+    ~/.config/tint2: config/tint2
+    ~/.config/Debauchee: config/Debauchee
+- create:
+    - ~/.vim/undo-history
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
