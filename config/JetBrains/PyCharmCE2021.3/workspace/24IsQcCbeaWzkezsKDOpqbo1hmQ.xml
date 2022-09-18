@@ -1,0 +1,151 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="tnyt.py" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/adb/tnyt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+              <folding>
+                <element signature="e#46#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="1" lastUsed="1643329428262" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>110</find>
+      <find>111</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>101</replace>
+      <replace>102</replace>
+      <replace>103</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/adb/tnyt.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tnyt.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tnyt.py" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06612903" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28578478" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2785" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643329960263">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2785" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643329960263" />
+    <state width="908" height="261" key="GridCell.Tab.0.bottom" timestamp="1643338184290">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.0.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184290" />
+    <state width="908" height="261" key="GridCell.Tab.0.center" timestamp="1643338184290">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.0.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184290" />
+    <state width="908" height="261" key="GridCell.Tab.0.left" timestamp="1643338184289">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.0.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184289" />
+    <state width="908" height="261" key="GridCell.Tab.0.right" timestamp="1643338184290">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.0.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184290" />
+    <state width="908" height="261" key="GridCell.Tab.1.bottom" timestamp="1643338184291">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.1.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184291" />
+    <state width="908" height="261" key="GridCell.Tab.1.center" timestamp="1643338184291">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.1.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184291" />
+    <state width="908" height="261" key="GridCell.Tab.1.left" timestamp="1643338184290">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.1.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184290" />
+    <state width="908" height="261" key="GridCell.Tab.1.right" timestamp="1643338184291">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="261" key="GridCell.Tab.1.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643338184291" />
+    <state x="2831" y="164" key="SettingsEditor" timestamp="1643329465760">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2831" y="164" key="SettingsEditor/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1643329465760" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/adb/tnyt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+          <folding>
+            <element signature="e#46#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

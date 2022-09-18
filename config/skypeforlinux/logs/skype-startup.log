@@ -1,0 +1,14 @@
+(electron) 'setResizable function' is deprecated and will be removed. Please use 'resizable property' instead.
+(electron) 'setMaximizable function' is deprecated and will be removed. Please use 'maximizable property' instead.
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /usr/share/skypeforlinux/resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1165:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /usr/share/skypeforlinux/resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1165:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /usr/share/skypeforlinux/resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1165:30
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /usr/share/skypeforlinux/resources/app.asar/login/KeychainStore.js:28:39
+    at async electron/js2c/browser_init.js:1165:30

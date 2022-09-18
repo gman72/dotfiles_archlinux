@@ -1,0 +1,26 @@
+IMAPStore personal-gmail-remote
+Host imap.gmail.com
+Port 993
+User tonygates2@gmail.com
+PassCmd "pass mutt-wizard-personal-gmail"
+AuthMechs LOGIN
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore personal-gmail-local
+Subfolders Verbatim
+Path ~/.local/share/mail/personal-gmail/
+Inbox ~/.local/share/mail/personal-gmail/INBOX
+Flatten .
+
+Channel personal-gmail
+Expunge Both
+Master :personal-gmail-remote:
+Slave :personal-gmail-local:
+Patterns * !"[Gmail]/All Mail"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile
+

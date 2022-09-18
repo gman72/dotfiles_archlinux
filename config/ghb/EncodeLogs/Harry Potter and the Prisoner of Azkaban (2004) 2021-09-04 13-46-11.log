@@ -1,0 +1,284 @@
+Handbrake Version: 1.4.0 (2021071900)
+[13:46:11] gtkgui: Preset: /General/HQ 1080p30 Surround
+[13:46:11] Starting work at: Sat Sep  4 13:46:11 2021
+
+[13:46:11] 1 job(s) to process
+[13:46:11] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            },
+            {
+                "Bitrate": 640,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "ac3",
+                "Gain": 0.0,
+                "Mixdown": "5point1",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "copy:ac3",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac",
+            "copy:ac3"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 2,
+                    "Minutes": 21,
+                    "Seconds": 42,
+                    "Ticks": 765193950
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/gman72/Downloads/omv/Harry Potter and the Prisoner of Azkaban (2004).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 532,
+                    "width": 1280
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Harry Potter and the Prisoner of Azkaban (2004)"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": true,
+            "Forced": true
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 0,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "slow",
+        "Profile": "high",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[13:46:11] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[13:46:11]  - Intel microarchitecture Sandy Bridge
+[13:46:11]  - logical processor count: 4
+[13:46:11] Intel Quick Sync Video support: no
+[13:46:11] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv/) failed
+[13:46:11] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[13:46:11] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2007-11-16T23:24:54.000000Z
+  Duration: 02:21:42.16, start: 0.000000, bitrate: 6614 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1280x532, SAR 1:1 DAR 320:133, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1(eng): Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
+  Stream #0:2(eng): Subtitle: ass (default)
+  Stream #0:3: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-Bold.ttf
+      mimetype        : application/x-truetype-font
+  Stream #0:4: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-Semibold.ttf
+      mimetype        : application/x-truetype-font
+  Stream #0:5: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-SemiboldIt.ttf
+      mimetype        : application/x-truetype-font
+[13:46:11] scan: decoding previews for title 1
+[13:46:11] scan: audio 0x1: dca, rate=48000Hz, bitrate=1536000 English (DTS) (5.1 ch) (1536 kbps)
+[13:46:12] scan: 10 previews, 1280x532, 23.976 fps, autocrop = 0/0/0/0, aspect 2.41:1, PAR 1:1, color profile: 1-1-1
+[13:46:12] libhb: scan thread found 1 valid title(s)
+[13:46:12] Skipping subtitle scan.  No suitable subtitle tracks.
+[13:46:12] Starting Task: Encoding Pass
+[13:46:12] Skipping crop/scale filter
+[13:46:12] job configuration:
+[13:46:12]  * source
+[13:46:12]    + /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv
+[13:46:12]    + title 1, chapter(s) 1 to 1
+[13:46:12]    + container: matroska,webm
+[13:46:12]    + data rate: 6614 kbps
+[13:46:12]  * destination
+[13:46:12]    + /home/gman72/Downloads/omv/Harry Potter and the Prisoner of Azkaban (2004).m4v
+[13:46:12]    + container: MPEG-4 (libavformat)
+[13:46:12]      + align initial A/V stream timestamps
+[13:46:12]  * video track
+[13:46:12]    + decoder: h264 8-bit
+[13:46:12]    + filters
+[13:46:12]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[13:46:12]      + Decomb (mode=39)
+[13:46:12]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[13:46:12]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[13:46:12]    + Output geometry
+[13:46:12]      + storage dimensions: 1280 x 532
+[13:46:12]      + pixel aspect ratio: 1 : 1
+[13:46:12]      + display dimensions: 1280 x 532
+[13:46:12]    + encoder: H.264 (libx264)
+[13:46:12]      + preset:  slow
+[13:46:12]      + profile: high
+[13:46:12]      + level:   4.0
+[13:46:12]      + quality: 20.00 (RF)
+[13:46:12]      + color profile: 1-1-1
+[13:46:12]  * audio track 1
+[13:46:12]    + decoder: English (DTS) (5.1 ch) (1536 kbps) (track 1, id 0x1)
+[13:46:12]      + bitrate: 1536 kbps, samplerate: 48000 Hz
+[13:46:12]    + mixdown: Stereo
+[13:46:12]    + encoder: AAC (libavcodec)
+[13:46:12]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[13:46:12]  * audio track 2
+[13:46:12]    + decoder: English (DTS) (5.1 ch) (1536 kbps) (track 1, id 0x1)
+[13:46:12]      + bitrate: 1536 kbps, samplerate: 48000 Hz
+[13:46:12]    + mixdown: 5.1 Channels
+[13:46:12]    + encoder: AC3 (libavcodec)
+[13:46:12]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[13:46:12] sync: expecting 203847 video frames
+[13:46:12] encx264: min-keyint: 24, keyint: 240
+[13:46:12] encx264: encoding at constant RF 20.000000
+[13:46:12] encx264: unparsed options: level=4.0:ref=5:direct=auto:subme=8:trellis=2:vbv-bufsize=31250:vbv-maxrate=25000:rc-lookahead=50
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile High, level 4.0, 4:2:0, 8-bit
+[13:46:12] sync: first pts video is 0
+[13:46:12] sync: Chapter 1 at frame 1 time 0
+[13:46:12] sync: first pts audio 0x1 is 0
+[13:46:12] sync: first pts audio 0x1 is 0
+[15:57:37] reader: done. 1 scr changes
+[15:57:39] work: average encoding speed for job is 25.845501 fps
+[15:57:39] comb detect: heavy 449 | light 2045 | uncombed 201352 | total 203846
+[15:57:40] decomb: deinterlaced 449 | blended 2045 | unfiltered 201352 | total 203846
+[15:57:40] vfr: 203846 frames output, 0 dropped and 0 duped for CFR/PFR
+[15:57:40] vfr: lost time: 0 (0 frames)
+[15:57:40] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[15:57:40] dca-decoder done: 797077 frames, 0 decoder errors
+[15:57:40] dca-decoder done: 797077 frames, 0 decoder errors
+[15:57:40] h264-decoder done: 203846 frames, 0 decoder errors
+[15:57:40] sync: got 203846 frames, 203847 expected
+[15:57:40] sync: framerate min 23.976 fps, max 23.976 fps, avg 23.976 fps
+x264 [info]: frame I:2150  Avg QP:16.52  size: 94332
+x264 [info]: frame P:60196 Avg QP:19.70  size: 27363
+x264 [info]: frame B:141500 Avg QP:23.07  size:  6247
+x264 [info]: consecutive B-frames:  5.3%  4.8%  4.7% 85.2%
+x264 [info]: mb I  I16..4:  6.3% 84.1%  9.6%
+x264 [info]: mb P  I16..4:  1.4%  9.3%  1.2%  P16..4: 42.6% 20.4% 11.9%  0.0%  0.0%    skip:13.1%
+x264 [info]: mb B  I16..4:  0.1%  1.0%  0.2%  B16..8: 37.9%  5.9%  1.2%  direct: 3.6%  skip:50.0%  L0:40.7% L1:43.8% BI:15.5%
+x264 [info]: 8x8 transform intra:79.0% inter:66.9%
+x264 [info]: direct mvs  spatial:99.8% temporal:0.2%
+x264 [info]: coded y,uvDC,uvAC intra: 71.6% 63.9% 28.9% inter: 22.9% 17.7% 1.1%
+x264 [info]: i16 v,h,dc,p: 39% 18% 12% 31%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 16% 10% 19%  7% 10%  9% 10%  9% 11%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41%  8%  9%  6%  8%  8%  8%  6%  7%
+x264 [info]: i8c dc,h,v,p: 52% 22% 18%  8%
+x264 [info]: Weighted P-Frames: Y:4.6% UV:1.9%
+x264 [info]: ref P L0: 54.8% 17.6% 17.0%  5.4%  4.6%  0.5%  0.0%
+x264 [info]: ref B L0: 86.6%  9.4%  3.0%  1.0%
+x264 [info]: ref B L1: 97.3%  2.7%
+x264 [info]: kb/s:2572.49
+[15:57:40] mux: track 0, 203846 frames, 2733854144 bytes, 2572.37 kbps, fifo 2048
+[15:57:40] mux: track 1, 398539 frames, 170635582 bytes, 160.56 kbps, fifo 4096
+[15:57:40] mux: track 2, 265692 frames, 680171520 bytes, 640.00 kbps, fifo 2048
+[15:57:40] Finished work at: Sat Sep  4 15:57:40 2021
+
+[15:57:40] libhb: work result = 0

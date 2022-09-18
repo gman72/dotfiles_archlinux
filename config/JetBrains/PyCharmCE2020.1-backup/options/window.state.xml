@@ -1,0 +1,64 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080@72dpi" x="388" y="254" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@72dpi" x="957" y="394" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@72dpi" x="705" y="380" />
+    <location key="SettingsEditor.0.0.1920.1080@72dpi" x="547" y="108" />
+    <location key="#Inspections.0.0.1920.1080@72dpi" x="647" y="224" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080@72dpi" x="764" y="243" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@72dpi" x="414" y="146" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@72dpi" x="707" y="267" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080@72dpi" x="759" y="344" />
+    <location key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog.0.0.1920.1080@72dpi" x="1297" y="443" />
+    <location key="#Intentions.0.0.1920.1080@72dpi" x="954" y="272" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080@72dpi" width="322" height="358" />
+    <size key="#Inspections.0.0.1920.1080@72dpi" width="604" height="503" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@72dpi" width="1862" height="284" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@72dpi" width="1862" height="284" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@72dpi" width="1862" height="284" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@72dpi" width="1862" height="284" />
+    <size key="refactoring.ChangeSignatureDialog.0.0.1920.1080@72dpi" width="382" height="561" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@72dpi" width="470" height="342" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@72dpi" width="1862" height="355" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@72dpi" width="1862" height="355" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@72dpi" width="1862" height="355" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@72dpi" width="1862" height="355" />
+    <size key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080@72dpi" width="368" height="181" />
+    <size key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog.0.0.1920.1080@72dpi" width="263" height="160" />
+    <size key="#Intentions.0.0.1920.1080@72dpi" width="604" height="503" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080@72dpi" width="931" height="354" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080@72dpi" width="931" height="354" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080@72dpi" width="931" height="354" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080@72dpi" width="931" height="354" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080@72dpi" width="931" height="354" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080@72dpi" width="931" height="354" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080@72dpi" width="931" height="354" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080@72dpi" width="931" height="354" />
+  </component>
+  <component name="WindowManager">
+    <frame x="2887" y="30" width="934" height="1031" extendedState="6" />
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1425" y="917" width="300" height="145" key="ProcessPopupWindow" timestamp="1589093894435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1425" y="917" width="300" height="145" key="ProcessPopupWindow/0.0.1920.1080" timestamp="1589093894435" />
+    <state x="1287" y="30" width="614" height="1031" key="dock-window-1" timestamp="1589093861257" />
+    <state x="1287" y="30" width="614" height="1031" key="dock-window-1/1920.1080" timestamp="1589093861258" />
+    <state x="1287" y="30" width="614" height="1031" key="dock-window-1@1920.1080@72dpi" timestamp="1589093861258" />
+  </component>
+</application>

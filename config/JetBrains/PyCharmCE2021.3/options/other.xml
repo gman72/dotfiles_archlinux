@@ -1,0 +1,400 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="214Tf9mBIamtFGiJtifm33YYYNC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24IsQcCbeaWzkezsKDOpqbo1hmQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24KVXqm7ON6wllAfeuzBAAzTwvP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24fbrlYgH5PcnuKFtqRMu89Gm9G">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24mzBy2Nvhw1dkE8ZibQA5q1mUy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24yOJkc5qNtxP2dgpPlwxqnfkm0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2519TFwv1DFnH8JT6p8A2QSJDhh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="253kP0LrrVWb03zfSf2WsZzYX6O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="254LuGRBKxAPTBdbxHRvZMqlpz8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="254MDKVafB3jwGR3aHpoWQdL142">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="256YOJffOPULH7M15AHMk3ozuKO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25B7HW6YLLW8DcXT3MHps1zMrio">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25G5299L9T7o1iziBRpQ1WmTAPX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25GXUw15Xj8qeYNPIXtB72jKwKg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25I0lqyxVg85uepeQCkPBlzm4z2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25IDDt76JctBDpGQrSB3Qp5OpgZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25W6iAbXAnlYBPiFD3V5EfJdxvM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25gFH6vKpktdHbkYbZ2a4MpGrfq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25uA18C34roPJxVwRJHT5SaV594">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="260q5EiS7zFjMNuL4SSBdKHhPNX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26MQuq10QdCMaEfQEgH2vjllMPm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26b0CDv5G9JghDGqUkyfIeXxm6t">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AtCCgEGVfbHGs1TIxyWRFNaXkK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BUgKMWt03eAYFUSr8Nwn762g5O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BfX8avajotWGMEBNJR7ZIzFdi9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BfXAvCKYLqDh9uUunR02RfXVYX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BqXid7uWqcBRetgNSjiIJvwDVf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BqaHgTu1tXTt2e4Ez8C9QoWBgo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BqaJW0k09iKQJDNAvXNiaS6Tl0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell" />
+    <option name="fontScale" value="0.75" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1cMkBw9ICYIS0k7PH78rpMonVWH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="210DMqwynsId2N5XIVKEt9FJvMK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="210GKyXZB9l99RtOcBtjfpd0MvF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="214Tf9mBIamtFGiJtifm33YYYNC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="214wpCkShYdHeyfNldEFFxXZ5Bw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="215nNAbPECCrUSBo8OI0SKLqMc8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="217FCV5LcaYf6jcF0HYZ8XHdvfu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21AIJJa1ySv9qe4YXM0fxpdfpIZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21Bmwhvoh37PVbVzZVOHcCgiHbR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21Cnh0TBvWoSrPZaI1dr5k2qdgq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21F0nodIOX6HugABEaiWsWWad9u">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21LhvqDXxF7XlFiItxhy351nSYF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21LoGQGJdcISyDXSiLhhZrJDONe">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21N9VrGhOZi67oAzy3pRyRAekiq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21NaSKXFLfTIbqcQcdZwQt0XqB2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21QjUW9VbdKmDoRJdBxnM3OnJbQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21QjxkJaX2Lbqc2kOXMSv4VjG1u">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21RTWX1p0Funf1RCNApAC9wIZIh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21Scx3sQsHBAr6GfIHiR25wzmtC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21UT9ZSjY2XPGbRSICNfHNP7Pnr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21WwjaLWSm6P72Hi1D32AZNMpAj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21ZpIAPrrtbTgnabT38FLj8z3mB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21dg5vBrX7Spr8bD8o1hb1YQyod">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="226SXq7TzHhTTkIvm4U8uv2YOVf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22ep1KNX3jWHpDfbgNrMrG3gRqH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23KYcwFJEVEarYNhN82WkZUbrWu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23WJjLcfNqVlMJkLXoUMf78cC5B">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23i4Pnn0rKaIcmEVtPSoHDbxnGv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23tnmqK07wPCmoh6Tu8JczkEXbp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23wVkh4qvroCy9FOttknbWJ3U2J">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="240wrmwOFKLq8IvLMCEGn6tcwiJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5836735" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FindSplitterProportion" value="0.23684211" />
+    <property name="InstalledPluginsSearchHistory" value="ignore&#10;ignor&#10;igno&#10;ignop&#10;ignopr" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPlain text" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="ignore&#10;javafx&#10;javafx webview&#10;javafx webv&#10;javafx web" />
+    <property name="NextRunPlatformUpdateBuild" value="PC-221.5921.27/2022.1.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2022.1.3" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SettingsSearchHistory" value="ignore&#10;font" />
+    <property name="appcds.runOnSecondStart" value="PC-213.7172.26-60b0422459d6bb67121bda9ceb5c8e68766d7744ab4a9ae930e5299515e6dbf7" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="PC-213.7172.26" />
+    <property name="debugger.smart.chooser.counter" value="1" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/adb&#10;/home/gman72/adb/pnc.py&#10;/home/gman72/adb/pnc&#10;/home/gman72/adb/pnc.db&#10;/home/gman72/PycharmProjects/pnc&#10;/tmp/pnc.py&#10;/home/gman72/adb/testing.py&#10;/home/gman72/adb/pnc_102.py&#10;/home/gman72/adb/pnc_101.py&#10;/home/gman72/adb/pnc_102.db&#10;/home/gman72/adb/vision.py&#10;/home/gman72/adb/tnyt.py&#10;/home/gman72/adb/tnyt_old.py&#10;/home/gman72/adb/testOpencv.py&#10;/home/gman72/PycharmProjects/AmazonAutomation&#10;/home/gman72/PycharmProjects/openvpn_ivacy-rpi&#10;/home/gman72/work/openvpn/docker-transmission-openvpn/openvpn/ivacy/UnitedStatesWashingtonDCUDP.ovpn&#10;/home/gman72/scratch/docker-transmission-openvpn&#10;/home/gman72/work/openvpn/docker-transmission-openvpn&#10;/home/gman72/PycharmProjects/getasinsellers&#10;/home/gman72/.config/chromium/Default/Extensions/jkompbllimaoekaogchhkmkdogpkhojg/2.8.9_0/js/popup.js&#10;/home/gman72/.config/chromium/Default/Extensions/jkompbllimaoekaogchhkmkdogpkhojg/2.8.9_0/js/content-script-1.js&#10;/home/gman72/.config/chromium/Default/Extensions/jkompbllimaoekaogchhkmkdogpkhojg/2.8.9_0/js/content-script-0.js&#10;/home/gman72/.config/chromium/Default/Extensions/jkompbllimaoekaogchhkmkdogpkhojg/2.8.9_0/js/background.js&#10;/home/gman72/.config&#10;/home/gman72/.local/lib/python3.8/site-packages/mycli&#10;/home/gman72/.local&#10;/usr/local/bin/mailsync&#10;/usr/local/bin/mw&#10;/shared/usb/git/mutt-wizard/bin/mw" />
+    <property name="file.gist.reindex.count" value="37315" />
+    <property name="fileTypeChangedCounter" value="37" />
+    <property name="fileTypeDetectors" value="com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector:ru.meanmail.fileTypes.RequirementsFileTypeDetector" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PC-212.5284.44" />
+    <property name="idea.background.editor" value="/usr/share/backgrounds/naruto.jpg,15,scale,center" />
+    <property name="ideavim.statistics.timestamp" value="1593969994273" />
+    <property name="ift.learning.panel.opened.in" value="213.7172.26" />
+    <property name="lastSeenTip" value="neue-EnterDirectoryInGotoFile.html" />
+    <property name="lastTimeTipsWereShown" value="1595479488179" />
+    <property name="last_opened_file_path" value="$USER_HOME$/adb/pnc.py" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="/usr/share/backgrounds/naruto.jpg&#10;/usr/share/backgrounds/fma.png&#10;/usr/share/backgrounds/onepunchman.jpg&#10;/usr/share/backgrounds/deathnote.png" />
+    <property name="registry.to.advanced.settings.migration.build" value="PC-213.7172.26" />
+    <property name="seenTips" value="neue-CancelByControlArrows.html,neue-ColorEditingInCss.html,neue-IntroduceVariable.html,neue-CodeCompletionNoShift.html,neue-RichTextCopy.html,neue-SpellcheckerDictionaries.html,neue-GoToAction.html,neue-MoveToChangelist.html,neue-GotoLineInFile.html,neue-FinishByExclamation.html,neue-local_history.html,neue-CopyPasteReference.html,neue-ClosingTag.html,neue-DiffChevron.html,neue-TagNameCompletion.html,neue-Close_all_editor_tabs.html,neue-FindInPath.html,neue-LocalVCS.html,neue-ImagesLookup.html,neue-WildcardsInNavigationPopups.html,neue-PrintKeywords.html,neue-Compare.html,neue-GoToFile.html,neue-ChangeSorting.html,neue-MenuItemsDescriptions.html,neue-Managepy.html,neue-CamelHumpsInCodeCompletion.html,neue-OptimizeImports-py.html,neue-OverrideImplementMethods.html,TagNameCompletion.html,neue-LineEndingsFolder.html,neue-HighlightUsagesInFile.html,neue-a200ad73.html,neue-ShowHideSideBars.html,neue-NavigateToFilePath.html,neue-BreakpointSpeedmenu.html,neue-GoToClass.html,neue-EvaluateExpressionInEditor.html,neue-EnterDirectoryInGotoFile.html" />
+    <property name="selected.color.option.type" value="IGNORED_ADDED_LINES_BORDER_COLOR" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/getasinsellers/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/getsellerreviews/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python3.8" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/usr/bin/python3.8" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="/usr/bin/python3.8" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,266 @@
+Handbrake Version: 1.4.0 (2021071900)
+[10:05:59] gtkgui: Preset: /General/HQ 1080p30 Surround
+[10:05:59] Starting work at: Sun Sep  5 10:05:59 2021
+
+[10:05:59] 1 job(s) to process
+[10:05:59] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            },
+            {
+                "Bitrate": 0,
+                "DRC": 0.0,
+                "Encoder": "copy:ac3",
+                "Mixdown": "none",
+                "PresetEncoder": "copy:ac3",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac",
+            "copy:ac3"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 2,
+                    "Minutes": 33,
+                    "Seconds": 31,
+                    "Ticks": 829068480
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/gman72/Downloads/omv/Harry Potter and the Half-Blood Prince (2009).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 20,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 800,
+                    "width": 1900
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Harry Potter and the Half-Blood Prince (2009)"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": true,
+            "Forced": true
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 0,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "slow",
+        "Profile": "high",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[10:05:59] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[10:05:59]  - Intel microarchitecture Sandy Bridge
+[10:05:59]  - logical processor count: 4
+[10:05:59] Intel Quick Sync Video support: no
+[10:05:59] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv/) failed
+[10:06:00] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[10:06:00] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2012-12-29T01:09:16.000000Z
+  Duration: 02:33:31.87, start: 0.000000, bitrate: 12238 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x800, SAR 1:1 DAR 12:5, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2: Subtitle: subrip (default)
+[10:06:00] scan: decoding previews for title 1
+[10:06:00] scan: audio 0x1: ac3, rate=48000Hz, bitrate=640000 Unknown (AC3) (5.1 ch) (640 kbps)
+[10:06:00] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/20/0, aspect 2.40:1, PAR 1:1, color profile: 1-1-1
+[10:06:00] libhb: scan thread found 1 valid title(s)
+[10:06:01] Skipping subtitle scan.  No suitable subtitle tracks.
+[10:06:01] Starting Task: Encoding Pass
+[10:06:01] job configuration:
+[10:06:01]  * source
+[10:06:01]    + /home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv
+[10:06:01]    + title 1, chapter(s) 1 to 1
+[10:06:01]    + container: matroska,webm
+[10:06:01]    + data rate: 12238 kbps
+[10:06:01]  * destination
+[10:06:01]    + /home/gman72/Downloads/omv/Harry Potter and the Half-Blood Prince (2009).m4v
+[10:06:01]    + container: MPEG-4 (libavformat)
+[10:06:01]      + align initial A/V stream timestamps
+[10:06:01]  * video track
+[10:06:01]    + decoder: h264 8-bit
+[10:06:01]    + filters
+[10:06:01]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[10:06:01]      + Decomb (mode=39)
+[10:06:01]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[10:06:01]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[10:06:01]      + Crop and Scale (width=1900:height=800:crop-top=0:crop-bottom=0:crop-left=20:crop-right=0)
+[10:06:01]        + source: 1920 * 800, crop (0/0/20/0): 1900 * 800, scale: 1900 * 800
+[10:06:01]    + Output geometry
+[10:06:01]      + storage dimensions: 1900 x 800
+[10:06:01]      + pixel aspect ratio: 1 : 1
+[10:06:01]      + display dimensions: 1900 x 800
+[10:06:01]    + encoder: H.264 (libx264)
+[10:06:01]      + preset:  slow
+[10:06:01]      + profile: high
+[10:06:01]      + level:   4.0
+[10:06:01]      + quality: 20.00 (RF)
+[10:06:01]      + color profile: 1-1-1
+[10:06:01]  * audio track 1
+[10:06:01]    + decoder: Unknown (AC3) (5.1 ch) (640 kbps) (track 1, id 0x1)
+[10:06:01]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[10:06:01]    + mixdown: Stereo
+[10:06:01]    + encoder: AAC (libavcodec)
+[10:06:01]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[10:06:01]  * audio track 2
+[10:06:01]    + decoder: Unknown (AC3) (5.1 ch) (640 kbps) (track 1, id 0x1)
+[10:06:01]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[10:06:01]    + AC3 Passthru
+[10:06:01] sync: expecting 220864 video frames
+[10:06:01] encx264: min-keyint: 24, keyint: 240
+[10:06:01] encx264: encoding at constant RF 20.000000
+[10:06:01] encx264: unparsed options: level=4.0:ref=5:direct=auto:subme=8:trellis=2:vbv-bufsize=31250:vbv-maxrate=25000:rc-lookahead=50
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile High, level 4.0, 4:2:0, 8-bit
+[10:06:01] sync: first pts video is 0
+[10:06:01] sync: Chapter 1 at frame 1 time 0
+[10:06:01] sync: first pts audio 0x1 is 0
+[10:06:01] sync: first pts audio 0x1 is 0
+[10:06:12] work: average encoding speed for job is 29.509441 fps
+[10:06:12] comb detect: heavy 0 | light 0 | uncombed 304 | total 304
+[10:06:12] decomb: deinterlaced 0 | blended 0 | unfiltered 295 | total 295
+[10:06:12] vfr: 287 frames output, 0 dropped and 0 duped for CFR/PFR
+[10:06:12] vfr: lost time: 0 (0 frames)
+[10:06:12] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[10:06:12] ac3-decoder done: 501 frames, 0 decoder errors
+[10:06:12] ac3-decoder done: 501 frames, 0 decoder errors
+[10:06:12] h264-decoder done: 364 frames, 0 decoder errors
+[10:06:12] sync: got 324 frames, 220864 expected
+[10:06:12] sync: framerate min 23.976 fps, max 23.976 fps, avg 23.976 fps
+x264 [info]: frame I:2     Avg QP: 7.12  size:  4335
+x264 [info]: frame P:56    Avg QP:13.72  size:  9307
+x264 [info]: frame B:160   Avg QP:14.71  size:  3197
+x264 [info]: consecutive B-frames:  1.8%  0.0%  1.4% 96.8%
+x264 [info]: mb I  I16..4: 76.2% 22.8%  1.0%
+x264 [info]: mb P  I16..4:  3.6%  2.4%  0.0%  P16..4: 34.1%  4.3%  2.8%  0.0%  0.0%    skip:52.7%
+x264 [info]: mb B  I16..4:  0.1%  0.0%  0.0%  B16..8: 26.7%  0.7%  0.0%  direct: 1.6%  skip:70.9%  L0:45.1% L1:53.9% BI: 1.0%
+x264 [info]: 8x8 transform intra:33.6% inter:70.6%
+x264 [info]: direct mvs  spatial:78.8% temporal:21.2%
+x264 [info]: coded y,uvDC,uvAC intra: 10.1% 23.6% 14.0% inter: 3.7% 4.9% 0.0%
+x264 [info]: i16 v,h,dc,p: 73%  8%  8% 11%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10%  5% 48%  5%  7%  6%  7%  5%  7%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 11% 28%  7% 11%  7%  7%  7%  7%
+x264 [info]: i8c dc,h,v,p: 77% 14%  8%  1%
+x264 [info]: Weighted P-Frames: Y:1.8% UV:0.0%
+x264 [info]: ref P L0: 52.5%  2.6% 28.2%  9.0%  7.6%  0.1%
+x264 [info]: ref B L0: 79.7% 16.6%  3.0%  0.7%
+x264 [info]: ref B L1: 94.3%  5.7%
+x264 [info]: kb/s:916.27
+[10:06:12] mux: track 0, 217 frames, 1037082 bytes, 613.95 kbps, fifo 256
+[10:06:12] mux: track 1, 630 frames, 269252 bytes, 159.40 kbps, fifo 1024
+[10:06:12] mux: track 2, 421 frames, 1077760 bytes, 638.03 kbps, fifo 512
+[10:06:12] Finished work at: Sun Sep  5 10:06:12 2021
+
+[10:06:13] libhb: work result = 1

@@ -1,0 +1,117 @@
+2022/09/16-00:43:00.610 de36 Reusing MANIFEST /home/gman72/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/09/16-00:43:00.612 de36 Recovering log #906
+2022/09/16-00:43:00.612 de36 Reusing old log /home/gman72/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000906.log 
+2022/09/16-00:44:02.119 dfa1 Level-0 table #911: started
+2022/09/16-00:44:02.142 dfa1 Level-0 table #911: 81559 bytes OK
+2022/09/16-00:44:02.144 dfa1 Delete type=0 #906
+2022/09/16-00:45:02.117 dfa1 Level-0 table #913: started
+2022/09/16-00:45:02.123 dfa1 Level-0 table #913: 163509 bytes OK
+2022/09/16-00:45:02.125 dfa1 Delete type=0 #910
+2022/09/16-01:48:53.113 dfa1 Level-0 table #915: started
+2022/09/16-01:48:53.117 dfa1 Level-0 table #915: 84472 bytes OK
+2022/09/16-01:48:53.119 dfa1 Delete type=0 #912
+2022/09/16-02:43:11.374 dfa1 Level-0 table #917: started
+2022/09/16-02:43:11.377 dfa1 Level-0 table #917: 76088 bytes OK
+2022/09/16-02:43:11.380 dfa1 Delete type=0 #914
+2022/09/16-02:43:11.380 dfa1 Compacting 4@0 + 1@1 files
+2022/09/16-02:43:11.396 dfa1 Generated table #918@0: 347 keys, 803987 bytes
+2022/09/16-02:43:11.396 dfa1 Compacted 4@0 + 1@1 files => 803987 bytes
+2022/09/16-02:43:11.398 dfa1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/16-02:43:11.398 dfa1 Delete type=2 #911
+2022/09/16-02:43:11.398 dfa1 Delete type=2 #908
+2022/09/16-02:43:11.398 dfa1 Delete type=2 #915
+2022/09/16-02:43:11.398 dfa1 Delete type=2 #913
+2022/09/16-02:43:11.398 dfa1 Delete type=2 #917
+2022/09/16-03:05:11.946 dfa1 Level-0 table #920: started
+2022/09/16-03:05:11.950 dfa1 Level-0 table #920: 66273 bytes OK
+2022/09/16-03:05:11.952 dfa1 Delete type=0 #916
+2022/09/16-04:17:51.068 dfa1 Level-0 table #922: started
+2022/09/16-04:17:51.074 dfa1 Level-0 table #922: 76301 bytes OK
+2022/09/16-04:17:51.076 dfa1 Delete type=0 #919
+2022/09/16-05:23:11.478 dfa1 Level-0 table #924: started
+2022/09/16-05:23:11.482 dfa1 Level-0 table #924: 77178 bytes OK
+2022/09/16-05:23:11.486 dfa1 Delete type=0 #921
+2022/09/16-05:28:23.062 dfa1 Level-0 table #926: started
+2022/09/16-05:28:23.065 dfa1 Level-0 table #926: 66285 bytes OK
+2022/09/16-05:28:23.068 dfa1 Delete type=0 #923
+2022/09/16-05:28:23.068 dfa1 Compacting 4@0 + 1@1 files
+2022/09/16-05:28:23.084 dfa1 Generated table #927@0: 347 keys, 803994 bytes
+2022/09/16-05:28:23.085 dfa1 Compacted 4@0 + 1@1 files => 803994 bytes
+2022/09/16-05:28:23.087 dfa1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/16-05:28:23.087 dfa1 Delete type=2 #918
+2022/09/16-05:28:23.087 dfa1 Delete type=2 #920
+2022/09/16-05:28:23.087 dfa1 Delete type=2 #924
+2022/09/16-05:28:23.087 dfa1 Delete type=2 #922
+2022/09/16-05:28:23.087 dfa1 Delete type=2 #926
+2022/09/16-06:29:12.039 dfa1 Level-0 table #929: started
+2022/09/16-06:29:12.043 dfa1 Level-0 table #929: 76198 bytes OK
+2022/09/16-06:29:12.045 dfa1 Delete type=0 #925
+2022/09/16-07:27:11.947 dfa1 Level-0 table #931: started
+2022/09/16-07:27:11.951 dfa1 Level-0 table #931: 75966 bytes OK
+2022/09/16-07:27:11.954 dfa1 Delete type=0 #928
+2022/09/16-08:03:26.220 dfa1 Level-0 table #933: started
+2022/09/16-08:03:26.224 dfa1 Level-0 table #933: 33436 bytes OK
+2022/09/16-08:03:26.227 dfa1 Delete type=0 #930
+2022/09/16-08:18:50.579 dfa1 Level-0 table #935: started
+2022/09/16-08:18:50.583 dfa1 Level-0 table #935: 66906 bytes OK
+2022/09/16-08:18:50.586 dfa1 Delete type=0 #932
+2022/09/16-08:18:50.586 dfa1 Compacting 4@0 + 1@1 files
+2022/09/16-08:18:50.611 dfa1 Generated table #936@0: 347 keys, 804490 bytes
+2022/09/16-08:18:50.611 dfa1 Compacted 4@0 + 1@1 files => 804490 bytes
+2022/09/16-08:18:50.614 dfa1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/16-08:18:50.614 dfa1 Delete type=2 #929
+2022/09/16-08:18:50.614 dfa1 Delete type=2 #933
+2022/09/16-08:18:50.614 dfa1 Delete type=2 #935
+2022/09/16-08:18:50.614 dfa1 Delete type=2 #931
+2022/09/16-08:18:50.614 dfa1 Delete type=2 #927
+2022/09/16-09:22:15.471 dfa1 Level-0 table #938: started
+2022/09/16-09:22:15.475 dfa1 Level-0 table #938: 32882 bytes OK
+2022/09/16-09:22:15.477 dfa1 Delete type=0 #934
+2022/09/16-09:24:00.314 dfa1 Level-0 table #940: started
+2022/09/16-09:24:00.317 dfa1 Level-0 table #940: 35088 bytes OK
+2022/09/16-09:24:00.320 dfa1 Delete type=0 #937
+2022/09/16-09:36:58.435 dfa1 Level-0 table #942: started
+2022/09/16-09:36:58.439 dfa1 Level-0 table #942: 23737 bytes OK
+2022/09/16-09:36:58.441 dfa1 Delete type=0 #939
+2022/09/16-09:54:34.484 dfa1 Level-0 table #944: started
+2022/09/16-09:54:34.487 dfa1 Level-0 table #944: 39413 bytes OK
+2022/09/16-09:54:34.489 dfa1 Delete type=0 #941
+2022/09/16-09:54:34.490 dfa1 Compacting 4@0 + 1@1 files
+2022/09/16-09:54:34.512 dfa1 Generated table #945@0: 390 keys, 838125 bytes
+2022/09/16-09:54:34.512 dfa1 Compacted 4@0 + 1@1 files => 838125 bytes
+2022/09/16-09:54:34.514 dfa1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/16-09:54:34.514 dfa1 Delete type=2 #936
+2022/09/16-09:54:34.514 dfa1 Delete type=2 #944
+2022/09/16-09:54:34.514 dfa1 Delete type=2 #940
+2022/09/16-09:54:34.514 dfa1 Delete type=2 #938
+2022/09/16-09:54:34.514 dfa1 Delete type=2 #942
+2022/09/16-10:10:23.167 dfa1 Level-0 table #947: started
+2022/09/16-10:10:23.170 dfa1 Level-0 table #947: 67026 bytes OK
+2022/09/16-10:10:23.173 dfa1 Delete type=0 #943
+2022/09/16-10:45:12.062 dfa1 Level-0 table #949: started
+2022/09/16-10:45:12.065 dfa1 Level-0 table #949: 74398 bytes OK
+2022/09/16-10:45:12.067 dfa1 Delete type=0 #946
+2022/09/16-12:07:12.056 dfa1 Level-0 table #951: started
+2022/09/16-12:07:12.060 dfa1 Level-0 table #951: 84150 bytes OK
+2022/09/16-12:07:12.062 dfa1 Delete type=0 #948
+2022/09/16-13:23:11.650 dfa1 Level-0 table #953: started
+2022/09/16-13:23:11.653 dfa1 Level-0 table #953: 76487 bytes OK
+2022/09/16-13:23:11.656 dfa1 Delete type=0 #950
+2022/09/16-13:23:11.656 dfa1 Compacting 4@0 + 1@1 files
+2022/09/16-13:23:11.672 dfa1 Generated table #954@0: 390 keys, 837923 bytes
+2022/09/16-13:23:11.672 dfa1 Compacted 4@0 + 1@1 files => 837923 bytes
+2022/09/16-13:23:11.675 dfa1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/16-13:23:11.675 dfa1 Delete type=2 #945
+2022/09/16-13:23:11.675 dfa1 Delete type=2 #947
+2022/09/16-13:23:11.675 dfa1 Delete type=2 #951
+2022/09/16-13:23:11.675 dfa1 Delete type=2 #949
+2022/09/16-13:23:11.675 dfa1 Delete type=2 #953
+2022/09/16-13:27:12.044 dfa1 Level-0 table #956: started
+2022/09/16-13:27:12.047 dfa1 Level-0 table #956: 66361 bytes OK
+2022/09/16-13:27:12.050 dfa1 Delete type=0 #952
+2022/09/16-14:49:12.050 dfa1 Level-0 table #958: started
+2022/09/16-14:49:12.054 dfa1 Level-0 table #958: 76403 bytes OK
+2022/09/16-14:49:12.057 dfa1 Delete type=0 #955
+2022/09/16-15:47:11.945 dfa1 Level-0 table #960: started
+2022/09/16-15:47:11.950 dfa1 Level-0 table #960: 76399 bytes OK
+2022/09/16-15:47:11.952 dfa1 Delete type=0 #957

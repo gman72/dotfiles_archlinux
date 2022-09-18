@@ -1,0 +1,1099 @@
+Handbrake Version: 1.4.0 (2021071900)
+[10:15:59] gtkgui: Preset: /General/HQ 1080p30 Surround
+[10:15:59] Starting work at: Sat Sep  4 10:15:59 2021
+
+[10:15:59] 1 job(s) to process
+[10:15:59] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            },
+            {
+                "Bitrate": 640,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "ac3",
+                "Gain": 0.0,
+                "Mixdown": "5point1",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "copy:ac3",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac",
+            "copy:ac3"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 5,
+                    "Ticks": 22072050
+                },
+                "Name": "00:00:00.000"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 6,
+                    "Ticks": 22102110
+                },
+                "Name": "00:04:05.245"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 6,
+                    "Ticks": 22162140
+                },
+                "Name": "00:08:10.824"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 8,
+                    "Ticks": 33100560
+                },
+                "Name": "00:12:17.070"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 18,
+                    "Ticks": 17860320
+                },
+                "Name": "00:18:24.854"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 58,
+                    "Ticks": 16020990
+                },
+                "Name": "00:21:43.302"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 8,
+                    "Ticks": 22304790
+                },
+                "Name": "00:24:41.313"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 16,
+                    "Ticks": 12218490
+                },
+                "Name": "00:28:49.144"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 0,
+                    "Ticks": 16227450
+                },
+                "Name": "00:31:04.905"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 44,
+                    "Ticks": 20165130
+                },
+                "Name": "00:34:05.210"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 40,
+                    "Ticks": 19786050
+                },
+                "Name": "00:37:49.267"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 44,
+                    "Ticks": 25559280
+                },
+                "Name": "00:41:29.112"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 16,
+                    "Ticks": 23002920
+                },
+                "Name": "00:46:13.104"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 35,
+                    "Ticks": 24774750
+                },
+                "Name": "00:50:28.692"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 51,
+                    "Ticks": 31610340
+                },
+                "Name": "00:55:03.967"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 48,
+                    "Ticks": 15150150
+                },
+                "Name": "01:00:55.193"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 4,
+                    "Ticks": 21981960
+                },
+                "Name": "01:03:43.528"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 1,
+                    "Ticks": 32499990
+                },
+                "Name": "01:07:47.772"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 29,
+                    "Ticks": 34977420
+                },
+                "Name": "01:13:48.883"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 37,
+                    "Ticks": 19500750
+                },
+                "Name": "01:20:17.521"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 38,
+                    "Ticks": 25011180
+                },
+                "Name": "01:23:54.196"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 10,
+                    "Ticks": 17098380
+                },
+                "Name": "01:28:32.098"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 0,
+                    "Ticks": 27015750
+                },
+                "Name": "01:31:42.080"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 52,
+                    "Ticks": 31700430
+                },
+                "Name": "01:36:42.255"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 30,
+                    "Ticks": 35112510
+                },
+                "Name": "01:42:34.482"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 17,
+                    "Ticks": 23089320
+                },
+                "Name": "01:49:04.621"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 48,
+                    "Ticks": 25934670
+                },
+                "Name": "01:53:21.169"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 35,
+                    "Ticks": 30157650
+                },
+                "Name": "01:58:09.332"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 11,
+                    "Ticks": 17218440
+                },
+                "Name": "02:03:44.417"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 59,
+                    "Ticks": 21531510
+                },
+                "Name": "02:06:55.733"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 23,
+                    "Ticks": 18310770
+                },
+                "Name": "02:10:54.972"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 11,
+                    "Ticks": 17169660
+                },
+                "Name": "02:14:18.425"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 15,
+                    "Ticks": 22957920
+                },
+                "Name": "02:17:29.199"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 28,
+                    "Ticks": 13329630
+                },
+                "Name": "02:21:44.287"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 8,
+                    "Seconds": 9,
+                    "Ticks": 44005500
+                },
+                "Name": "02:24:12.394"
+            }
+        ],
+        "ChapterMarkers": true,
+        "File": "/home/gman72/Downloads/omv/Harry.Potter.and.the.Philosopher's.Stone.2001.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 1080,
+                    "width": 1920
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Harry.Potter.and.the.Philosopher's.Stone.2001"
+    },
+    "PAR": {
+        "Den": 133,
+        "Num": 180
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/omv/media/movies/Harry Potter and the Sorcerer's Stone (2001)/Harry.Potter.and.the.Philosopher's.Stone.2001.mkv",
+        "Range": {
+            "End": 35,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": true,
+            "Forced": true
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 9,
+        "ColorPrimaries": 9,
+        "ColorRange": 1,
+        "ColorTransfer": 16,
+        "ContentLightLevel": {
+            "MaxCLL": 552,
+            "MaxFALL": 190
+        },
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Mastering": {
+            "DisplayPrimaries": [
+                [
+                    [
+                        34000,
+                        50000
+                    ],
+                    [
+                        16000,
+                        50000
+                    ]
+                ],
+                [
+                    [
+                        13250,
+                        50000
+                    ],
+                    [
+                        34500,
+                        50000
+                    ]
+                ],
+                [
+                    [
+                        7500,
+                        50000
+                    ],
+                    [
+                        3000,
+                        50000
+                    ]
+                ]
+            ],
+            "HasLuminance": true,
+            "HasPrimaries": true,
+            "MaxLuminance": [
+                40000000,
+                10000
+            ],
+            "MinLuminance": [
+                50,
+                10000
+            ],
+            "WhitePoint": [
+                [
+                    15635,
+                    50000
+                ],
+                [
+                    16450,
+                    50000
+                ]
+            ]
+        },
+        "Options": "",
+        "Preset": "slow",
+        "Profile": "high",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[10:15:59] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[10:15:59]  - Intel microarchitecture Sandy Bridge
+[10:15:59]  - logical processor count: 4
+[10:15:59] Intel Quick Sync Video support: no
+[10:15:59] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Sorcerer's Stone (2001)/Harry.Potter.and.the.Philosopher's.Stone.2001.mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Sorcerer's Stone (2001)/Harry.Potter.and.the.Philosopher's.Stone.2001.mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Sorcerer's Stone (2001)/Harry.Potter.and.the.Philosopher's.Stone.2001.mkv/) failed
+[10:15:59] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[10:15:59] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Sorcerer's Stone (2001)/Harry.Potter.and.the.Philosopher's.Stone.2001.mkv':
+  Metadata:
+    encoder         : libebml v1.3.5 + libmatroska v1.4.8
+    creation_time   : 2018-01-19T17:47:15.000000Z
+  Duration: 02:32:21.34, start: 0.000000, bitrate: 20201 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 245.245000
+      Metadata:
+        title           : 00:00:00.000
+    Chapter #0:1: start 245.245000, end 490.824000
+      Metadata:
+        title           : 00:04:05.245
+    Chapter #0:2: start 490.824000, end 737.070000
+      Metadata:
+        title           : 00:08:10.824
+    Chapter #0:3: start 737.070000, end 1104.854000
+      Metadata:
+        title           : 00:12:17.070
+    Chapter #0:4: start 1104.854000, end 1303.302000
+      Metadata:
+        title           : 00:18:24.854
+    Chapter #0:5: start 1303.302000, end 1481.313000
+      Metadata:
+        title           : 00:21:43.302
+    Chapter #0:6: start 1481.313000, end 1729.144000
+      Metadata:
+        title           : 00:24:41.313
+    Chapter #0:7: start 1729.144000, end 1864.905000
+      Metadata:
+        title           : 00:28:49.144
+    Chapter #0:8: start 1864.905000, end 2045.210000
+      Metadata:
+        title           : 00:31:04.905
+    Chapter #0:9: start 2045.210000, end 2269.267000
+      Metadata:
+        title           : 00:34:05.210
+    Chapter #0:10: start 2269.267000, end 2489.112000
+      Metadata:
+        title           : 00:37:49.267
+    Chapter #0:11: start 2489.112000, end 2773.104000
+      Metadata:
+        title           : 00:41:29.112
+    Chapter #0:12: start 2773.104000, end 3028.692000
+      Metadata:
+        title           : 00:46:13.104
+    Chapter #0:13: start 3028.692000, end 3303.967000
+      Metadata:
+        title           : 00:50:28.692
+    Chapter #0:14: start 3303.967000, end 3655.193000
+      Metadata:
+        title           : 00:55:03.967
+    Chapter #0:15: start 3655.193000, end 3823.528000
+      Metadata:
+        title           : 01:00:55.193
+    Chapter #0:16: start 3823.528000, end 4067.772000
+      Metadata:
+        title           : 01:03:43.528
+    Chapter #0:17: start 4067.772000, end 4428.883000
+      Metadata:
+        title           : 01:07:47.772
+    Chapter #0:18: start 4428.883000, end 4817.521000
+      Metadata:
+        title           : 01:13:48.883
+    Chapter #0:19: start 4817.521000, end 5034.196000
+      Metadata:
+        title           : 01:20:17.521
+    Chapter #0:20: start 5034.196000, end 5312.098000
+      Metadata:
+        title           : 01:23:54.196
+    Chapter #0:21: start 5312.098000, end 5502.080000
+      Metadata:
+        title           : 01:28:32.098
+    Chapter #0:22: start 5502.080000, end 5802.255000
+      Metadata:
+        title           : 01:31:42.080
+    Chapter #0:23: start 5802.255000, end 6154.482000
+      Metadata:
+        title           : 01:36:42.255
+    Chapter #0:24: start 6154.482000, end 6544.621000
+      Metadata:
+        title           : 01:42:34.482
+    Chapter #0:25: start 6544.621000, end 6801.169000
+      Metadata:
+        title           : 01:49:04.621
+    Chapter #0:26: start 6801.169000, end 7089.332000
+      Metadata:
+        title           : 01:53:21.169
+    Chapter #0:27: start 7089.332000, end 7424.417000
+      Metadata:
+        title           : 01:58:09.332
+    Chapter #0:28: start 7424.417000, end 7615.733000
+      Metadata:
+        title           : 02:03:44.417
+    Chapter #0:29: start 7615.733000, end 7854.972000
+      Metadata:
+        title           : 02:06:55.733
+    Chapter #0:30: start 7854.972000, end 8058.425000
+      Metadata:
+        title           : 02:10:54.972
+    Chapter #0:31: start 8058.425000, end 8249.199000
+      Metadata:
+        title           : 02:14:18.425
+    Chapter #0:32: start 8249.199000, end 8504.287000
+      Metadata:
+        title           : 02:17:29.199
+    Chapter #0:33: start 8504.287000, end 8652.394000
+      Metadata:
+        title           : 02:21:44.287
+    Chapter #0:34: start 8652.394000, end 9141.344000
+      Metadata:
+        title           : 02:24:12.394
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1596 [SAR 1:1 DAR 320:133], 23.98 fps, 23.98 tbr, 1k tbn, 23.98 tbc (default)
+  Stream #0:1(eng): Audio: dts (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit) (default)
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle
+[10:15:59] scan: decoding previews for title 1
+[10:15:59] scan: audio 0x1: dca, rate=48000Hz, bitrate=1 English (DTS-HD MA) (7.1 ch)
+[10:16:03] scan: 10 previews, 3840x1596, 23.976 fps, autocrop = 0/0/0/0, aspect 2.41:1, PAR 1:1, color profile: 9-16-9
+[10:16:03] scan: mastering display metadata: r(0.6800,0.3200) g(0.2650,0.6900) b(0.1500 0.0600) wp(0.3127, 0.3290) min_luminance=0.005000, max_luminance=4000.000000
+[10:16:03] scan: content light level: max_cll=552, max_fall=190
+[10:16:03] libhb: scan thread found 1 valid title(s)
+[10:16:03] Starting Task: Subtitle Scan
+[10:16:03] job configuration:
+[10:16:03]  * source
+[10:16:03]    + /home/gman72/omv/media/movies/Harry Potter and the Sorcerer's Stone (2001)/Harry.Potter.and.the.Philosopher's.Stone.2001.mkv
+[10:16:03]    + title 1, chapter(s) 1 to 35
+[10:16:03]    + container: matroska,webm
+[10:16:03]    + data rate: 20201 kbps
+[10:16:03]  * destination
+[10:16:03]    + /home/gman72/Downloads/omv/Harry.Potter.and.the.Philosopher's.Stone.2001.m4v
+[10:16:03]    + container: MPEG-4 (libavformat)
+[10:16:03]      + align initial A/V stream timestamps
+[10:16:03]      + chapter markers
+[10:16:03]  * video track
+[10:16:03]    + decoder: hevc 8-bit
+[10:16:03]    + filters
+[10:16:03]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[10:16:03]      + Decomb (mode=39)
+[10:16:03]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[10:16:03]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[10:16:03]      + Crop and Scale (width=1920:height=1080:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[10:16:03]        + source: 3840 * 1596, crop (0/0/0/0): 3840 * 1596, scale: 1920 * 1080
+[10:16:03]    + Output geometry
+[10:16:03]      + storage dimensions: 1920 x 1080
+[10:16:03]      + pixel aspect ratio: 180 : 133
+[10:16:03]      + display dimensions: 2598 x 1080
+[10:16:03]  * Foreign Audio Search: Render/Burn-in, Forced Only
+[10:16:03]    + subtitle, English [PGS] (track 0, id 0x2, Picture)
+[10:16:03] sync: expecting 219173 video frames
+[10:19:38] reader: done. 1 scr changes
+[10:19:38] work: average encoding speed for job is 0.000000 fps
+[10:19:38] comb detect: heavy 0 | light 0 | uncombed 0 | total 0
+[10:19:38] decomb: deinterlaced 0 | blended 0 | unfiltered 0 | total 0
+[10:19:38] vfr: 0 frames output, 0 dropped and 0 duped for CFR/PFR
+[10:19:38] vfr: lost time: 0 (0 frames)
+[10:19:38] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[10:19:38] hevc-decoder done: 0 frames, 0 decoder errors
+[10:19:38] sync: got 0 frames, 219173 expected
+[10:19:38] Subtitle track 0 (id 0x2) 'English [PGS]': 1303 hits (0 forced)
+[10:19:38] No candidate detected during subtitle scan
+[10:19:38] Starting Task: Encoding Pass
+[10:19:38] job configuration:
+[10:19:38]  * source
+[10:19:38]    + /home/gman72/omv/media/movies/Harry Potter and the Sorcerer's Stone (2001)/Harry.Potter.and.the.Philosopher's.Stone.2001.mkv
+[10:19:38]    + title 1, chapter(s) 1 to 35
+[10:19:38]    + container: matroska,webm
+[10:19:38]    + data rate: 20201 kbps
+[10:19:38]  * destination
+[10:19:38]    + /home/gman72/Downloads/omv/Harry.Potter.and.the.Philosopher's.Stone.2001.m4v
+[10:19:38]    + container: MPEG-4 (libavformat)
+[10:19:38]      + align initial A/V stream timestamps
+[10:19:38]      + chapter markers
+[10:19:38]  * video track
+[10:19:38]    + decoder: hevc 8-bit
+[10:19:38]    + filters
+[10:19:38]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[10:19:38]      + Decomb (mode=39)
+[10:19:38]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[10:19:38]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[10:19:38]      + Crop and Scale (width=1920:height=1080:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[10:19:38]        + source: 3840 * 1596, crop (0/0/0/0): 3840 * 1596, scale: 1920 * 1080
+[10:19:38]    + Output geometry
+[10:19:38]      + storage dimensions: 1920 x 1080
+[10:19:38]      + pixel aspect ratio: 180 : 133
+[10:19:38]      + display dimensions: 2598 x 1080
+[10:19:38]    + encoder: H.264 (libx264)
+[10:19:38]      + preset:  slow
+[10:19:38]      + profile: high
+[10:19:38]      + level:   4.0
+[10:19:38]      + quality: 20.00 (RF)
+[10:19:38]      + color profile: 9-16-9
+[10:19:38]      + mastering display metadata: r(0.6800,0.3200) g(0.2650,0.6900) b(0.1500 0.0600) wp(0.3127, 0.3290) min_luminance=0.005000, max_luminance=4000.000000
+[10:19:38]      + content light level: max_cll=552, max_fall=190
+[10:19:38]  * audio track 1
+[10:19:38]    + decoder: English (DTS-HD MA) (7.1 ch) (track 1, id 0x1)
+[10:19:38]      + samplerate: 48000 Hz
+[10:19:38]    + mixdown: Stereo
+[10:19:38]    + encoder: AAC (libavcodec)
+[10:19:38]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[10:19:38]  * audio track 2
+[10:19:38]    + decoder: English (DTS-HD MA) (7.1 ch) (track 1, id 0x1)
+[10:19:38]      + samplerate: 48000 Hz
+[10:19:38]    + mixdown: 5.1 Channels
+[10:19:38]    + encoder: AC3 (libavcodec)
+[10:19:38]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[10:19:38] sync: expecting 219173 video frames
+[10:19:38] encx264: min-keyint: 24, keyint: 240
+[10:19:38] encx264: encoding at constant RF 20.000000
+[10:19:38] encx264: unparsed options: level=4.0:ref=4:direct=auto:subme=8:trellis=2:vbv-bufsize=31250:vbv-maxrate=25000:rc-lookahead=50
+x264 [info]: using SAR=180/133
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile High, level 4.0, 4:2:0, 8-bit
+[10:19:39] sync: first pts video is 0
+[10:19:39] sync: "00:00:00.000" (1) at frame 1 time 0
+[10:19:39] sync: first pts audio 0x1 is 0
+[10:19:39] sync: first pts audio 0x1 is 0
+[10:36:26] sync: "00:04:05.245" (2) at frame 5881 time 22072050
+[10:51:38] sync: "00:08:10.824" (3) at frame 11772 time 44185391
+[11:08:00] sync: "00:12:17.070" (4) at frame 17676 time 66347531
+[11:31:51] sync: "00:18:24.854" (5) at frame 26495 time 99451852
+[11:45:45] sync: "00:21:43.302" (6) at frame 31253 time 117312195
+[11:58:07] sync: "00:24:41.313" (7) at frame 35521 time 133333200
+[12:12:59] sync: "00:28:49.144" (8) at frame 41461 time 155630475
+[12:21:54] sync: "00:31:04.905" (9) at frame 44716 time 167848931
+[12:33:39] sync: "00:34:05.210" (10) at frame 49041 time 184083900
+[12:45:44] sync: "00:37:49.267" (11) at frame 54412 time 204245291
+[12:58:02] sync: "00:41:29.112" (12) at frame 59684 time 224035061
+[13:14:23] sync: "00:46:13.104" (13) at frame 66493 time 249594345
+[13:28:55] sync: "00:50:28.692" (14) at frame 72621 time 272597325
+[13:44:51] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[13:44:51]  - Intel microarchitecture Sandy Bridge
+[13:44:51]  - logical processor count: 4
+[13:44:51] Intel Quick Sync Video support: no
+[13:44:51] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004), title_index=0
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/) failed
+[13:44:51] bd: not a bd - trying as a stream/file instead
+libdvdread: Couldn't find device name.
+libdvdread: DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[13:44:51] dvd: not a dvd - trying as a stream/file instead
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-fanart.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-fanart.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 48742 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720, 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-poster.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-poster.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 12950 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 320x480, 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-thumb.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-thumb.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 12950 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 320x480, 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2007-11-16T23:24:54.000000Z
+  Duration: 02:21:42.16, start: 0.000000, bitrate: 6614 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1280x532, SAR 1:1 DAR 320:133, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1(eng): Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
+  Stream #0:2(eng): Subtitle: ass (default)
+  Stream #0:3: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-Bold.ttf
+      mimetype        : application/x-truetype-font
+  Stream #0:4: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-Semibold.ttf
+      mimetype        : application/x-truetype-font
+  Stream #0:5: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-SemiboldIt.ttf
+      mimetype        : application/x-truetype-font
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).nfo
+Input #0, tty, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).nfo':
+  Duration: 00:00:01.40, start: 0.000000, bitrate: 47 kb/s
+  Stream #0:0: Video: ansi, pal8, 640x400, 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 64003 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 96:96 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop1.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop1.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 68106 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 96:96 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop2.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop2.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 66171 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 96:96 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop3.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop3.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 74746 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 96:96 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop4.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop4.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 28438 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 96:96 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/banner.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/banner.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 16468 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 1000x185, 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/clearart.png
+Input #0, png_pipe, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/clearart.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc), 1000x562, 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/disc.png
+Input #0, png_pipe, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/disc.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc), 1000x1000, 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/fanart.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/fanart.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 64003 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 96:96 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/folder.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/folder.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 16474 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 320x480 [SAR 96:96 DAR 2:3], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/landscape.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/landscape.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 100445 kb/s
+  Stream #0:0: Video: mjpeg (Progressive), yuvj444p(pc, bt470bg/unknown/unknown), 1000x562 [SAR 72:72 DAR 500:281], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/logo.png
+Input #0, png_pipe, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/logo.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc), 800x310 [SAR 2835:2835 DAR 80:31], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/movie.xml
+[13:44:51] hb_stream_open: open /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/movie.xml failed
+[13:44:51] batch: scanning /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/poster.jpg
+Input #0, image2, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/poster.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 16474 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 320x480 [SAR 96:96 DAR 2:3], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[13:44:51] scan: decoding previews for title 1 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-fanart.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1, color profile: 1-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: Too few previews (1), trying harder
+[13:44:52] scan: decoding previews for title 1 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-fanart.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1, color profile: 1-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: decoding previews for title 2 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-poster.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 1:1, color profile: 5-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: Too few previews (1), trying harder
+[13:44:52] scan: decoding previews for title 2 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-poster.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 1:1, color profile: 5-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: decoding previews for title 3 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-thumb.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 1:1, color profile: 5-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: Too few previews (1), trying harder
+[13:44:52] scan: decoding previews for title 3 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004)-thumb.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 1:1, color profile: 5-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: decoding previews for title 4 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv)
+[13:44:52] scan: audio 0x1: dca, rate=48000Hz, bitrate=1536000 English (DTS) (5.1 ch) (1536 kbps)
+[13:44:52] scan: 10 previews, 1280x532, 23.976 fps, autocrop = 0/0/0/0, aspect 2.41:1, PAR 1:1, color profile: 1-1-1
+[13:44:52] scan: decoding previews for title 5 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).nfo)
+[13:44:52] scan: 10 previews, 640x400, 25.000 fps, autocrop = 2/2/0/2, aspect 1.60:1, PAR 1:1, color profile: 5-1-6
+[13:44:52] Title is likely interlaced or telecined (10 out of 10 previews). You should do something about that.
+[13:44:52] scan: decoding previews for title 6 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: Too few previews (1), trying harder
+[13:44:52] scan: decoding previews for title 6 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop.jpg)
+[13:44:52] Warning: Could not read data for preview 2, skipped
+[13:44:52] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:52] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:52] scan: decoding previews for title 7 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop1.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 7 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop1.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 8 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop2.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 8 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop2.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 9 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop3.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 9 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop3.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 10 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop4.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 10 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/backdrop4.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 11 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/banner.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x184, 25.000 fps, autocrop = 0/0/0/0, aspect 5.43:1, PAR 1:1, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 11 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/banner.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x184, 25.000 fps, autocrop = 0/0/0/0, aspect 5.43:1, PAR 1:1, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 12 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/clearart.png)
+[13:44:53] avformat_seek_file failed
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x562, 23.976 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1, color profile: 6-1-6
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 12 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/clearart.png)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x562, 23.976 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1, color profile: 6-1-6
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 13 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/disc.png)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x1000, 23.976 fps, autocrop = 0/0/0/0, aspect 1.00:1, PAR 1:1, color profile: 1-1-1
+[13:44:53] Title is likely interlaced or telecined (1 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 13 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/disc.png)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x1000, 23.976 fps, autocrop = 0/0/0/0, aspect 1.00:1, PAR 1:1, color profile: 1-1-1
+[13:44:53] Title is likely interlaced or telecined (1 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 14 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/fanart.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 14 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/fanart.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1280x720, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 96:96, color profile: 1-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 15 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/folder.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 96:96, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 15 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/folder.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 96:96, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 16 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/landscape.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x562, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 72:72, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 16 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/landscape.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 1000x562, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 72:72, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 17 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/logo.png)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 800x310, 23.976 fps, autocrop = 0/0/0/0, aspect 2.58:1, PAR 2835:2835, color profile: 6-1-6
+[13:44:53] scan: mastering display metadata: r(0.6400,0.3300) g(0.3000,0.6000) b(0.1500 0.0600) wp(0.3127, 0.3290) min_luminance=-nan, max_luminance=-nan
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 17 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/logo.png)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 800x310, 23.976 fps, autocrop = 0/0/0/0, aspect 2.58:1, PAR 2835:2835, color profile: 6-1-6
+[13:44:53] scan: mastering display metadata: r(0.6400,0.3300) g(0.3000,0.6000) b(0.1500 0.0600) wp(0.3127, 0.3290) min_luminance=-nan, max_luminance=-nan
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: decoding previews for title 19 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/poster.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 96:96, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] scan: Too few previews (1), trying harder
+[13:44:53] scan: decoding previews for title 19 (/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/poster.jpg)
+[13:44:53] Warning: Could not read data for preview 2, skipped
+[13:44:53] scan: 1 previews, 320x480, 25.000 fps, autocrop = 0/0/0/0, aspect 1:1.50, PAR 96:96, color profile: 5-1-5
+[13:44:53] Title is likely interlaced or telecined (0 out of 1 previews). You should do something about that.
+[13:44:53] libhb: scan thread found 18 valid title(s)
+[13:44:53] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[13:44:53] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[13:44:53] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[13:45:31] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[13:45:31]  - Intel microarchitecture Sandy Bridge
+[13:45:31]  - logical processor count: 4
+[13:45:31] Intel Quick Sync Video support: no
+[13:45:31] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv/) failed
+[13:45:31] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[13:45:31] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Prisoner of Azkaban (2004)/Harry Potter and the Prisoner of Azkaban (2004).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2007-11-16T23:24:54.000000Z
+  Duration: 02:21:42.16, start: 0.000000, bitrate: 6614 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1280x532, SAR 1:1 DAR 320:133, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1(eng): Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
+  Stream #0:2(eng): Subtitle: ass (default)
+  Stream #0:3: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-Bold.ttf
+      mimetype        : application/x-truetype-font
+  Stream #0:4: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-Semibold.ttf
+      mimetype        : application/x-truetype-font
+  Stream #0:5: Attachment: ttf
+    Metadata:
+      filename        : CronosPro-SemiboldIt.ttf
+      mimetype        : application/x-truetype-font
+[13:45:31] scan: decoding previews for title 1
+[13:45:31] scan: audio 0x1: dca, rate=48000Hz, bitrate=1536000 English (DTS) (5.1 ch) (1536 kbps)
+[13:45:31] scan: 10 previews, 1280x532, 23.976 fps, autocrop = 0/0/0/0, aspect 2.41:1, PAR 1:1, color profile: 1-1-1
+[13:45:31] libhb: scan thread found 1 valid title(s)
+[13:45:32] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[13:45:32] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[13:46:11] work: average encoding speed for job is 6.364372 fps
+[13:46:11] comb detect: heavy 1966 | light 2464 | uncombed 73731 | total 78161
+[13:46:11] decomb: deinterlaced 1966 | blended 2464 | unfiltered 73726 | total 78156
+[13:46:11] vfr: 78152 frames output, 0 dropped and 0 duped for CFR/PFR
+[13:46:11] vfr: lost time: 0 (0 frames)
+[13:46:11] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[13:46:11] dca-decoder done: 305850 frames, 0 decoder errors
+[13:46:11] dca-decoder done: 305850 frames, 0 decoder errors
+[13:46:11] hevc-decoder done: 78201 frames, 0 decoder errors
+[13:46:11] sync: got 78170 frames, 219173 expected
+[13:46:11] sync: framerate min 23.976 fps, max 23.976 fps, avg 23.976 fps
+x264 [info]: frame I:1230  Avg QP:16.51  size:127264
+x264 [info]: frame P:25261 Avg QP:19.60  size: 42019
+x264 [info]: frame B:51600 Avg QP:20.82  size: 17245
+x264 [info]: consecutive B-frames: 11.3%  1.3%  1.9% 85.6%
+x264 [info]: mb I  I16..4:  8.4% 84.6%  7.0%
+x264 [info]: mb P  I16..4:  1.5%  6.4%  0.3%  P16..4: 53.4% 15.6%  7.3%  0.0%  0.0%    skip:15.4%
+x264 [info]: mb B  I16..4:  0.1%  0.6%  0.0%  B16..8: 50.3%  4.7%  0.6%  direct: 3.9%  skip:39.8%  L0:46.6% L1:50.5% BI: 3.0%
+x264 [info]: 8x8 transform intra:80.8% inter:77.9%
+x264 [info]: direct mvs  spatial:100.0% temporal:0.0%
+x264 [info]: coded y,uvDC,uvAC intra: 74.5% 56.2% 20.3% inter: 23.6% 17.3% 0.2%
+x264 [info]: i16 v,h,dc,p: 32% 12% 11% 46%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 14%  5%  7% 10% 14% 15% 11% 13% 10%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10%  3%  4% 14% 18% 17% 12% 12% 11%
+x264 [info]: i8c dc,h,v,p: 39% 27% 23% 11%
+x264 [info]: Weighted P-Frames: Y:7.6% UV:2.0%
+x264 [info]: ref P L0: 54.5% 10.6% 22.3%  9.7%  2.8%  0.2%
+x264 [info]: ref B L0: 85.6% 11.2%  3.2%
+x264 [info]: ref B L1: 94.9%  5.1%
+x264 [info]: kb/s:5177.27
+[13:46:11] mux: track 0, 78091 frames, 2107778051 bytes, 5171.92 kbps, fifo 1024
+[13:46:11] mux: track 1, 152827 frames, 65429115 bytes, 160.55 kbps, fifo 2048
+[13:46:11] mux: track 2, 101885 frames, 260825600 bytes, 640.00 kbps, fifo 2048
+[13:46:11] Finished work at: Sat Sep  4 13:46:11 2021
+
+[13:46:11] libhb: work result = 1

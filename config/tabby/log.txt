@@ -1,0 +1,988 @@
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 229x59
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+info: Destroying
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 229x59
+debug: Resizing to 229x26
+debug: Resizing to 229x59
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 229x59
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+debug: Resizing to 112x59
+debug: Resizing to 112x59
+debug: Resizing to 112x28
+debug: Resizing to 112x28
+info: Destroying
+info: Destroying
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 229x59
+debug: Resizing to 112x59
+debug: Resizing to 112x59
+debug: Resizing to 112x28
+debug: Resizing to 112x28
+info: Destroying
+info: Destroying
+info: Destroying
+debug: Resizing to 112x59
+debug: Resizing to 112x28
+debug: Resizing to 112x28
+info: Destroying
+debug: Resizing to 210x28
+debug: Resizing to 210x28
+debug: Resizing to 229x28
+debug: Resizing to 229x28
+info: Destroying
+debug: Resizing to 229x58
+debug: Resizing to 229x59
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+debug: Resizing to 229x59
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+debug: Resizing to 229x59
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+info: Destroying
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Starting profile bash {"color":"","disableDynamicTitle":false,"group":"","icon":"fas fa-terminal","id":"local:binbash","isBuiltin":true,"isTemplate":false,"name":"bash","options":{"args":["-l"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 229x59
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/gman72","secondInstance":false}
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 115x63
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 115x63
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"disable-http-cache":true,"disableHttpCache":true,"enable-crashpad":true,"enable-transparent-visuals":true,"enableCrashpad":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":false},"cwd":"/home/gman72","secondInstance":true}
+info: CLI handler matched:
+info: v
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 115x63
+debug: Resizing to 115x61
+debug: Resizing to 115x61
+debug: Resizing to 115x61
+debug: Resizing to 115x59
+debug: Resizing to 115x59
+debug: Resizing to 115x59
+debug: Resizing to 115x57
+debug: Resizing to 115x57
+debug: Resizing to 115x57
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 115x57
+debug: Resizing to 113x57
+debug: Resizing to 113x57
+debug: Resizing to 113x57
+debug: Resizing to 113x57
+debug: Resizing to 99x57
+debug: Resizing to 98x57
+debug: Resizing to 98x57
+debug: Resizing to 98x57
+debug: Resizing to 97x57
+debug: Resizing to 97x57
+debug: Resizing to 97x57
+debug: Resizing to 97x57
+debug: Resizing to 92x57
+debug: Resizing to 89x57
+debug: Resizing to 89x57
+debug: Resizing to 89x57
+debug: Resizing to 89x57
+debug: Resizing to 87x57
+debug: Resizing to 87x57
+debug: Resizing to 87x57
+debug: Resizing to 87x57
+debug: Resizing to 88x57
+debug: Resizing to 88x57
+debug: Resizing to 88x57
+debug: Resizing to 88x57
+debug: Resizing to 89x57
+debug: Resizing to 89x57
+debug: Resizing to 89x57
+debug: Resizing to 89x57
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 89x57
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 89x57
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+debug: Resizing to 89x54
+debug: Resizing to 89x54
+debug: Resizing to 89x54
+debug: Resizing to 89x52
+debug: Resizing to 89x52
+debug: Resizing to 89x50
+debug: Resizing to 89x50
+debug: Resizing to 89x50
+debug: Resizing to 89x49
+debug: Resizing to 89x49
+debug: Resizing to 89x49
+debug: Resizing to 89x49
+debug: Resizing to 89x48
+debug: Resizing to 89x47
+debug: Resizing to 89x47
+debug: Resizing to 89x47
+debug: Resizing to 89x47
+debug: Resizing to 89x46
+debug: Resizing to 89x46
+debug: Resizing to 89x46
+debug: Resizing to 89x46
+debug: Resizing to 89x46
+debug: Resizing to 89x44
+debug: Resizing to 89x44
+debug: Resizing to 89x44
+debug: Resizing to 89x44
+debug: Resizing to 89x43
+debug: Resizing to 89x42
+debug: Resizing to 89x42
+debug: Resizing to 89x42
+debug: Resizing to 89x42
+debug: Resizing to 89x40
+debug: Resizing to 89x40
+debug: Resizing to 89x39
+debug: Resizing to 89x39
+debug: Resizing to 89x39
+debug: Resizing to 89x38
+debug: Resizing to 89x38
+debug: Resizing to 89x37
+debug: Resizing to 89x37
+debug: Resizing to 89x37
+debug: Resizing to 89x37
+debug: Resizing to 89x37
+debug: Checking for updates through fallback method.
+info: Update available
+info: Destroying
+debug: Setting language to
+debug: Resizing to 92x39
+debug: Resizing to 92x39
+debug: Resizing to 92x39
+debug: Resizing to 92x39
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 89x37
+debug: Resizing to 89x37
+debug: Resizing to 89x37
+debug: Setting language to
+debug: Resizing to 89x37
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 196x63
+debug: Resizing to 196x63
+debug: Resizing to 196x63
+debug: Resizing to 196x63
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 167x63
+debug: Resizing to 167x63
+debug: Resizing to 167x63
+debug: Resizing to 167x63
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 234x63
+debug: Resizing to 234x63
+debug: Resizing to 234x63
+debug: Resizing to 234x63
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 136x63
+debug: Resizing to 136x63
+debug: Resizing to 136x63
+debug: Resizing to 136x63
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 127x63
+debug: Resizing to 127x63
+debug: Resizing to 127x63
+debug: Resizing to 127x63
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 62x63
+debug: Resizing to 62x63
+debug: Resizing to 62x63
+debug: Resizing to 62x63
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 122x63
+debug: Resizing to 122x63
+debug: Resizing to 122x63
+debug: Resizing to 122x63
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 122x62
+debug: Resizing to 122x62
+debug: Resizing to 122x62
+debug: Resizing to 122x62
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x56
+debug: Resizing to 122x56
+debug: Resizing to 122x56
+debug: Resizing to 122x56
+debug: Resizing to 122x49
+debug: Resizing to 122x49
+debug: Resizing to 122x49
+debug: Resizing to 122x49
+debug: Resizing to 122x45
+debug: Resizing to 122x45
+debug: Resizing to 122x45
+debug: Resizing to 122x45
+debug: Resizing to 122x38
+debug: Resizing to 122x38
+debug: Resizing to 122x38
+debug: Resizing to 122x38
+debug: Resizing to 122x35
+debug: Resizing to 122x35
+debug: Resizing to 122x35
+debug: Resizing to 122x35
+debug: Resizing to 120x35
+debug: Resizing to 120x35
+debug: Resizing to 112x35
+debug: Resizing to 112x35
+debug: Resizing to 112x35
+debug: Resizing to 112x35
+debug: Resizing to 107x35
+debug: Resizing to 103x35
+debug: Resizing to 103x35
+debug: Resizing to 103x35
+debug: Resizing to 103x35
+debug: Resizing to 102x35
+debug: Resizing to 102x35
+debug: Resizing to 97x35
+debug: Resizing to 97x35
+debug: Resizing to 97x35
+debug: Resizing to 97x35
+debug: Resizing to 95x35
+debug: Resizing to 95x35
+debug: Resizing to 94x35
+debug: Resizing to 94x35
+debug: Resizing to 94x35
+debug: Resizing to 94x35
+debug: Resizing to 93x35
+debug: Resizing to 93x35
+debug: Resizing to 93x35
+debug: Resizing to 93x35
+debug: Resizing to 92x35
+debug: Resizing to 92x35
+debug: Resizing to 90x35
+debug: Resizing to 90x35
+debug: Resizing to 90x35
+debug: Resizing to 90x35
+debug: Resizing to 89x35
+debug: Resizing to 89x35
+debug: Resizing to 89x35
+debug: Resizing to 89x35
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Destroying
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 89x35
+debug: Resizing to 235x63
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 235x63
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 235x63
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 122x61
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 122x61
+debug: Resizing to 122x60
+debug: Resizing to 122x59
+debug: Resizing to 122x58
+debug: Resizing to 235x60
+debug: Resizing to 122x58
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x58
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 122x61
+debug: Resizing to 122x57
+debug: Resizing to 122x49
+debug: Resizing to 122x47
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x58
+debug: Resizing to 122x56
+debug: Resizing to 122x54
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 122x61
+debug: Resizing to 122x59
+debug: Resizing to 122x55
+debug: Resizing to 122x54
+debug: Resizing to 235x60
+debug: Resizing to 122x54
+debug: Resizing to 235x60
+debug: Resizing to 122x54
+debug: Resizing to 122x51
+debug: Resizing to 122x49
+debug: Resizing to 122x43
+debug: Resizing to 122x18
+debug: Resizing to 122x20
+debug: Resizing to 122x24
+debug: Resizing to 122x26
+debug: Resizing to 122x28
+debug: Resizing to 122x30
+debug: Resizing to 122x32
+debug: Resizing to 122x33
+debug: Resizing to 122x36
+debug: Resizing to 122x40
+debug: Resizing to 122x43
+debug: Resizing to 122x47
+debug: Resizing to 122x48
+debug: Resizing to 122x49
+debug: Resizing to 122x52
+debug: Resizing to 122x56
+debug: Resizing to 122x58
+debug: Resizing to 122x57
+debug: Resizing to 122x56
+debug: Resizing to 122x56
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x56
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x56
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"disable-http-cache":true,"disableHttpCache":true,"enable-crashpad":true,"enable-transparent-visuals":true,"enableCrashpad":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":false},"cwd":"/home/gman72","secondInstance":true}
+info: CLI handler matched:
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+info: v
+debug: Setting language to
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x57
+debug: Resizing to 122x57
+debug: Resizing to 122x57
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x55
+debug: Resizing to 122x55
+debug: Resizing to 122x53
+debug: Resizing to 122x53
+debug: Resizing to 122x53
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 122x53
+debug: Resizing to 122x53
+debug: Resizing to 122x53
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 114x60
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 114x60
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"disable-http-cache":true,"disableHttpCache":true,"enable-crashpad":true,"enable-transparent-visuals":true,"enableCrashpad":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gman72","secondInstance":true}
+info: CLI handler matched:
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+info: v
+debug: Setting language to
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x61
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Setting language to
+debug: Setting language to
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"disable-http-cache":true,"disableHttpCache":true,"enable-crashpad":true,"enable-transparent-visuals":true,"enableCrashpad":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gman72","secondInstance":true}
+info: CLI handler matched:
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+info: v
+debug: Setting language to
+debug: Resizing to 122x57
+debug: Resizing to 122x57
+debug: Resizing to 122x57
+debug: Resizing to 122x57
+debug: Resizing to 122x57
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"disable-http-cache":true,"disableHttpCache":true,"enable-crashpad":true,"enable-transparent-visuals":true,"enableCrashpad":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gman72","secondInstance":true}
+info: CLI handler matched:
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+info: v
+debug: Setting language to
+debug: Resizing to 235x61
+debug: Resizing to 235x61
+debug: Resizing to 235x61
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+info: Destroying
+debug: Resizing to 235x60
+info: Destroying
+debug: Resizing to 235x60
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 235x60
+debug: Resizing to 122x60
+debug: Resizing to 235x60
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 235x60
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 235x60
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"disable-http-cache":true,"disableHttpCache":true,"enable-crashpad":true,"enable-transparent-visuals":true,"enableCrashpad":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gman72","secondInstance":true}
+info: CLI handler matched:
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+info: v
+debug: Setting language to
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Resizing to 235x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+info: Destroying
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 235x60
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 235x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 114x27
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 122x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 122x59
+debug: Resizing to 235x58
+debug: Resizing to 114x58
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 114x58
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 114x58
+debug: Resizing to 114x58
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+info: Destroying
+debug: Resizing to 114x26
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 235x59
+debug: Resizing to 235x59
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 114x26
+debug: Resizing to 114x26
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 235x59
+debug: Resizing to 235x59
+debug: Resizing to 122x59
+debug: Resizing to 122x59
+debug: Resizing to 235x58
+debug: Resizing to 235x58
+debug: Resizing to 122x58
+debug: Resizing to 122x58
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Checking for updates through fallback method.
+info: Update available
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x58
+debug: Checking for updates through fallback method.
+info: Update available
+debug: Checking for updates through fallback method.
+info: Update available
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x58
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x58
+info: Destroying
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/fish","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x58
+info: Destroying
+debug: Resizing to 122x58
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 122x61
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x61
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+debug: Resizing to 122x61
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x61
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x61
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 122x61
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 235x60
+info: Destroying
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 235x60
+debug: Resizing to 122x61
+debug: Resizing to 122x61
+debug: Resizing to 235x60
+debug: Resizing to 235x60
+debug: Resizing to 114x60
+debug: Resizing to 114x60
+info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
+debug: Resizing to 114x60

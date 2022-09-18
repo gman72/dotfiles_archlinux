@@ -1,0 +1,699 @@
+Handbrake Version: 1.4.0 (2021071900)
+[10:06:15] gtkgui: Preset: /General/HQ 1080p30 Surround
+[10:06:15] Starting work at: Sun Sep  5 10:06:15 2021
+
+[10:06:15] 1 job(s) to process
+[10:06:15] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "Name": "English DD5.1 @ 640 Kbps",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            },
+            {
+                "Bitrate": 0,
+                "DRC": 0.0,
+                "Encoder": "copy:ac3",
+                "Mixdown": "none",
+                "Name": "English DD5.1 @ 640 Kbps",
+                "PresetEncoder": "copy:ac3",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac",
+            "copy:ac3"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 19,
+                    "Ticks": 23265720
+                },
+                "Name": "00:00:00.000"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 28,
+                    "Ticks": 29530800
+                },
+                "Name": "00:04:18.508"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 30,
+                    "Ticks": 29662110
+                },
+                "Name": "00:09:46.628"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 57,
+                    "Ticks": 21362580
+                },
+                "Name": "00:15:16.207"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 51,
+                    "Ticks": 36959400
+                },
+                "Name": "00:19:13.569"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 34,
+                    "Ticks": 30018780
+                },
+                "Name": "00:26:04.229"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 6,
+                    "Ticks": 22098330
+                },
+                "Name": "00:31:37.771"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 54,
+                    "Ticks": 31880610
+                },
+                "Name": "00:35:43.308"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 8,
+                    "Ticks": 22327290
+                },
+                "Name": "00:41:37.537"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 28,
+                    "Ticks": 24162840
+                },
+                "Name": "00:45:45.618"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 49,
+                    "Ticks": 25975980
+                },
+                "Name": "00:50:14.094"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 28,
+                    "Ticks": 18761220
+                },
+                "Name": "00:55:02.716"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 10,
+                    "Ticks": 27916650
+                },
+                "Name": "00:58:31.174"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 21,
+                    "Ticks": 34275510
+                },
+                "Name": "01:03:41.359"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 29,
+                    "Ticks": 24185340
+                },
+                "Name": "01:10:02.198"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 18,
+                    "Ticks": 23213250
+                },
+                "Name": "01:14:30.924"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 29,
+                    "Ticks": 18787500
+                },
+                "Name": "01:18:48.849"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 37,
+                    "Ticks": 14174190
+                },
+                "Name": "01:22:17.599"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 8,
+                    "Ticks": 16929360
+                },
+                "Name": "01:24:55.090"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 31,
+                    "Ticks": 24388110
+                },
+                "Name": "01:28:03.194"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 6,
+                    "Ticks": 27545040
+                },
+                "Name": "01:32:34.173"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 57,
+                    "Ticks": 26760510
+                },
+                "Name": "01:37:40.229"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 17,
+                    "Ticks": 28490940
+                },
+                "Name": "01:42:37.568"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 54,
+                    "Ticks": 31858020
+                },
+                "Name": "01:47:54.134"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 43,
+                    "Ticks": 20056320
+                },
+                "Name": "01:53:48.112"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 57,
+                    "Ticks": 21332610
+                },
+                "Name": "01:57:30.960"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 14,
+                    "Ticks": 22875300
+                },
+                "Name": "02:01:27.989"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 1,
+                    "Ticks": 21651660
+                },
+                "Name": "02:05:42.159"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 33,
+                    "Ticks": 19196640
+                },
+                "Name": "02:09:42.733"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 1,
+                    "Seconds": 31,
+                    "Ticks": 8198190
+                },
+                "Name": "02:13:16.029"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 11,
+                    "Seconds": 22,
+                    "Ticks": 61360740
+                },
+                "Name": "02:14:47.120"
+            }
+        ],
+        "ChapterMarkers": true,
+        "File": "/home/gman72/Downloads/omv/Harry Potter and the Deathly Hallows - Part 1 (2010).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 800,
+                    "width": 1920
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Harry Potter and the Deathly Hallows: Part 1 (2010)"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv",
+        "Range": {
+            "End": 31,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": true,
+            "Forced": true
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 0,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "slow",
+        "Profile": "high",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[10:06:15] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[10:06:15]  - Intel microarchitecture Sandy Bridge
+[10:06:15]  - logical processor count: 4
+[10:06:15] Intel Quick Sync Video support: no
+[10:06:15] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv/) failed
+[10:06:15] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[10:06:15] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv':
+  Metadata:
+    title           : Harry Potter and the Deathly Hallows: Part 1 (2010)
+    encoder         : libebml v1.2.0 + libmatroska v1.1.0
+    creation_time   : 2011-04-05T11:58:39.000000Z
+  Duration: 02:26:08.91, start: 0.000000, bitrate: 10632 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 258.508000
+      Metadata:
+        title           : 00:00:00.000
+    Chapter #0:1: start 258.508000, end 586.628000
+      Metadata:
+        title           : 00:04:18.508
+    Chapter #0:2: start 586.628000, end 916.207000
+      Metadata:
+        title           : 00:09:46.628
+    Chapter #0:3: start 916.207000, end 1153.569000
+      Metadata:
+        title           : 00:15:16.207
+    Chapter #0:4: start 1153.569000, end 1564.229000
+      Metadata:
+        title           : 00:19:13.569
+    Chapter #0:5: start 1564.229000, end 1897.771000
+      Metadata:
+        title           : 00:26:04.229
+    Chapter #0:6: start 1897.771000, end 2143.308000
+      Metadata:
+        title           : 00:31:37.771
+    Chapter #0:7: start 2143.308000, end 2497.537000
+      Metadata:
+        title           : 00:35:43.308
+    Chapter #0:8: start 2497.537000, end 2745.618000
+      Metadata:
+        title           : 00:41:37.537
+    Chapter #0:9: start 2745.618000, end 3014.094000
+      Metadata:
+        title           : 00:45:45.618
+    Chapter #0:10: start 3014.094000, end 3302.716000
+      Metadata:
+        title           : 00:50:14.094
+    Chapter #0:11: start 3302.716000, end 3511.174000
+      Metadata:
+        title           : 00:55:02.716
+    Chapter #0:12: start 3511.174000, end 3821.359000
+      Metadata:
+        title           : 00:58:31.174
+    Chapter #0:13: start 3821.359000, end 4202.198000
+      Metadata:
+        title           : 01:03:41.359
+    Chapter #0:14: start 4202.198000, end 4470.924000
+      Metadata:
+        title           : 01:10:02.198
+    Chapter #0:15: start 4470.924000, end 4728.849000
+      Metadata:
+        title           : 01:14:30.924
+    Chapter #0:16: start 4728.849000, end 4937.599000
+      Metadata:
+        title           : 01:18:48.849
+    Chapter #0:17: start 4937.599000, end 5095.090000
+      Metadata:
+        title           : 01:22:17.599
+    Chapter #0:18: start 5095.090000, end 5283.194000
+      Metadata:
+        title           : 01:24:55.090
+    Chapter #0:19: start 5283.194000, end 5554.173000
+      Metadata:
+        title           : 01:28:03.194
+    Chapter #0:20: start 5554.173000, end 5860.229000
+      Metadata:
+        title           : 01:32:34.173
+    Chapter #0:21: start 5860.229000, end 6157.568000
+      Metadata:
+        title           : 01:37:40.229
+    Chapter #0:22: start 6157.568000, end 6474.134000
+      Metadata:
+        title           : 01:42:37.568
+    Chapter #0:23: start 6474.134000, end 6828.112000
+      Metadata:
+        title           : 01:47:54.134
+    Chapter #0:24: start 6828.112000, end 7050.960000
+      Metadata:
+        title           : 01:53:48.112
+    Chapter #0:25: start 7050.960000, end 7287.989000
+      Metadata:
+        title           : 01:57:30.960
+    Chapter #0:26: start 7287.989000, end 7542.159000
+      Metadata:
+        title           : 02:01:27.989
+    Chapter #0:27: start 7542.159000, end 7782.733000
+      Metadata:
+        title           : 02:05:42.159
+    Chapter #0:28: start 7782.733000, end 7996.029000
+      Metadata:
+        title           : 02:09:42.733
+    Chapter #0:29: start 7996.029000, end 8087.120000
+      Metadata:
+        title           : 02:13:16.029
+    Chapter #0:30: start 8087.120000, end 8768.906000
+      Metadata:
+        title           : 02:14:47.120
+  Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+    Metadata:
+      title           : Harry Potter and the Deathly Hallows Part 1 2010 1080p BluRay x264-EbP
+  Stream #0:1(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+    Metadata:
+      title           : English DD5.1 @ 640 Kbps
+  Stream #0:2(eng): Subtitle: subrip
+    Metadata:
+      title           : English SDH
+  Stream #0:3(ara): Subtitle: subrip
+    Metadata:
+      title           : Arabian
+  Stream #0:4(bul): Subtitle: subrip
+    Metadata:
+      title           : Bulgarian
+  Stream #0:5(cze): Subtitle: subrip
+    Metadata:
+      title           : Czech
+  Stream #0:6(hrv): Subtitle: subrip
+    Metadata:
+      title           : Croatian
+  Stream #0:7(dan): Subtitle: subrip
+    Metadata:
+      title           : Danish
+  Stream #0:8(fin): Subtitle: subrip
+    Metadata:
+      title           : Finnish
+  Stream #0:9(fre): Subtitle: subrip
+    Metadata:
+      title           : French
+  Stream #0:10(ger): Subtitle: subrip
+    Metadata:
+      title           : German SDH
+  Stream #0:11(ind): Subtitle: subrip
+    Metadata:
+      title           : Indonesian
+  Stream #0:12(ita): Subtitle: subrip
+    Metadata:
+      title           : Italian SDH
+  Stream #0:13(mac): Subtitle: subrip
+    Metadata:
+      title           : Macedonian
+  Stream #0:14(nor): Subtitle: subrip
+    Metadata:
+      title           : Norwegian
+  Stream #0:15(pol): Subtitle: subrip
+    Metadata:
+      title           : Polish
+  Stream #0:16(por): Subtitle: subrip
+    Metadata:
+      title           : Portuguese
+  Stream #0:17(rum): Subtitle: subrip
+    Metadata:
+      title           : Romanian
+  Stream #0:18(srp): Subtitle: subrip
+    Metadata:
+      title           : Serbian
+  Stream #0:19(slv): Subtitle: subrip
+    Metadata:
+      title           : Slovenian
+  Stream #0:20(spa): Subtitle: subrip
+    Metadata:
+      title           : Spanish
+  Stream #0:21(swe): Subtitle: subrip
+    Metadata:
+      title           : Swedish
+  Stream #0:22(vie): Subtitle: subrip
+    Metadata:
+      title           : Vietnamise
+[10:06:15] scan: decoding previews for title 1
+[10:06:15] scan: audio 0x1: ac3, rate=48000Hz, bitrate=640000 English (AC3) (5.1 ch) (640 kbps)
+[10:06:16] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/0/0, aspect 2.40:1, PAR 1:1, color profile: 1-1-1
+[10:06:16] libhb: scan thread found 1 valid title(s)
+[10:06:16] Skipping subtitle scan.  No suitable subtitle tracks.
+[10:06:16] Starting Task: Encoding Pass
+[10:06:16] Skipping crop/scale filter
+[10:06:16] job configuration:
+[10:06:16]  * source
+[10:06:16]    + /home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv
+[10:06:16]    + title 1, chapter(s) 1 to 31
+[10:06:16]    + container: matroska,webm
+[10:06:16]    + data rate: 10632 kbps
+[10:06:16]  * destination
+[10:06:16]    + /home/gman72/Downloads/omv/Harry Potter and the Deathly Hallows - Part 1 (2010).m4v
+[10:06:16]    + container: MPEG-4 (libavformat)
+[10:06:16]      + align initial A/V stream timestamps
+[10:06:16]      + chapter markers
+[10:06:16]  * video track
+[10:06:16]    + decoder: h264 8-bit
+[10:06:16]    + filters
+[10:06:16]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[10:06:16]      + Decomb (mode=39)
+[10:06:16]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[10:06:16]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[10:06:16]    + Output geometry
+[10:06:16]      + storage dimensions: 1920 x 800
+[10:06:16]      + pixel aspect ratio: 1 : 1
+[10:06:16]      + display dimensions: 1920 x 800
+[10:06:16]    + encoder: H.264 (libx264)
+[10:06:16]      + preset:  slow
+[10:06:16]      + profile: high
+[10:06:16]      + level:   4.0
+[10:06:16]      + quality: 20.00 (RF)
+[10:06:16]      + color profile: 1-1-1
+[10:06:16]  * audio track 1
+[10:06:16]    + name: English DD5.1 @ 640 Kbps
+[10:06:16]    + decoder: English (AC3) (5.1 ch) (640 kbps) (track 1, id 0x1)
+[10:06:16]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[10:06:16]    + mixdown: Stereo
+[10:06:16]    + encoder: AAC (libavcodec)
+[10:06:16]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[10:06:16]  * audio track 2
+[10:06:16]    + name: English DD5.1 @ 640 Kbps
+[10:06:16]    + decoder: English (AC3) (5.1 ch) (640 kbps) (track 1, id 0x1)
+[10:06:16]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[10:06:16]    + AC3 Passthru
+[10:06:16] sync: expecting 210243 video frames
+[10:06:16] encx264: min-keyint: 24, keyint: 240
+[10:06:16] encx264: encoding at constant RF 20.000000
+[10:06:16] encx264: unparsed options: level=4.0:ref=5:direct=auto:subme=8:trellis=2:vbv-bufsize=31250:vbv-maxrate=25000:rc-lookahead=50
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile High, level 4.0, 4:2:0, 8-bit
+[10:06:16] sync: first pts video is 0
+[10:06:16] sync: "00:00:00.000" (1) at frame 1 time 0
+[10:06:16] sync: first pts audio 0x1 is 0
+[10:06:16] sync: first pts audio 0x1 is 0
+[10:06:18] work: average encoding speed for job is 0.000000 fps
+[10:06:18] comb detect: heavy 0 | light 0 | uncombed 133 | total 133
+[10:06:18] decomb: deinterlaced 0 | blended 0 | unfiltered 124 | total 124
+[10:06:18] vfr: 115 frames output, 0 dropped and 0 duped for CFR/PFR
+[10:06:18] vfr: lost time: 0 (0 frames)
+[10:06:18] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[10:06:18] ac3-decoder done: 269 frames, 0 decoder errors
+[10:06:18] ac3-decoder done: 269 frames, 0 decoder errors
+[10:06:18] h264-decoder done: 182 frames, 0 decoder errors
+[10:06:18] sync: got 146 frames, 210243 expected
+[10:06:18] sync: framerate min 23.976 fps, max 23.976 fps, avg 23.976 fps
+x264 [info]: frame I:2     Avg QP: 8.83  size: 21002
+x264 [info]: frame P:14    Avg QP: 7.93  size:  1691
+x264 [info]: frame B:36    Avg QP: 9.86  size:   217
+x264 [info]: consecutive B-frames:  3.6%  3.6%  5.5% 87.3%
+x264 [info]: mb I  I16..4: 53.3% 40.4%  6.4%
+x264 [info]: mb P  I16..4:  1.3%  1.3%  0.1%  P16..4:  5.3%  0.5%  0.4%  0.0%  0.0%    skip:90.9%
+x264 [info]: mb B  I16..4:  0.0%  0.1%  0.0%  B16..8:  0.7%  0.1%  0.0%  direct: 0.2%  skip:99.0%  L0:55.9% L1:40.0% BI: 4.1%
+x264 [info]: 8x8 transform intra:42.2% inter:48.0%
+x264 [info]: direct mvs  spatial:33.3% temporal:66.7%
+x264 [info]: coded y,uvDC,uvAC intra: 35.4% 10.8% 0.8% inter: 0.5% 1.2% 0.0%
+x264 [info]: i16 v,h,dc,p: 87%  4%  7%  3%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 15% 35%  6%  5%  4%  4%  5%  7%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13%  9%  7% 16% 14% 10% 10% 10% 11%
+x264 [info]: i8c dc,h,v,p: 91%  4%  5%  0%
+x264 [info]: Weighted P-Frames: Y:7.1% UV:0.0%
+x264 [info]: ref P L0: 76.2% 17.3%  3.3%  3.2%
+x264 [info]: kb/s:271.09
+[10:06:19] mux: track 0, 51 frames, 61729 bytes, 81.10 kbps, fifo 64
+[10:06:19] mux: track 1, 282 frames, 88625 bytes, 116.43 kbps, fifo 512
+[10:06:19] mux: track 2, 189 frames, 483840 bytes, 635.65 kbps, fifo 256
+[10:06:19] Finished work at: Sun Sep  5 10:06:19 2021
+
+[10:06:19] libhb: work result = 1

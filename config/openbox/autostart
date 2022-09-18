@@ -1,0 +1,3 @@
+genymotion &
+tint2 &
+sleep 5 && sh /home/gman72/adb/startup.sh

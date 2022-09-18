@@ -1,0 +1,14 @@
+[Default Values]
+X-pos=3
+Y-pos=0
+Decorations=1
+Expand=0
+tz=/etc/localtime
+fg=rgb(0,0,0)
+bg=rgb(255,255,255)
+
+[Localtime]
+name=Localtime
+tz=/etc/localtime
+fg=rgb(0,0,0)
+bg=rgb(255,255,255)

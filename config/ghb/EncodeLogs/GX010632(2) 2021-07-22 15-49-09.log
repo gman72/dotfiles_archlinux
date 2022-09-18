@@ -1,0 +1,282 @@
+Handbrake Version: 1.4.0 (2021071900)
+[15:49:09] gtkgui: Modified Preset: /Matroska/H.265 MKV 2160p60
+[15:49:09] Starting work at: Thu Jul 22 15:49:09 2021
+
+[15:49:09] 1 job(s) to process
+[15:49:09] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": false,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 1,
+                    "Seconds": 49,
+                    "Ticks": 9823563
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/gman72/Videos/GX010632(2).mkv",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "mkv"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/450000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 2160,
+                    "width": 3840
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "GX010632"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/Videos/GX010632.MP4",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 2,
+        "ColorTransfer": 1,
+        "Encoder": "x265",
+        "Level": "auto",
+        "Options": "strong-intra-smoothing=0:rect=0:aq-mode=1",
+        "Preset": "slow",
+        "Profile": "main",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 18.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[15:49:09] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[15:49:09]  - Intel microarchitecture Sandy Bridge
+[15:49:09]  - logical processor count: 4
+[15:49:09] Intel Quick Sync Video support: no
+[15:49:09] hb_scan: path=/home/gman72/Videos/GX010632.MP4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/Videos/GX010632.MP4
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/Videos/GX010632.MP4/) failed
+[15:49:09] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[15:49:09] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/gman72/Videos/GX010632.MP4':
+  Metadata:
+    major_brand     : mp41
+    minor_version   : 538120216
+    compatible_brands: mp41
+    creation_time   : 2021-07-18T05:57:14.000000Z
+    location        : +38.4211-097.1128/
+    location-eng    : +38.4211-097.1128/
+    firmware        : HD9.01.01.60.00
+  Duration: 00:01:49.15, start: 0.000000, bitrate: 60140 kb/s
+  Stream #0:0(eng): Video: hevc (Main) (hvc1 / 0x31637668), yuvj420p(pc, bt709), 5120x2880 [SAR 1:1 DAR 16:9], 59889 kb/s, 23.98 fps, 23.98 tbr, 24k tbn, 23.97 tbc (default)
+    Metadata:
+      rotate          : 180
+      creation_time   : 2021-07-18T05:57:14.000000Z
+      handler_name    : GoPro H.265
+      vendor_id       : [0][0][0][0]
+      encoder         : GoPro H.265 encoder
+      timecode        : 05:56:53:02
+    Side data:
+      displaymatrix: rotation of -180.00 degrees
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      creation_time   : 2021-07-18T05:57:14.000000Z
+      handler_name    : GoPro AAC  
+      vendor_id       : [0][0][0][0]
+      timecode        : 05:56:53:02
+  Stream #0:2(eng): Data: none (tmcd / 0x64636D74) (default)
+    Metadata:
+      creation_time   : 2021-07-18T05:57:14.000000Z
+      handler_name    : GoPro TCD  
+      timecode        : 05:56:53:02
+  Stream #0:3(eng): Data: bin_data (gpmd / 0x646D7067), 41 kb/s (default)
+    Metadata:
+      creation_time   : 2021-07-18T05:57:14.000000Z
+      handler_name    : GoPro MET  
+  Stream #0:4(eng): Data: none (fdsc / 0x63736466), 9 kb/s (default)
+    Metadata:
+      creation_time   : 2021-07-18T05:57:14.000000Z
+      handler_name    : GoPro SOS  
+[15:49:09] scan: decoding previews for title 1
+[15:49:09] Auto-Rotating video 180 degrees
+[15:49:09] scan: audio 0x1: aac, rate=48000Hz, bitrate=189267 English (AAC LC) (2.0 ch) (189 kbps)
+[15:49:16] scan: 10 previews, 5120x2880, 23.976 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1, color profile: 1-1-1
+[15:49:16] libhb: scan thread found 1 valid title(s)
+[15:49:16] Starting Task: Encoding Pass
+[15:49:16] job configuration:
+[15:49:16]  * source
+[15:49:16]    + /home/gman72/Videos/GX010632.MP4
+[15:49:16]    + title 1, chapter(s) 1 to 1
+[15:49:16]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[15:49:16]    + data rate: 60140 kbps
+[15:49:16]  * destination
+[15:49:16]    + /home/gman72/Videos/GX010632(2).mkv
+[15:49:16]    + container: Matroska (libavformat)
+[15:49:16]  * video track
+[15:49:16]    + decoder: hevc 8-bit
+[15:49:16]      + bitrate 59889 kbps
+[15:49:16]    + filters
+[15:49:16]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[15:49:16]      + Decomb (mode=39)
+[15:49:16]      + Framerate Shaper (mode=2:rate=27000000/450000)
+[15:49:16]        + frame rate: 23.976 fps -> peak rate limited to 60.000 fps
+[15:49:16]      + Crop and Scale (width=3840:height=2160:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[15:49:16]        + source: 5120 * 2880, crop (0/0/0/0): 5120 * 2880, scale: 3840 * 2160
+[15:49:16]    + Output geometry
+[15:49:16]      + storage dimensions: 3840 x 2160
+[15:49:16]      + pixel aspect ratio: 1 : 1
+[15:49:16]      + display dimensions: 3840 x 2160
+[15:49:16]    + encoder: H.265 (libx265)
+[15:49:16]      + preset:  slow
+[15:49:16]      + options: strong-intra-smoothing=0:rect=0:aq-mode=1
+[15:49:16]      + profile: main
+[15:49:16]      + level:   auto
+[15:49:16]      + quality: 18.00 (RF)
+[15:49:16]      + color profile: 1-1-1
+[15:49:16]  * audio track 1
+[15:49:16]    + decoder: English (AAC LC) (2.0 ch) (189 kbps) (track 1, id 0x1)
+[15:49:16]      + bitrate: 189 kbps, samplerate: 48000 Hz
+[15:49:16]    + mixdown: Stereo
+[15:49:16]    + encoder: AAC (libavcodec)
+[15:49:16]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[15:49:16] sync: expecting 2616 video frames
+x265 [info]: HEVC encoder version unknown
+x265 [info]: build info [Linux][GCC 11.1.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x265 [info]: Main profile, Level-5 (Main tier)
+x265 [info]: Thread pool created using 4 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 2 / wpp(34 rows)
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : star / 57 / 3 / 3
+x265 [info]: Keyframe min / max / scenecut / bias  : 24 / 240 / 40 / 5.00 
+x265 [info]: Lookahead / bframes / badapt        : 25 / 4 / 2
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 4 / on / on
+x265 [info]: AQ: mode / str / qg-size / cu-tree  : 1 / 1.0 / 32 / 1
+x265 [info]: Rate Control / qCompress            : CRF-18.0 / 0.60
+x265 [info]: tools: limit-modes rd=4 psy-rd=2.00 rdoq=2 psy-rdoq=1.00
+x265 [info]: tools: rskip mode=1 signhide tmvp lslices=4 deblock sao
+[15:49:16] Auto-Rotating video 180 degrees
+[15:49:18] sync: first pts video is 0
+[15:49:18] sync: Chapter 1 at frame 1 time 0
+[15:49:18] sync: first pts audio 0x1 is 0
+[19:25:40] reader: done. 1 scr changes
+[19:32:41] work: average encoding speed for job is 0.197601 fps
+[19:32:41] comb detect: heavy 73 | light 388 | uncombed 2155 | total 2616
+[19:32:42] decomb: deinterlaced 73 | blended 388 | unfiltered 2155 | total 2616
+[19:32:42] vfr: 2616 frames output, 0 dropped and 0 duped for CFR/PFR
+[19:32:42] vfr: lost time: 0 (0 frames)
+[19:32:42] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[19:32:42] aac-decoder done: 5113 frames, 0 decoder errors
+[19:32:42] hevc-decoder done: 2616 frames, 1 decoder errors
+[19:32:42] sync: got 2616 frames, 2616 expected
+[19:32:42] sync: framerate min 23.976 fps, max 23.976 fps, avg 23.976 fps
+x265 [info]: frame I:     12, Avg QP:17.55  kb/s: 117424.30
+x265 [info]: frame P:    619, Avg QP:18.83  kb/s: 96061.23
+x265 [info]: frame B:   1985, Avg QP:21.99  kb/s: 55839.20
+x265 [info]: Weighted P-Frames: Y:15.2% UV:12.1%
+x265 [info]: consecutive B-frames: 3.6% 1.6% 3.8% 58.5% 32.5% 
+
+encoded 2616 frames in 13405.89s (0.20 fps), 65639.07 kb/s, Avg QP:21.22
+[19:32:42] mux: track 0, 2616 frames, 895237104 bytes, 65639.84 kbps, fifo 64
+[19:32:42] mux: track 1, 5114 frames, 2189216 bytes, 160.52 kbps, fifo 512
+[19:32:42] Finished work at: Thu Jul 22 19:32:42 2021
+
+[19:32:42] libhb: work result = 0

@@ -1,0 +1,18 @@
+[Added Associations]
+application/x-ns-proxy-autoconfig=gvim.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+image/png=gpicview.desktop;feh.desktop;
+application/epub+zip=calibre-gui.desktop;calibre-ebook-edit.desktop;org.pwmt.zathura-pdf-mupdf.desktop;
+image/jpeg=gpicview.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+
+[Default Applications]
+x-scheme-handler/mailspring=mailspring.desktop
+x-scheme-handler/msteams=teams.desktop
+text/html=vivaldi-stable.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/about=vivaldi-stable.desktop
+x-scheme-handler/unknown=vivaldi-stable.desktop
+

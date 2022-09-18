@@ -1,0 +1,299 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>mbsync_profile</entry>
+        <entry>$mbsyncrc</entry>
+        <entry>history</entry>
+        <entry>rand</entry>
+        <entry>OPENVPN_OPTS</entry>
+        <entry>ENABLE_UFW</entry>
+        <entry encoding="base64">XDxsc3RcPg==</entry>
+        <entry>get_select</entry>
+        <entry encoding="base64">XDxybVw+</entry>
+        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
+        <entry>{</entry>
+        <entry>append</entry>
+        <entry>time</entry>
+        <entry encoding="base64">XDx1cGRhdGVfd29ya2luZ1w+</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry>VPN</entry>
+        <entry>close</entry>
+        <entry encoding="base64">XDxFTUFJTF9GUk9NXD4=</entry>
+        <entry>email</entry>
+        <entry encoding="base64">XDxBUElcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>q!</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/hubspot.py" timestamp="1592676329777">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593450584358">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/TAgetqueryresults.py" timestamp="1593973655358">
+        <mark key="[" line="45" column="47" />
+      </file>
+      <file name="/Python Console" timestamp="1593975588931">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerUtils.py" timestamp="1592339378954">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/TAsubmitquery.py" timestamp="1593975344279">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" timestamp="1593451058575">
+        <mark key="'" line="37" column="88" />
+        <mark key="[" line="17" column="613" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/docker-master.py" timestamp="1592250533896">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerSelenium.py" timestamp="1593975223962">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/Gsheet/upload_brands_from_spreadsheet.py" timestamp="1592682632737">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" timestamp="1592688871755">
+        <mark key="'" line="17" column="65" />
+        <mark key="[" line="132" column="12" />
+        <mark key="]" line="129" column="33" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerHubspot.py" timestamp="1592676420957">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerMailgun.py" timestamp="1592677470207">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerCfg.py" timestamp="1593970206632">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" timestamp="1593450515219">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/hubspot_getcompany.py" timestamp="1592364410448">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerGsheet.py" timestamp="1593449903803">
+        <mark key="[" line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/getmailgunlogs.py" timestamp="1592686413030">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/mailgun.py" timestamp="1592667605309">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/getasinsellers/getasinsellers.py" timestamp="1593450797587">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="325" column="0" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="34" column="48" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="50" column="0" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="270" column="88" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="307" column="10" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="18" column="22" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="200" column="29" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="224" column="93" filename="/shared/usb/git/mutt-wizard/bin/mw" />
+      <jump line="102" column="4" filename="$USER_HOME$/.local/lib/python3.8/site-packages/mycli/main.py" />
+      <jump line="173" column="19" filename="$USER_HOME$/.local/lib/python3.8/site-packages/mycli/main.py" />
+      <jump line="4" column="36" filename="$USER_HOME$/PycharmProjects/getasinsellers/getasinsellers.py" />
+      <jump line="11" column="31" filename="$USER_HOME$/PycharmProjects/getasinsellers/getasinsellers.py" />
+      <jump line="24" column="35" filename="$USER_HOME$/PycharmProjects/getasinsellers/getasinsellers.py" />
+      <jump line="57" column="33" filename="$USER_HOME$/PycharmProjects/getasinsellers/getasinsellers.py" />
+      <jump line="60" column="25" filename="$USER_HOME$/PycharmProjects/getasinsellers/getasinsellers.py" />
+      <jump line="159" column="15" filename="$USER_HOME$/scratch/docker-transmission-openvpn/openvpn/start.sh" />
+      <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/gmail/gmail.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/docker-master.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/rm_specific.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/IP2Loc/ip2locBottle.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="14" column="10" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="15" column="8" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="16" column="56" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="17" column="167" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="20" column="44" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="21" column="31" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="22" column="30" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="24" column="10" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="25" column="10" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="26" column="13" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="27" column="10" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="29" column="44" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="30" column="48" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="37" column="88" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" />
+      <jump line="19" column="27" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/TAsubmitquery.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerGsheet.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/Utility Scripts/copyofgetqueryresults.py" />
+      <jump line="15" column="42" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" />
+      <jump line="19" column="98" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" />
+      <jump line="27" column="21" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" />
+      <jump line="35" column="75" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" />
+      <jump line="57" column="12" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/docker-master.py" />
+      <jump line="43" column="25" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/docker-master.py" />
+      <jump line="54" column="21" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/docker-master.py" />
+      <jump line="52" column="21" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/docker-master.py" />
+      <jump line="36" column="12" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/docker-master.py" />
+      <jump line="114" column="2" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="82" column="4" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="84" column="20" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="99" column="16" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="109" column="18" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="113" column="73" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="115" column="24" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="117" column="95" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="129" column="4" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="130" column="35" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="4" column="5" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="8" column="5" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="9" column="7" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="14" column="12" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="15" column="65" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/GmailGetListbyQuery.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/Amz-Sourcing/GmailAPI/getmailgunlogs.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>0</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxBUElcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuY2xvc2UoKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text>Added pulled_from_gsheet date in the Update SQL statement</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICNnbG9iYWwgcmV0cnkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmV0cnkgPSAwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkcnYucXVpdCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRydiA9IEhzLmdldF9icm93c2VyKHN0cl9pcD1vcy5lbnZpcm9uWydJUCddLCBzdHJfcG9ydD1vcy5lbnZpcm9uWydQT1JUJ10pCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkcnYgPSBIcy5nZXRfYnJvd3NlcihzdHJfaXA9b3MuZW52aXJvblsnSVAnXSwgc3RyX3BvcnQ9b3MuZW52aXJvblsnUE9SVCddKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxBUElcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxBUElcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>close</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

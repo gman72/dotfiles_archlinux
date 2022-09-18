@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Leases version="1.0">
+  <Lease mac="08:00:27:03:51:cf" network="0.0.0.0" state="acked">
+    <Address value="192.168.56.113"/>
+    <Time issued="1661997817" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:59:74:42" network="0.0.0.0" state="acked">
+    <Address value="192.168.56.112"/>
+    <Time issued="1661998141" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:f7:ad:08" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.111"/>
+    <Time issued="1650628446" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:ca:6d:ea" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.110"/>
+    <Time issued="1650627234" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:59:ce:ff" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.109"/>
+    <Time issued="1661997480" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:1f:73:24" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.108"/>
+    <Time issued="1640186421" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:db:c8:66" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.107"/>
+    <Time issued="1640207852" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:e7:62:9f" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.106"/>
+    <Time issued="1635440536" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:ed:01:79" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.105"/>
+    <Time issued="1635431727" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:50:27:37" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.104"/>
+    <Time issued="1633957841" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:e6:1d:6b" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.103"/>
+    <Time issued="1633956856" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:2a:45:66" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.102"/>
+    <Time issued="1633956219" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:d1:ed:26" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.101"/>
+    <Time issued="1633955885" expiration="600"/>
+  </Lease>
+</Leases>

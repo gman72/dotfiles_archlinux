@@ -1,0 +1,245 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/adb/tnyt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2102">
+              <caret line="677" selection-start-line="677" selection-end-line="677" />
+              <folding>
+                <element signature="e#836#1545#0" />
+                <element signature="e#1574#1766#0" />
+                <element signature="e#2116#2427#0" />
+                <element signature="e#2463#2601#0" />
+                <element signature="e#2642#2753#0" />
+                <element signature="e#2751#2879#0" />
+                <element signature="e#2908#3043#0" />
+                <element signature="e#3684#4202#0" />
+                <element signature="e#4224#5020#0" />
+                <element signature="e#5875#6908#0" />
+                <element signature="e#6936#8585#0" />
+                <element signature="e#8610#9972#0" />
+                <element signature="e#9989#13589#0" />
+                <element signature="e#13618#16223#0" />
+                <element signature="e#16252#18737#0" />
+                <element signature="e#18766#21285#0" />
+                <element signature="e#21314#23514#0" />
+                <element signature="e#23537#23720#0" />
+                <element signature="e#23743#23913#0" />
+                <element signature="e#23937#24140#0" />
+                <element signature="e#24165#24906#0" />
+                <element signature="e#24930#25080#0" />
+                <element signature="e#25110#27924#0" />
+                <element signature="e#27966#29347#0" />
+                <element signature="e#29619#30409#0" />
+                <element signature="e#30070#30897#0" />
+                <element signature="e#31340#31885#0" />
+                <element signature="e#31943#33062#0" />
+                <element signature="e#33091#34210#0" />
+                <element signature="e#35300#36235#0" />
+                <element signature="e#36262#37384#0" />
+                <element signature="e#37423#37558#0" />
+                <element signature="e#37802#37981#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/adb/testOpencv.py" />
+      <option value="$USER_HOME$/adb/tnyt.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tnyt.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tnyt.py" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.056709267" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3302073" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.3302073" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.06860809" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Services" order="6" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="2144" y="373" width="514" height="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1638935602741">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2144" y="373" width="514" height="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638935602741" />
+    <state x="2185" y="271" width="428" height="472" key="FileChooserDialogImpl" timestamp="1638848947795">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2185" y="271" width="428" height="472" key="FileChooserDialogImpl/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638848947795" />
+    <state width="908" height="377" key="GridCell.Tab.-1.bottom" timestamp="1638831286337">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="377" key="GridCell.Tab.-1.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638831286337" />
+    <state width="908" height="377" key="GridCell.Tab.-1.center" timestamp="1638831286337">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="377" key="GridCell.Tab.-1.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638831286337" />
+    <state width="908" height="377" key="GridCell.Tab.-1.left" timestamp="1638831286321">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="377" key="GridCell.Tab.-1.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638831286321" />
+    <state width="908" height="377" key="GridCell.Tab.-1.right" timestamp="1638831286337">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="377" key="GridCell.Tab.-1.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638831286337" />
+    <state width="908" height="306" key="GridCell.Tab.0.bottom" timestamp="1638987787764">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="306" key="GridCell.Tab.0.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787764" />
+    <state width="908" height="306" key="GridCell.Tab.0.center" timestamp="1638987787763">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="306" key="GridCell.Tab.0.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787763" />
+    <state width="908" height="306" key="GridCell.Tab.0.left" timestamp="1638987787762">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="306" key="GridCell.Tab.0.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787762" />
+    <state width="908" height="306" key="GridCell.Tab.0.right" timestamp="1638987787763">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="306" key="GridCell.Tab.0.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787763" />
+    <state width="1856" height="41" key="GridCell.Tab.1.bottom" timestamp="1638987787756">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="41" key="GridCell.Tab.1.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787756" />
+    <state width="1856" height="41" key="GridCell.Tab.1.center" timestamp="1638987787755">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="41" key="GridCell.Tab.1.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787755" />
+    <state width="1856" height="41" key="GridCell.Tab.1.left" timestamp="1638987787755">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="41" key="GridCell.Tab.1.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787755" />
+    <state width="1856" height="41" key="GridCell.Tab.1.right" timestamp="1638987787756">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="41" key="GridCell.Tab.1.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1638987787756" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.9/site-packages/ppadb/command/host/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.9/site-packages/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2072">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#46#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/adb/testOpencv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="740" column="54" selection-start-line="740" selection-start-column="23" selection-end-line="740" selection-end-column="67" />
+          <folding>
+            <element signature="e#46#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/adb/tnyt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2102">
+          <caret line="677" selection-start-line="677" selection-end-line="677" />
+          <folding>
+            <element signature="e#836#1545#0" />
+            <element signature="e#1574#1766#0" />
+            <element signature="e#2116#2427#0" />
+            <element signature="e#2463#2601#0" />
+            <element signature="e#2642#2753#0" />
+            <element signature="e#2751#2879#0" />
+            <element signature="e#2908#3043#0" />
+            <element signature="e#3684#4202#0" />
+            <element signature="e#4224#5020#0" />
+            <element signature="e#5875#6908#0" />
+            <element signature="e#6936#8585#0" />
+            <element signature="e#8610#9972#0" />
+            <element signature="e#9989#13589#0" />
+            <element signature="e#13618#16223#0" />
+            <element signature="e#16252#18737#0" />
+            <element signature="e#18766#21285#0" />
+            <element signature="e#21314#23514#0" />
+            <element signature="e#23537#23720#0" />
+            <element signature="e#23743#23913#0" />
+            <element signature="e#23937#24140#0" />
+            <element signature="e#24165#24906#0" />
+            <element signature="e#24930#25080#0" />
+            <element signature="e#25110#27924#0" />
+            <element signature="e#27966#29347#0" />
+            <element signature="e#29619#30409#0" />
+            <element signature="e#30070#30897#0" />
+            <element signature="e#31340#31885#0" />
+            <element signature="e#31943#33062#0" />
+            <element signature="e#33091#34210#0" />
+            <element signature="e#35300#36235#0" />
+            <element signature="e#36262#37384#0" />
+            <element signature="e#37423#37558#0" />
+            <element signature="e#37802#37981#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,143 @@
+Handbrake Version: 1.4.0 (2021071900)
+[20:21:13] gtkgui: Modified Preset: /Hardware/H.265 NVENC 2160p 4K
+[20:21:13] Starting work at: Fri Sep  3 20:21:13 2021
+
+[20:21:13] 1 job(s) to process
+[20:21:13] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "none"
+    },
+    "Destination": {
+        "AlignAVStart": false,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 1,
+                    "Seconds": 49,
+                    "Ticks": 9823563
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/gman72/Videos/GX010632(3).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 1
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 2160,
+                    "width": 3840
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "GX010632"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/Downloads/GX010632.MP4",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 2,
+        "ColorTransfer": 1,
+        "Encoder": "nvenc_h265",
+        "Level": "auto",
+        "Options": "rc-lookahead=10",
+        "Preset": "slowest",
+        "Profile": "auto",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 0.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[20:21:13] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[20:21:13]  - Intel microarchitecture Sandy Bridge
+[20:21:13]  - logical processor count: 4
+[20:21:13] Intel Quick Sync Video support: no
+[20:21:13] hb_scan: path=/home/gman72/Downloads/GX010632.MP4, title_index=1
+disc.c:333: failed opening UDF image /home/gman72/Downloads/GX010632.MP4
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/Downloads/GX010632.MP4/) failed
+[20:21:13] bd: not a bd - trying as a stream/file instead
+libdvdread: Can't stat /home/gman72/Downloads/GX010632.MP4
+No such file or directory
+libdvdread: Could not open /home/gman72/Downloads/GX010632.MP4
+libdvdnav: vm: failed to open/read the DVD
+[20:21:13] dvd: not a dvd - trying as a stream/file instead
+[20:21:13] hb_stream_open: open /home/gman72/Downloads/GX010632.MP4 failed
+[20:21:13] scan: unrecognized file type
+[20:21:13] libhb: scan thread found 0 valid title(s)
+[20:21:13] hb_dict_to_job: Title 1 doesn't exist
+[20:21:13] Finished work at: Fri Sep  3 20:21:13 2021
+
+[20:21:13] libhb: work result = 3

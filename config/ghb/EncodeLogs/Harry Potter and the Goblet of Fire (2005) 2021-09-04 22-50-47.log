@@ -1,0 +1,652 @@
+Handbrake Version: 1.4.0 (2021071900)
+[22:50:47] gtkgui: Preset: /General/HQ 1080p30 Surround
+[22:50:47] Starting work at: Sat Sep  4 22:50:47 2021
+
+[22:50:47] 1 job(s) to process
+[22:50:47] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            },
+            {
+                "Bitrate": 640,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "ac3",
+                "Gain": 0.0,
+                "Mixdown": "5point1",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "copy:ac3",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac",
+            "copy:ac3"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 2,
+                    "Minutes": 37,
+                    "Seconds": 5,
+                    "Ticks": 848294460
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/gman72/Downloads/omv/Harry Potter and the Goblet of Fire (2005).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 2,
+                    "crop-top": 0,
+                    "height": 800,
+                    "width": 1918
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Harry Potter and the Goblet of Fire (2005)"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/omv/media/movies/Harry Potter and the Goblet of Fire (2005)/Harry Potter and the Goblet of Fire (2005).mkv",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": true,
+            "Forced": true
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 0,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "slow",
+        "Profile": "high",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[22:50:47] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[22:50:47]  - Intel microarchitecture Sandy Bridge
+[22:50:47]  - logical processor count: 4
+[22:50:47] Intel Quick Sync Video support: no
+[22:50:47] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Goblet of Fire (2005)/Harry Potter and the Goblet of Fire (2005).mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Goblet of Fire (2005)/Harry Potter and the Goblet of Fire (2005).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Goblet of Fire (2005)/Harry Potter and the Goblet of Fire (2005).mkv/) failed
+[22:50:47] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[22:50:47] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Goblet of Fire (2005)/Harry Potter and the Goblet of Fire (2005).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2007-12-16T16:04:34.000000Z
+  Duration: 02:37:05.49, start: 0.000000, bitrate: 11228 kb/s
+  Stream #0:0(eng): Subtitle: subrip
+  Stream #0:1(eng): Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
+  Stream #0:2(eng): Video: h264 (High), yuv420p(progressive), 1920x800, SAR 1:1 DAR 12:5, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+[22:50:47] scan: decoding previews for title 1
+[22:50:47] scan: audio 0x1: dca, rate=48000Hz, bitrate=1536000 English (DTS) (5.1 ch) (1536 kbps)
+[22:50:48] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/0/2, aspect 2.40:1, PAR 1:1, color profile: 1-1-1
+[22:50:48] libhb: scan thread found 1 valid title(s)
+[22:50:48] Skipping subtitle scan.  No suitable subtitle tracks.
+[22:50:48] Starting Task: Encoding Pass
+[22:50:48] job configuration:
+[22:50:48]  * source
+[22:50:48]    + /home/gman72/omv/media/movies/Harry Potter and the Goblet of Fire (2005)/Harry Potter and the Goblet of Fire (2005).mkv
+[22:50:48]    + title 1, chapter(s) 1 to 1
+[22:50:48]    + container: matroska,webm
+[22:50:48]    + data rate: 11228 kbps
+[22:50:48]  * destination
+[22:50:48]    + /home/gman72/Downloads/omv/Harry Potter and the Goblet of Fire (2005).m4v
+[22:50:48]    + container: MPEG-4 (libavformat)
+[22:50:48]      + align initial A/V stream timestamps
+[22:50:48]  * video track
+[22:50:48]    + decoder: h264 8-bit
+[22:50:48]    + filters
+[22:50:48]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[22:50:48]      + Decomb (mode=39)
+[22:50:48]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[22:50:48]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[22:50:48]      + Crop and Scale (width=1918:height=800:crop-top=0:crop-bottom=0:crop-left=0:crop-right=2)
+[22:50:48]        + source: 1920 * 800, crop (0/0/0/2): 1918 * 800, scale: 1918 * 800
+[22:50:48]    + Output geometry
+[22:50:48]      + storage dimensions: 1918 x 800
+[22:50:48]      + pixel aspect ratio: 1 : 1
+[22:50:48]      + display dimensions: 1918 x 800
+[22:50:48]    + encoder: H.264 (libx264)
+[22:50:48]      + preset:  slow
+[22:50:48]      + profile: high
+[22:50:48]      + level:   4.0
+[22:50:48]      + quality: 20.00 (RF)
+[22:50:48]      + color profile: 1-1-1
+[22:50:48]  * audio track 1
+[22:50:48]    + decoder: English (DTS) (5.1 ch) (1536 kbps) (track 1, id 0x1)
+[22:50:48]      + bitrate: 1536 kbps, samplerate: 48000 Hz
+[22:50:48]    + mixdown: Stereo
+[22:50:48]    + encoder: AAC (libavcodec)
+[22:50:48]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[22:50:48]  * audio track 2
+[22:50:48]    + decoder: English (DTS) (5.1 ch) (1536 kbps) (track 1, id 0x1)
+[22:50:48]      + bitrate: 1536 kbps, samplerate: 48000 Hz
+[22:50:48]    + mixdown: 5.1 Channels
+[22:50:48]    + encoder: AC3 (libavcodec)
+[22:50:48]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[22:50:48] sync: expecting 225985 video frames
+[22:50:48] encx264: min-keyint: 24, keyint: 240
+[22:50:48] encx264: encoding at constant RF 20.000000
+[22:50:48] encx264: unparsed options: level=4.0:ref=5:direct=auto:subme=8:trellis=2:vbv-bufsize=31250:vbv-maxrate=25000:rc-lookahead=50
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile High, level 4.0, 4:2:0, 8-bit
+[22:50:48] sync: first pts video is 0
+[22:50:48] sync: Chapter 1 at frame 1 time 0
+[22:50:48] sync: first pts audio 0x1 is 0
+[22:50:48] sync: first pts audio 0x1 is 0
+[23:09:18] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[23:09:18]  - Intel microarchitecture Sandy Bridge
+[23:09:18]  - logical processor count: 4
+[23:09:18] Intel Quick Sync Video support: no
+[23:09:18] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv/) failed
+[23:09:18] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[23:09:18] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2009-11-05T06:56:48.000000Z
+  Duration: 02:18:14.46, start: 0.000000, bitrate: 12343 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 290.957000
+      Metadata:
+        title           : 00:00:00.000
+    Chapter #0:1: start 290.957000, end 616.783000
+      Metadata:
+        title           : 00:04:50.957
+    Chapter #0:2: start 616.783000, end 919.919000
+      Metadata:
+        title           : 00:10:16.783
+    Chapter #0:3: start 919.919000, end 1063.229000
+      Metadata:
+        title           : 00:15:19.919
+    Chapter #0:4: start 1063.229000, end 1252.418000
+      Metadata:
+        title           : 00:17:43.229
+    Chapter #0:5: start 1252.418000, end 1533.532000
+      Metadata:
+        title           : 00:20:52.418
+    Chapter #0:6: start 1533.532000, end 1687.352000
+      Metadata:
+        title           : 00:25:33.532
+    Chapter #0:7: start 1687.352000, end 1820.986000
+      Metadata:
+        title           : 00:28:07.352
+    Chapter #0:8: start 1820.986000, end 2093.925000
+      Metadata:
+        title           : 00:30:20.986
+    Chapter #0:9: start 2093.925000, end 2261.092000
+      Metadata:
+        title           : 00:34:53.925
+    Chapter #0:10: start 2261.092000, end 2508.506000
+      Metadata:
+        title           : 00:37:41.092
+    Chapter #0:11: start 2508.506000, end 2697.528000
+      Metadata:
+        title           : 00:41:48.506
+    Chapter #0:12: start 2697.528000, end 3057.388000
+      Metadata:
+        title           : 00:44:57.528
+    Chapter #0:13: start 3057.388000, end 3397.394000
+      Metadata:
+        title           : 00:50:57.388
+    Chapter #0:14: start 3397.394000, end 3808.638000
+      Metadata:
+        title           : 00:56:37.394
+    Chapter #0:15: start 3808.638000, end 4059.055000
+      Metadata:
+        title           : 01:03:28.638
+    Chapter #0:16: start 4059.055000, end 4276.105000
+      Metadata:
+        title           : 01:07:39.055
+    Chapter #0:17: start 4276.105000, end 4590.252000
+      Metadata:
+        title           : 01:11:16.105
+    Chapter #0:18: start 4590.252000, end 4756.585000
+      Metadata:
+        title           : 01:16:30.252
+    Chapter #0:19: start 4756.585000, end 5130.959000
+      Metadata:
+        title           : 01:19:16.585
+    Chapter #0:20: start 5130.959000, end 5490.652000
+      Metadata:
+        title           : 01:25:30.959
+    Chapter #0:21: start 5490.652000, end 5689.851000
+      Metadata:
+        title           : 01:31:30.652
+    Chapter #0:22: start 5689.851000, end 5862.356000
+      Metadata:
+        title           : 01:34:49.851
+    Chapter #0:23: start 5862.356000, end 6100.261000
+      Metadata:
+        title           : 01:37:42.356
+    Chapter #0:24: start 6100.261000, end 6359.353000
+      Metadata:
+        title           : 01:41:40.261
+    Chapter #0:25: start 6359.353000, end 6517.177000
+      Metadata:
+        title           : 01:45:59.353
+    Chapter #0:26: start 6517.177000, end 6760.921000
+      Metadata:
+        title           : 01:48:37.177
+    Chapter #0:27: start 6760.921000, end 7050.710000
+      Metadata:
+        title           : 01:52:40.921
+    Chapter #0:28: start 7050.710000, end 7413.239000
+      Metadata:
+        title           : 01:57:30.710
+    Chapter #0:29: start 7413.239000, end 7550.710000
+      Metadata:
+        title           : 02:03:33.239
+    Chapter #0:30: start 7550.710000, end 7706.866000
+      Metadata:
+        title           : 02:05:50.710
+    Chapter #0:31: start 7706.866000, end 8294.464000
+      Metadata:
+        title           : 02:08:26.866
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x816 [SAR 1:1 DAR 40:17], 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1(fre): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+  Stream #0:3(fre): Subtitle: subrip (default)
+    Metadata:
+      title           : Francais forced
+  Stream #0:4(fre): Subtitle: subrip
+    Metadata:
+      title           : Francais
+  Stream #0:5(eng): Subtitle: subrip
+    Metadata:
+      title           : English
+[23:09:18] scan: decoding previews for title 1
+[23:09:18] scan: audio 0x1: ac3, rate=48000Hz, bitrate=640000 Francais (AC3) (5.1 ch) (640 kbps)
+[23:09:18] scan: audio 0x2: ac3, rate=48000Hz, bitrate=640000 English (AC3) (5.1 ch) (640 kbps)
+[23:09:20] scan: 10 previews, 1920x816, 23.976 fps, autocrop = 0/0/0/0, aspect 2.35:1, PAR 1:1, color profile: 1-1-1
+[23:09:20] libhb: scan thread found 1 valid title(s)
+[23:09:20] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[23:09:20] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[23:10:33] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[23:10:33]  - Intel microarchitecture Sandy Bridge
+[23:10:33]  - logical processor count: 4
+[23:10:33] Intel Quick Sync Video support: no
+[23:10:33] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv/) failed
+[23:10:33] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[23:10:33] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Half-Blood Prince (2009)/Harry Potter and the Half-Blood Prince (2009).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2012-12-29T01:09:16.000000Z
+  Duration: 02:33:31.87, start: 0.000000, bitrate: 12238 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x800, SAR 1:1 DAR 12:5, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2: Subtitle: subrip (default)
+[23:10:33] scan: decoding previews for title 1
+[23:10:33] scan: audio 0x1: ac3, rate=48000Hz, bitrate=640000 Unknown (AC3) (5.1 ch) (640 kbps)
+[23:10:34] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/20/0, aspect 2.40:1, PAR 1:1, color profile: 1-1-1
+[23:10:34] libhb: scan thread found 1 valid title(s)
+[23:10:35] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[23:10:35] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[23:11:21] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[23:11:21]  - Intel microarchitecture Sandy Bridge
+[23:11:21]  - logical processor count: 4
+[23:11:21] Intel Quick Sync Video support: no
+[23:11:21] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv/) failed
+[23:11:21] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[23:11:21] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 1 (2010)/Harry Potter and the Deathly Hallows - Part 1 (2010).mkv':
+  Metadata:
+    title           : Harry Potter and the Deathly Hallows: Part 1 (2010)
+    encoder         : libebml v1.2.0 + libmatroska v1.1.0
+    creation_time   : 2011-04-05T11:58:39.000000Z
+  Duration: 02:26:08.91, start: 0.000000, bitrate: 10632 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 258.508000
+      Metadata:
+        title           : 00:00:00.000
+    Chapter #0:1: start 258.508000, end 586.628000
+      Metadata:
+        title           : 00:04:18.508
+    Chapter #0:2: start 586.628000, end 916.207000
+      Metadata:
+        title           : 00:09:46.628
+    Chapter #0:3: start 916.207000, end 1153.569000
+      Metadata:
+        title           : 00:15:16.207
+    Chapter #0:4: start 1153.569000, end 1564.229000
+      Metadata:
+        title           : 00:19:13.569
+    Chapter #0:5: start 1564.229000, end 1897.771000
+      Metadata:
+        title           : 00:26:04.229
+    Chapter #0:6: start 1897.771000, end 2143.308000
+      Metadata:
+        title           : 00:31:37.771
+    Chapter #0:7: start 2143.308000, end 2497.537000
+      Metadata:
+        title           : 00:35:43.308
+    Chapter #0:8: start 2497.537000, end 2745.618000
+      Metadata:
+        title           : 00:41:37.537
+    Chapter #0:9: start 2745.618000, end 3014.094000
+      Metadata:
+        title           : 00:45:45.618
+    Chapter #0:10: start 3014.094000, end 3302.716000
+      Metadata:
+        title           : 00:50:14.094
+    Chapter #0:11: start 3302.716000, end 3511.174000
+      Metadata:
+        title           : 00:55:02.716
+    Chapter #0:12: start 3511.174000, end 3821.359000
+      Metadata:
+        title           : 00:58:31.174
+    Chapter #0:13: start 3821.359000, end 4202.198000
+      Metadata:
+        title           : 01:03:41.359
+    Chapter #0:14: start 4202.198000, end 4470.924000
+      Metadata:
+        title           : 01:10:02.198
+    Chapter #0:15: start 4470.924000, end 4728.849000
+      Metadata:
+        title           : 01:14:30.924
+    Chapter #0:16: start 4728.849000, end 4937.599000
+      Metadata:
+        title           : 01:18:48.849
+    Chapter #0:17: start 4937.599000, end 5095.090000
+      Metadata:
+        title           : 01:22:17.599
+    Chapter #0:18: start 5095.090000, end 5283.194000
+      Metadata:
+        title           : 01:24:55.090
+    Chapter #0:19: start 5283.194000, end 5554.173000
+      Metadata:
+        title           : 01:28:03.194
+    Chapter #0:20: start 5554.173000, end 5860.229000
+      Metadata:
+        title           : 01:32:34.173
+    Chapter #0:21: start 5860.229000, end 6157.568000
+      Metadata:
+        title           : 01:37:40.229
+    Chapter #0:22: start 6157.568000, end 6474.134000
+      Metadata:
+        title           : 01:42:37.568
+    Chapter #0:23: start 6474.134000, end 6828.112000
+      Metadata:
+        title           : 01:47:54.134
+    Chapter #0:24: start 6828.112000, end 7050.960000
+      Metadata:
+        title           : 01:53:48.112
+    Chapter #0:25: start 7050.960000, end 7287.989000
+      Metadata:
+        title           : 01:57:30.960
+    Chapter #0:26: start 7287.989000, end 7542.159000
+      Metadata:
+        title           : 02:01:27.989
+    Chapter #0:27: start 7542.159000, end 7782.733000
+      Metadata:
+        title           : 02:05:42.159
+    Chapter #0:28: start 7782.733000, end 7996.029000
+      Metadata:
+        title           : 02:09:42.733
+    Chapter #0:29: start 7996.029000, end 8087.120000
+      Metadata:
+        title           : 02:13:16.029
+    Chapter #0:30: start 8087.120000, end 8768.906000
+      Metadata:
+        title           : 02:14:47.120
+  Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+    Metadata:
+      title           : Harry Potter and the Deathly Hallows Part 1 2010 1080p BluRay x264-EbP
+  Stream #0:1(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+    Metadata:
+      title           : English DD5.1 @ 640 Kbps
+  Stream #0:2(eng): Subtitle: subrip
+    Metadata:
+      title           : English SDH
+  Stream #0:3(ara): Subtitle: subrip
+    Metadata:
+      title           : Arabian
+  Stream #0:4(bul): Subtitle: subrip
+    Metadata:
+      title           : Bulgarian
+  Stream #0:5(cze): Subtitle: subrip
+    Metadata:
+      title           : Czech
+  Stream #0:6(hrv): Subtitle: subrip
+    Metadata:
+      title           : Croatian
+  Stream #0:7(dan): Subtitle: subrip
+    Metadata:
+      title           : Danish
+  Stream #0:8(fin): Subtitle: subrip
+    Metadata:
+      title           : Finnish
+  Stream #0:9(fre): Subtitle: subrip
+    Metadata:
+      title           : French
+  Stream #0:10(ger): Subtitle: subrip
+    Metadata:
+      title           : German SDH
+  Stream #0:11(ind): Subtitle: subrip
+    Metadata:
+      title           : Indonesian
+  Stream #0:12(ita): Subtitle: subrip
+    Metadata:
+      title           : Italian SDH
+  Stream #0:13(mac): Subtitle: subrip
+    Metadata:
+      title           : Macedonian
+  Stream #0:14(nor): Subtitle: subrip
+    Metadata:
+      title           : Norwegian
+  Stream #0:15(pol): Subtitle: subrip
+    Metadata:
+      title           : Polish
+  Stream #0:16(por): Subtitle: subrip
+    Metadata:
+      title           : Portuguese
+  Stream #0:17(rum): Subtitle: subrip
+    Metadata:
+      title           : Romanian
+  Stream #0:18(srp): Subtitle: subrip
+    Metadata:
+      title           : Serbian
+  Stream #0:19(slv): Subtitle: subrip
+    Metadata:
+      title           : Slovenian
+  Stream #0:20(spa): Subtitle: subrip
+    Metadata:
+      title           : Spanish
+  Stream #0:21(swe): Subtitle: subrip
+    Metadata:
+      title           : Swedish
+  Stream #0:22(vie): Subtitle: subrip
+    Metadata:
+      title           : Vietnamise
+[23:11:21] scan: decoding previews for title 1
+[23:11:21] scan: audio 0x1: ac3, rate=48000Hz, bitrate=640000 English (AC3) (5.1 ch) (640 kbps)
+[23:11:23] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/0/0, aspect 2.40:1, PAR 1:1, color profile: 1-1-1
+[23:11:23] libhb: scan thread found 1 valid title(s)
+[23:11:23] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[23:11:23] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[23:11:43] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[23:11:43]  - Intel microarchitecture Sandy Bridge
+[23:11:43]  - logical processor count: 4
+[23:11:43] Intel Quick Sync Video support: no
+[23:11:43] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv/) failed
+[23:11:43] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[23:11:43] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv':
+  Metadata:
+    encoder         : libebml v1.2.1 + libmatroska v1.1.1
+    creation_time   : 2011-10-30T03:55:18.000000Z
+  Duration: 02:10:26.90, start: 0.000000, bitrate: 11994 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1920x800, SAR 1:1 DAR 12:5, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1: Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
+[23:11:43] scan: decoding previews for title 1
+[23:11:43] scan: audio 0x1: dca, rate=48000Hz, bitrate=1536000 Unknown (DTS) (5.1 ch) (1536 kbps)
+[23:11:45] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/0/0, aspect 2.40:1, PAR 1:1, color profile: 1-1-1
+[23:11:45] libhb: scan thread found 1 valid title(s)
+[23:11:45] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[23:11:45] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[07:52:14] reader: done. 1 scr changes
+[07:52:19] work: average encoding speed for job is 6.954679 fps
+[07:52:19] comb detect: heavy 83 | light 668 | uncombed 225233 | total 225984
+[07:52:19] decomb: deinterlaced 83 | blended 668 | unfiltered 225233 | total 225984
+[07:52:19] vfr: 225984 frames output, 0 dropped and 0 duped for CFR/PFR
+[07:52:19] vfr: lost time: 0 (0 frames)
+[07:52:19] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[07:52:19] dca-decoder done: 883640 frames, 0 decoder errors
+[07:52:19] dca-decoder done: 883640 frames, 0 decoder errors
+[07:52:19] h264-decoder done: 225984 frames, 0 decoder errors
+[07:52:19] sync: got 225984 frames, 225985 expected
+[07:52:19] sync: framerate min 23.810 fps, max 23.976 fps, avg 23.976 fps
+x264 [info]: frame I:2816  Avg QP:15.56  size: 96661
+x264 [info]: frame P:70424 Avg QP:18.64  size: 37014
+x264 [info]: frame B:152744 Avg QP:20.62  size: 13386
+x264 [info]: consecutive B-frames:  9.0%  1.8%  2.8% 86.5%
+x264 [info]: mb I  I16..4:  9.7% 85.0%  5.3%
+x264 [info]: mb P  I16..4:  6.2% 18.1%  0.6%  P16..4: 42.9% 12.7%  5.8%  0.0%  0.0%    skip:13.8%
+x264 [info]: mb B  I16..4:  1.2%  2.4%  0.1%  B16..8: 41.5%  5.3%  0.8%  direct: 6.2%  skip:42.5%  L0:46.3% L1:46.4% BI: 7.3%
+x264 [info]: 8x8 transform intra:72.2% inter:73.6%
+x264 [info]: direct mvs  spatial:99.9% temporal:0.1%
+x264 [info]: coded y,uvDC,uvAC intra: 47.7% 54.8% 17.6% inter: 17.4% 21.3% 0.4%
+x264 [info]: i16 v,h,dc,p: 38% 20% 16% 27%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 16% 10% 25%  7%  9%  9%  9%  8%  9%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 16% 10% 12%  8% 13% 12% 11%  8%  9%
+x264 [info]: i8c dc,h,v,p: 56% 19% 19%  6%
+x264 [info]: Weighted P-Frames: Y:4.4% UV:2.6%
+x264 [info]: ref P L0: 53.9%  9.0% 19.9%  8.4%  7.3%  1.4%  0.0%
+x264 [info]: ref B L0: 80.5% 13.6%  4.5%  1.5%
+x264 [info]: ref B L1: 95.5%  4.5%
+x264 [info]: kb/s:4178.93
+[07:52:20] mux: track 0, 225984 frames, 4923416484 bytes, 4178.79 kbps, fifo 2048
+[07:52:20] mux: track 1, 441821 frames, 188984545 bytes, 160.40 kbps, fifo 4096
+[07:52:20] mux: track 2, 294546 frames, 754037760 bytes, 640.00 kbps, fifo 4096
+[07:52:20] Finished work at: Sun Sep  5 07:52:20 2021
+
+[07:52:20] libhb: work result = 0

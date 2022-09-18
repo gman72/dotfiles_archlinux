@@ -1,0 +1,61 @@
+config['mysql'] = {'host':'192.168.1.120', 'user':'root', 'passwd':'3295jant', 'database':'Amazon'}
+-. . -..- - / . -. - .-. -.--
+t = config['mysql']
+-. . -..- - / . -. - .-. -.--
+t.get(ip)
+-. . -..- - / . -. - .-. -.--
+t.get('ip')
+-. . -..- - / . -. - .-. -.--
+t.get('host')
+-. . -..- - / . -. - .-. -.--
+t.get('user')
+-. . -..- - / . -. - .-. -.--
+with open('config.ini', 'w') as configfile:
+    config.write(configfile)
+    
+-. . -..- - / . -. - .-. -.--
+t1 = config['amzdocker']
+-. . -..- - / . -. - .-. -.--
+exit
+-. . -..- - / . -. - .-. -.--
+t = config.read('config.ini')
+-. . -..- - / . -. - .-. -.--
+t1 = t['amzdocker']
+-. . -..- - / . -. - .-. -.--
+t['amzdocker']
+-. . -..- - / . -. - .-. -.--
+type[t]
+-. . -..- - / . -. - .-. -.--
+config['mysql']['host']
+-. . -..- - / . -. - .-. -.--
+config['amzdocker']['ip']
+-. . -..- - / . -. - .-. -.--
+config.sections()
+-. . -..- - / . -. - .-. -.--
+import configparser
+-. . -..- - / . -. - .-. -.--
+config = configparser.ConfigParser()
+-. . -..- - / . -. - .-. -.--
+config = configparser.ConfigParser(interpolation=ExtendedInterpolation())
+-. . -..- - / . -. - .-. -.--
+from configparser import ConfigParser, ExtendedInterpolation
+-. . -..- - / . -. - .-. -.--
+config = ConfigParser(interpolation=ExtendedInterpolation())
+-. . -..- - / . -. - .-. -.--
+config['TA']['url']
+-. . -..- - / . -. - .-. -.--
+config['TA']['dwnld_url']
+-. . -..- - / . -. - .-. -.--
+config['TA']['complete_url']
+-. . -..- - / . -. - .-. -.--
+config['TA']['qry_url']
+-. . -..- - / . -. - .-. -.--
+config['TAxpth']['prdfnd']
+-. . -..- - / . -. - .-. -.--
+config['TAxpth']['prdchk']
+-. . -..- - / . -. - .-. -.--
+config.read('config.ini')
+-. . -..- - / . -. - .-. -.--
+config['TAxpth']['delall']
+-. . -..- - / . -. - .-. -.--
+config['TAxpth']['delempty']

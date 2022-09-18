@@ -1,0 +1,197 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="tnyt.py" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/adb/tnyt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="644" lean-forward="true" selection-start-line="644" selection-end-line="644" />
+              <folding>
+                <element signature="e#9220#10922#0" />
+                <element signature="e#10949#11702#0" />
+                <element signature="e#11726#13414#0" />
+                <element signature="e#13443#15035#0" />
+                <element signature="e#15064#16739#0" />
+                <element signature="e#16768#18167#0" />
+                <element signature="e#18209#19568#0" />
+                <element signature="e#19598#19900#0" />
+                <element signature="e#19945#20772#0" />
+                <element signature="e#20802#21574#0" />
+                <element signature="e#21603#23173#0" />
+                <element signature="e#23201#25465#0" />
+                <element signature="e#25499#26408#0" />
+                <element signature="e#26435#27093#0" />
+                <element signature="e#27132#27267#0" />
+                <element signature="e#27288#27466#0" />
+                <element signature="e#27493#28261#0" />
+                <element signature="e#28292#28838#0" />
+                <element signature="e#28877#29520#0" />
+                <element signature="e#29556#31236#0" />
+                <element signature="e#31292#31626#0" />
+                <element signature="e#31660#32493#0" />
+                <element signature="e#32535#33594#0" />
+                <element signature="e#33626#34027#0" />
+                <element signature="e#34058#34579#0" />
+                <element signature="e#34612#35236#0" />
+                <element signature="e#35270#36627#0" />
+                <element signature="e#36663#37561#0" />
+                <element signature="e#37592#38505#0" />
+                <element signature="e#38536#39266#0" />
+                <element signature="e#39289#39795#0" />
+                <element signature="e#39824#40081#0" />
+                <element signature="e#40133#41713#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="1" lastUsed="1644024793346" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/adb/tnyt.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tnyt.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tnyt.py" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16290322" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40029615" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1856" height="377" key="GridCell.Tab.0.bottom" timestamp="1644244981947">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.0.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981947" />
+    <state width="1856" height="377" key="GridCell.Tab.0.center" timestamp="1644244981946">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.0.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981946" />
+    <state width="1856" height="377" key="GridCell.Tab.0.left" timestamp="1644244981946">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.0.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981946" />
+    <state width="1856" height="377" key="GridCell.Tab.0.right" timestamp="1644244981946">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.0.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981946" />
+    <state width="1856" height="377" key="GridCell.Tab.1.bottom" timestamp="1644244981846">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.1.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981846" />
+    <state width="1856" height="377" key="GridCell.Tab.1.center" timestamp="1644244981846">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.1.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981846" />
+    <state width="1856" height="377" key="GridCell.Tab.1.left" timestamp="1644244981846">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.1.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981846" />
+    <state width="1856" height="377" key="GridCell.Tab.1.right" timestamp="1644244981846">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="377" key="GridCell.Tab.1.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1644244981846" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/adb/tnyt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="644" lean-forward="true" selection-start-line="644" selection-end-line="644" />
+          <folding>
+            <element signature="e#9220#10922#0" />
+            <element signature="e#10949#11702#0" />
+            <element signature="e#11726#13414#0" />
+            <element signature="e#13443#15035#0" />
+            <element signature="e#15064#16739#0" />
+            <element signature="e#16768#18167#0" />
+            <element signature="e#18209#19568#0" />
+            <element signature="e#19598#19900#0" />
+            <element signature="e#19945#20772#0" />
+            <element signature="e#20802#21574#0" />
+            <element signature="e#21603#23173#0" />
+            <element signature="e#23201#25465#0" />
+            <element signature="e#25499#26408#0" />
+            <element signature="e#26435#27093#0" />
+            <element signature="e#27132#27267#0" />
+            <element signature="e#27288#27466#0" />
+            <element signature="e#27493#28261#0" />
+            <element signature="e#28292#28838#0" />
+            <element signature="e#28877#29520#0" />
+            <element signature="e#29556#31236#0" />
+            <element signature="e#31292#31626#0" />
+            <element signature="e#31660#32493#0" />
+            <element signature="e#32535#33594#0" />
+            <element signature="e#33626#34027#0" />
+            <element signature="e#34058#34579#0" />
+            <element signature="e#34612#35236#0" />
+            <element signature="e#35270#36627#0" />
+            <element signature="e#36663#37561#0" />
+            <element signature="e#37592#38505#0" />
+            <element signature="e#38536#39266#0" />
+            <element signature="e#39289#39795#0" />
+            <element signature="e#39824#40081#0" />
+            <element signature="e#40133#41713#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

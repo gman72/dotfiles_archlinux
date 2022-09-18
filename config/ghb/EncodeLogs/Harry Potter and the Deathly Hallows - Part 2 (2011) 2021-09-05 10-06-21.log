@@ -1,0 +1,270 @@
+Handbrake Version: 1.4.0 (2021071900)
+[10:06:21] gtkgui: Preset: /General/HQ 1080p30 Surround
+[10:06:21] Starting work at: Sun Sep  5 10:06:21 2021
+
+[10:06:21] 1 job(s) to process
+[10:06:21] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            },
+            {
+                "Bitrate": 640,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "ac3",
+                "Gain": 0.0,
+                "Mixdown": "5point1",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "copy:ac3",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac",
+            "copy:ac3"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 2,
+                    "Minutes": 10,
+                    "Seconds": 26,
+                    "Ticks": 704420640
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/gman72/Downloads/omv/Harry Potter and the Deathly Hallows - Part 2 (2011).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 800,
+                    "width": 1920
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Harry Potter and the Deathly Hallows - Part 2 (2011)"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 0,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "slow",
+        "Profile": "high",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[10:06:21] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[10:06:21]  - Intel microarchitecture Sandy Bridge
+[10:06:21]  - logical processor count: 4
+[10:06:21] Intel Quick Sync Video support: no
+[10:06:21] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv/) failed
+[10:06:21] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[10:06:21] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv':
+  Metadata:
+    encoder         : libebml v1.2.1 + libmatroska v1.1.1
+    creation_time   : 2011-10-30T03:55:18.000000Z
+  Duration: 02:10:26.90, start: 0.000000, bitrate: 11994 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1920x800, SAR 1:1 DAR 12:5, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1: Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
+[10:06:21] scan: decoding previews for title 1
+[10:06:21] scan: audio 0x1: dca, rate=48000Hz, bitrate=1536000 Unknown (DTS) (5.1 ch) (1536 kbps)
+[10:06:22] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/0/0, aspect 2.40:1, PAR 1:1, color profile: 1-1-1
+[10:06:22] libhb: scan thread found 1 valid title(s)
+[10:06:22] Starting Task: Encoding Pass
+[10:06:22] Skipping crop/scale filter
+[10:06:22] job configuration:
+[10:06:22]  * source
+[10:06:22]    + /home/gman72/omv/media/movies/Harry Potter and the Deathly Hallows - Part 2 (2011)/Harry Potter and the Deathly Hallows - Part 2 (2011).mkv
+[10:06:22]    + title 1, chapter(s) 1 to 1
+[10:06:22]    + container: matroska,webm
+[10:06:22]    + data rate: 11994 kbps
+[10:06:22]  * destination
+[10:06:22]    + /home/gman72/Downloads/omv/Harry Potter and the Deathly Hallows - Part 2 (2011).m4v
+[10:06:22]    + container: MPEG-4 (libavformat)
+[10:06:22]      + align initial A/V stream timestamps
+[10:06:22]  * video track
+[10:06:22]    + decoder: h264 8-bit
+[10:06:22]    + filters
+[10:06:22]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[10:06:22]      + Decomb (mode=39)
+[10:06:22]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[10:06:22]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[10:06:22]    + Output geometry
+[10:06:22]      + storage dimensions: 1920 x 800
+[10:06:22]      + pixel aspect ratio: 1 : 1
+[10:06:22]      + display dimensions: 1920 x 800
+[10:06:22]    + encoder: H.264 (libx264)
+[10:06:22]      + preset:  slow
+[10:06:22]      + profile: high
+[10:06:22]      + level:   4.0
+[10:06:22]      + quality: 20.00 (RF)
+[10:06:22]      + color profile: 1-1-1
+[10:06:22]  * audio track 1
+[10:06:22]    + decoder: Unknown (DTS) (5.1 ch) (1536 kbps) (track 1, id 0x1)
+[10:06:22]      + bitrate: 1536 kbps, samplerate: 48000 Hz
+[10:06:22]    + mixdown: Stereo
+[10:06:22]    + encoder: AAC (libavcodec)
+[10:06:22]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[10:06:22]  * audio track 2
+[10:06:22]    + decoder: Unknown (DTS) (5.1 ch) (1536 kbps) (track 1, id 0x1)
+[10:06:22]      + bitrate: 1536 kbps, samplerate: 48000 Hz
+[10:06:22]    + mixdown: 5.1 Channels
+[10:06:22]    + encoder: AC3 (libavcodec)
+[10:06:22]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[10:06:22] sync: expecting 187657 video frames
+[10:06:22] encx264: min-keyint: 24, keyint: 240
+[10:06:22] encx264: encoding at constant RF 20.000000
+[10:06:22] encx264: unparsed options: level=4.0:ref=5:direct=auto:subme=8:trellis=2:vbv-bufsize=31250:vbv-maxrate=25000:rc-lookahead=50
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile High, level 4.0, 4:2:0, 8-bit
+[10:06:22] sync: first pts video is 0
+[10:06:22] sync: Chapter 1 at frame 1 time 0
+[10:06:22] sync: first pts audio 0x1 is 0
+[10:06:22] sync: first pts audio 0x1 is 0
+[14:19:23] reader: done. 1 scr changes
+[14:19:27] work: average encoding speed for job is 12.358001 fps
+[14:19:27] comb detect: heavy 85 | light 1693 | uncombed 185880 | total 187658
+[14:19:27] decomb: deinterlaced 85 | blended 1693 | unfiltered 185880 | total 187658
+[14:19:27] vfr: 187658 frames output, 0 dropped and 0 duped for CFR/PFR
+[14:19:27] vfr: lost time: 0 (0 frames)
+[14:19:27] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[14:19:27] dca-decoder done: 733769 frames, 0 decoder errors
+[14:19:27] dca-decoder done: 733769 frames, 0 decoder errors
+[14:19:27] h264-decoder done: 187658 frames, 0 decoder errors
+[14:19:27] sync: got 187658 frames, 187657 expected
+[14:19:27] sync: framerate min 23.976 fps, max 23.976 fps, avg 23.976 fps
+x264 [info]: frame I:2252  Avg QP:15.63  size:145290
+x264 [info]: frame P:62678 Avg QP:18.93  size: 41304
+x264 [info]: frame B:122728 Avg QP:20.48  size: 12882
+x264 [info]: consecutive B-frames: 11.4%  3.6%  2.2% 82.9%
+x264 [info]: mb I  I16..4:  9.2% 78.8% 12.0%
+x264 [info]: mb P  I16..4:  2.1%  9.2%  0.5%  P16..4: 42.2% 15.6%  7.7%  0.0%  0.0%    skip:22.7%
+x264 [info]: mb B  I16..4:  0.1%  1.0%  0.1%  B16..8: 48.4%  4.9%  0.9%  direct: 3.3%  skip:41.3%  L0:45.3% L1:50.2% BI: 4.5%
+x264 [info]: 8x8 transform intra:78.7% inter:64.5%
+x264 [info]: direct mvs  spatial:99.9% temporal:0.1%
+x264 [info]: coded y,uvDC,uvAC intra: 67.7% 61.6% 22.9% inter: 18.5% 17.7% 0.4%
+x264 [info]: i16 v,h,dc,p: 35% 16% 15% 33%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11%  9% 21%  8% 11% 10% 10%  9% 10%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13%  9% 11%  9% 13% 12% 12% 10% 12%
+x264 [info]: i8c dc,h,v,p: 56% 20% 18%  6%
+x264 [info]: Weighted P-Frames: Y:4.9% UV:3.2%
+x264 [info]: ref P L0: 57.4%  9.7% 18.7%  6.9%  6.2%  1.1%  0.0%
+x264 [info]: ref B L0: 84.1% 11.9%  3.1%  0.9%
+x264 [info]: ref B L1: 96.0%  4.0%
+x264 [info]: kb/s:4596.52
+[14:19:27] mux: track 0, 187658 frames, 4496987762 bytes, 4596.44 kbps, fifo 4096
+[14:19:27] mux: track 1, 366885 frames, 157131020 bytes, 160.61 kbps, fifo 8192
+[14:19:27] mux: track 2, 244589 frames, 626147840 bytes, 640.00 kbps, fifo 4096
+[14:19:27] Finished work at: Sun Sep  5 14:19:27 2021
+
+[14:19:27] libhb: work result = 0

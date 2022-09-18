@@ -1,0 +1,8 @@
+2022/09/16-09:37:07.944 322b1 Reusing MANIFEST /home/gman72/.config/Microsoft/Microsoft Teams/IndexedDB/https_usc-powerpoint.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/16-09:37:07.945 322b1 Recovering log #4
+2022/09/16-09:37:07.945 322b1 Reusing old log /home/gman72/.config/Microsoft/Microsoft Teams/IndexedDB/https_usc-powerpoint.officeapps.live.com_0.indexeddb.leveldb/000004.log 
+2022/09/16-09:54:25.528 dee6 Level-0 table #8: started
+2022/09/16-09:54:25.528 dee6 Level-0 table #8: 0 bytes OK
+2022/09/16-09:54:25.531 dee6 Delete type=0 #4
+2022/09/16-09:54:25.531 dee6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/16-09:54:25.531 dee6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,667 @@
+Handbrake Version: 1.4.0 (2021071900)
+[07:52:20] gtkgui: Preset: /General/HQ 1080p30 Surround
+[07:52:20] Starting work at: Sun Sep  5 07:52:20 2021
+
+[07:52:20] 1 job(s) to process
+[07:52:20] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            },
+            {
+                "Bitrate": 0,
+                "DRC": 0.0,
+                "Encoder": "copy:ac3",
+                "Mixdown": "none",
+                "PresetEncoder": "copy:ac3",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac",
+            "copy:ac3"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 51,
+                    "Ticks": 26186130
+                },
+                "Name": "00:00:00.000"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 26,
+                    "Ticks": 29324340
+                },
+                "Name": "00:04:50.957"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 3,
+                    "Ticks": 27282240
+                },
+                "Name": "00:10:16.783"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 23,
+                    "Ticks": 12897900
+                },
+                "Name": "00:15:19.919"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 9,
+                    "Ticks": 17027010
+                },
+                "Name": "00:17:43.229"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 41,
+                    "Ticks": 25300260
+                },
+                "Name": "00:20:52.418"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 34,
+                    "Ticks": 13843800
+                },
+                "Name": "00:25:33.532"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 14,
+                    "Ticks": 12027060
+                },
+                "Name": "00:28:07.352"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 33,
+                    "Ticks": 24564510
+                },
+                "Name": "00:30:20.986"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 47,
+                    "Ticks": 15045030
+                },
+                "Name": "00:34:53.925"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 7,
+                    "Ticks": 22267260
+                },
+                "Name": "00:37:41.092"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 9,
+                    "Ticks": 17011980
+                },
+                "Name": "00:41:48.506"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 0,
+                    "Ticks": 32387400
+                },
+                "Name": "00:44:57.528"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 40,
+                    "Ticks": 30600540
+                },
+                "Name": "00:50:57.388"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 51,
+                    "Ticks": 37011960
+                },
+                "Name": "00:56:37.394"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 10,
+                    "Ticks": 22537530
+                },
+                "Name": "01:03:28.638"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 37,
+                    "Ticks": 19534500
+                },
+                "Name": "01:07:39.055"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 5,
+                    "Seconds": 14,
+                    "Ticks": 28273230
+                },
+                "Name": "01:11:16.105"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 46,
+                    "Ticks": 14969970
+                },
+                "Name": "01:16:30.252"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 14,
+                    "Ticks": 33693660
+                },
+                "Name": "01:19:16.585"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 0,
+                    "Ticks": 32372370
+                },
+                "Name": "01:25:30.959"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 19,
+                    "Ticks": 17927910
+                },
+                "Name": "01:31:30.652"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 53,
+                    "Ticks": 15525450
+                },
+                "Name": "01:34:49.851"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 3,
+                    "Seconds": 58,
+                    "Ticks": 21411450
+                },
+                "Name": "01:37:42.356"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 19,
+                    "Ticks": 23318280
+                },
+                "Name": "01:41:40.261"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 38,
+                    "Ticks": 14204160
+                },
+                "Name": "01:45:59.353"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 4,
+                    "Ticks": 21936960
+                },
+                "Name": "01:48:37.177"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 50,
+                    "Ticks": 26081010
+                },
+                "Name": "01:52:40.921"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 6,
+                    "Seconds": 3,
+                    "Ticks": 32627610
+                },
+                "Name": "01:57:30.710"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 17,
+                    "Ticks": 12372390
+                },
+                "Name": "02:03:33.239"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 2,
+                    "Seconds": 36,
+                    "Ticks": 14054040
+                },
+                "Name": "02:05:50.710"
+            },
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 9,
+                    "Seconds": 48,
+                    "Ticks": 52883820
+                },
+                "Name": "02:08:26.866"
+            }
+        ],
+        "ChapterMarkers": true,
+        "File": "/home/gman72/Downloads/omv/Harry Potter and the Order of the Phoenix (2007).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 816,
+                    "width": 1920
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Harry Potter and the Order of the Phoenix (2007)"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv",
+        "Range": {
+            "End": 32,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": true,
+            "Forced": true
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 0,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "slow",
+        "Profile": "high",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[07:52:20] CPU: Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz
+[07:52:20]  - Intel microarchitecture Sandy Bridge
+[07:52:20]  - logical processor count: 4
+[07:52:20] Intel Quick Sync Video support: no
+[07:52:20] hb_scan: path=/home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv/) failed
+[07:52:20] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[07:52:20] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv':
+  Metadata:
+    encoder         : libebml v0.7.7 + libmatroska v0.8.1
+    creation_time   : 2009-11-05T06:56:48.000000Z
+  Duration: 02:18:14.46, start: 0.000000, bitrate: 12343 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 290.957000
+      Metadata:
+        title           : 00:00:00.000
+    Chapter #0:1: start 290.957000, end 616.783000
+      Metadata:
+        title           : 00:04:50.957
+    Chapter #0:2: start 616.783000, end 919.919000
+      Metadata:
+        title           : 00:10:16.783
+    Chapter #0:3: start 919.919000, end 1063.229000
+      Metadata:
+        title           : 00:15:19.919
+    Chapter #0:4: start 1063.229000, end 1252.418000
+      Metadata:
+        title           : 00:17:43.229
+    Chapter #0:5: start 1252.418000, end 1533.532000
+      Metadata:
+        title           : 00:20:52.418
+    Chapter #0:6: start 1533.532000, end 1687.352000
+      Metadata:
+        title           : 00:25:33.532
+    Chapter #0:7: start 1687.352000, end 1820.986000
+      Metadata:
+        title           : 00:28:07.352
+    Chapter #0:8: start 1820.986000, end 2093.925000
+      Metadata:
+        title           : 00:30:20.986
+    Chapter #0:9: start 2093.925000, end 2261.092000
+      Metadata:
+        title           : 00:34:53.925
+    Chapter #0:10: start 2261.092000, end 2508.506000
+      Metadata:
+        title           : 00:37:41.092
+    Chapter #0:11: start 2508.506000, end 2697.528000
+      Metadata:
+        title           : 00:41:48.506
+    Chapter #0:12: start 2697.528000, end 3057.388000
+      Metadata:
+        title           : 00:44:57.528
+    Chapter #0:13: start 3057.388000, end 3397.394000
+      Metadata:
+        title           : 00:50:57.388
+    Chapter #0:14: start 3397.394000, end 3808.638000
+      Metadata:
+        title           : 00:56:37.394
+    Chapter #0:15: start 3808.638000, end 4059.055000
+      Metadata:
+        title           : 01:03:28.638
+    Chapter #0:16: start 4059.055000, end 4276.105000
+      Metadata:
+        title           : 01:07:39.055
+    Chapter #0:17: start 4276.105000, end 4590.252000
+      Metadata:
+        title           : 01:11:16.105
+    Chapter #0:18: start 4590.252000, end 4756.585000
+      Metadata:
+        title           : 01:16:30.252
+    Chapter #0:19: start 4756.585000, end 5130.959000
+      Metadata:
+        title           : 01:19:16.585
+    Chapter #0:20: start 5130.959000, end 5490.652000
+      Metadata:
+        title           : 01:25:30.959
+    Chapter #0:21: start 5490.652000, end 5689.851000
+      Metadata:
+        title           : 01:31:30.652
+    Chapter #0:22: start 5689.851000, end 5862.356000
+      Metadata:
+        title           : 01:34:49.851
+    Chapter #0:23: start 5862.356000, end 6100.261000
+      Metadata:
+        title           : 01:37:42.356
+    Chapter #0:24: start 6100.261000, end 6359.353000
+      Metadata:
+        title           : 01:41:40.261
+    Chapter #0:25: start 6359.353000, end 6517.177000
+      Metadata:
+        title           : 01:45:59.353
+    Chapter #0:26: start 6517.177000, end 6760.921000
+      Metadata:
+        title           : 01:48:37.177
+    Chapter #0:27: start 6760.921000, end 7050.710000
+      Metadata:
+        title           : 01:52:40.921
+    Chapter #0:28: start 7050.710000, end 7413.239000
+      Metadata:
+        title           : 01:57:30.710
+    Chapter #0:29: start 7413.239000, end 7550.710000
+      Metadata:
+        title           : 02:03:33.239
+    Chapter #0:30: start 7550.710000, end 7706.866000
+      Metadata:
+        title           : 02:05:50.710
+    Chapter #0:31: start 7706.866000, end 8294.464000
+      Metadata:
+        title           : 02:08:26.866
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x816 [SAR 1:1 DAR 40:17], 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+  Stream #0:1(fre): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+  Stream #0:3(fre): Subtitle: subrip (default)
+    Metadata:
+      title           : Francais forced
+  Stream #0:4(fre): Subtitle: subrip
+    Metadata:
+      title           : Francais
+  Stream #0:5(eng): Subtitle: subrip
+    Metadata:
+      title           : English
+[07:52:20] scan: decoding previews for title 1
+[07:52:20] scan: audio 0x1: ac3, rate=48000Hz, bitrate=640000 Francais (AC3) (5.1 ch) (640 kbps)
+[07:52:20] scan: audio 0x2: ac3, rate=48000Hz, bitrate=640000 English (AC3) (5.1 ch) (640 kbps)
+[07:52:21] scan: 10 previews, 1920x816, 23.976 fps, autocrop = 0/0/0/0, aspect 2.35:1, PAR 1:1, color profile: 1-1-1
+[07:52:21] libhb: scan thread found 1 valid title(s)
+[07:52:21] Skipping subtitle scan.  No suitable subtitle tracks.
+[07:52:21] Starting Task: Encoding Pass
+[07:52:21] Skipping crop/scale filter
+[07:52:21] job configuration:
+[07:52:21]  * source
+[07:52:21]    + /home/gman72/omv/media/movies/Harry Potter and the Order of the Phoenix (2007)/Harry Potter and the Order of the Phoenix (2007).mkv
+[07:52:21]    + title 1, chapter(s) 1 to 32
+[07:52:21]    + container: matroska,webm
+[07:52:21]    + data rate: 12343 kbps
+[07:52:21]  * destination
+[07:52:21]    + /home/gman72/Downloads/omv/Harry Potter and the Order of the Phoenix (2007).m4v
+[07:52:21]    + container: MPEG-4 (libavformat)
+[07:52:21]      + align initial A/V stream timestamps
+[07:52:21]      + chapter markers
+[07:52:21]  * video track
+[07:52:21]    + decoder: h264 8-bit
+[07:52:21]    + filters
+[07:52:21]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[07:52:21]      + Decomb (mode=39)
+[07:52:21]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[07:52:21]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[07:52:21]    + Output geometry
+[07:52:21]      + storage dimensions: 1920 x 816
+[07:52:21]      + pixel aspect ratio: 1 : 1
+[07:52:21]      + display dimensions: 1920 x 816
+[07:52:21]    + encoder: H.264 (libx264)
+[07:52:21]      + preset:  slow
+[07:52:21]      + profile: high
+[07:52:21]      + level:   4.0
+[07:52:21]      + quality: 20.00 (RF)
+[07:52:21]      + color profile: 1-1-1
+[07:52:21]  * audio track 1
+[07:52:21]    + decoder: Francais (AC3) (5.1 ch) (640 kbps) (track 1, id 0x1)
+[07:52:21]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[07:52:21]    + mixdown: Stereo
+[07:52:21]    + encoder: AAC (libavcodec)
+[07:52:21]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[07:52:21]  * audio track 2
+[07:52:21]    + decoder: Francais (AC3) (5.1 ch) (640 kbps) (track 1, id 0x1)
+[07:52:21]      + bitrate: 640 kbps, samplerate: 48000 Hz
+[07:52:21]    + AC3 Passthru
+[07:52:21] sync: expecting 198868 video frames
+[07:52:21] encx264: min-keyint: 24, keyint: 240
+[07:52:21] encx264: encoding at constant RF 20.000000
+[07:52:21] encx264: unparsed options: level=4.0:ref=5:direct=auto:subme=8:trellis=2:vbv-bufsize=31250:vbv-maxrate=25000:rc-lookahead=50
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile High, level 4.0, 4:2:0, 8-bit
+[07:52:21] sync: first pts video is 0
+[07:52:21] sync: "00:00:00.000" (1) at frame 1 time 0
+[07:52:21] sync: first pts audio 0x1 is 0
+[07:52:21] sync: first pts audio 0x1 is 0
+[08:02:53] sync: "00:04:50.957" (2) at frame 6978 time 26189913
+[08:14:08] sync: "00:10:16.783" (3) at frame 14789 time 55510455
+[08:23:53] sync: "00:15:19.919" (4) at frame 22057 time 82792710
+[08:27:52] sync: "00:17:43.229" (5) at frame 25493 time 95690595
+[08:34:21] sync: "00:20:52.418" (6) at frame 30029 time 112717605
+[08:42:20] sync: "00:25:33.532" (7) at frame 36770 time 138021633
+[08:48:13] sync: "00:28:07.352" (8) at frame 40457 time 151861710
+[08:52:22] sync: "00:30:20.986" (9) at frame 43662 time 163892478
+[09:01:07] sync: "00:34:53.925" (10) at frame 50205 time 188453265
+[09:07:11] sync: "00:37:41.092" (11) at frame 54213 time 203498295
+[09:16:35] sync: "00:41:48.506" (12) at frame 60146 time 225769293
+[09:22:22] sync: "00:44:57.528" (13) at frame 64677 time 242777535
+[09:34:11] sync: "00:50:57.388" (14) at frame 73307 time 275172397
+[09:44:26] sync: "00:56:37.394" (15) at frame 81457 time 305765460
+[09:59:15] sync: "01:03:28.638" (16) at frame 91317 time 342777435
+[10:05:31] work: average encoding speed for job is 11.941424 fps
+[10:05:31] comb detect: heavy 7 | light 51 | uncombed 94867 | total 94925
+[10:05:31] decomb: deinterlaced 7 | blended 51 | unfiltered 94862 | total 94920
+[10:05:31] vfr: 94916 frames output, 0 dropped and 0 duped for CFR/PFR
+[10:05:31] vfr: lost time: 0 (0 frames)
+[10:05:31] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[10:05:31] ac3-decoder done: 123802 frames, 0 decoder errors
+[10:05:31] ac3-decoder done: 123802 frames, 0 decoder errors
+[10:05:31] h264-decoder done: 94969 frames, 0 decoder errors
+[10:05:31] sync: got 94930 frames, 198868 expected
+[10:05:31] sync: framerate min 23.976 fps, max 23.976 fps, avg 23.976 fps
+x264 [info]: frame I:1150  Avg QP:16.24  size:173589
+x264 [info]: frame P:25696 Avg QP:19.38  size: 47759
+x264 [info]: frame B:68010 Avg QP:21.44  size: 13558
+x264 [info]: consecutive B-frames:  3.5%  1.9%  2.5% 92.1%
+x264 [info]: mb I  I16..4:  5.7% 83.7% 10.6%
+x264 [info]: mb P  I16..4:  1.8% 10.4%  0.5%  P16..4: 47.8% 19.3%  8.8%  0.0%  0.0%    skip:11.4%
+x264 [info]: mb B  I16..4:  0.2%  1.0%  0.1%  B16..8: 46.6%  4.2%  0.7%  direct: 4.2%  skip:43.1%  L0:42.5% L1:51.3% BI: 6.3%
+x264 [info]: 8x8 transform intra:82.5% inter:74.7%
+x264 [info]: direct mvs  spatial:99.9% temporal:0.1%
+x264 [info]: coded y,uvDC,uvAC intra: 71.8% 81.3% 55.6% inter: 18.9% 29.7% 5.4%
+x264 [info]: i16 v,h,dc,p: 39% 17% 13% 30%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13% 11% 19%  7% 10% 10% 10%  9% 11%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13% 12%  9%  8% 13% 12% 12%  9% 12%
+x264 [info]: i8c dc,h,v,p: 56% 18% 16% 10%
+x264 [info]: Weighted P-Frames: Y:3.1% UV:1.7%
+x264 [info]: ref P L0: 54.6% 11.7% 19.8%  7.1%  6.5%  0.4%  0.0%
+x264 [info]: ref B L0: 83.1% 12.5%  3.4%  1.0%
+x264 [info]: ref B L1: 94.2%  5.8%
+x264 [info]: kb/s:4749.77
+[10:05:32] mux: track 0, 94856 frames, 2348884985 bytes, 4745.97 kbps, fifo 1024
+[10:05:32] mux: track 1, 185594 frames, 79525655 bytes, 160.68 kbps, fifo 2048
+[10:05:32] mux: track 2, 123730 frames, 316748800 bytes, 640.00 kbps, fifo 1024
+[10:05:32] Finished work at: Sun Sep  5 10:05:32 2021
+
+[10:05:32] libhb: work result = 1

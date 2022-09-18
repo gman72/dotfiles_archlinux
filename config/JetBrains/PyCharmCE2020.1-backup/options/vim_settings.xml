@@ -1,0 +1,269 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>print</entry>
+        <entry>attr</entry>
+        <entry>HandlerCSV</entry>
+        <entry>ASIN_Unqrk</entry>
+        <entry>element_path</entry>
+        <entry>search_xpath</entry>
+        <entry>next_xpath</entry>
+        <entry>seller_xpath</entry>
+        <entry>insert_query</entry>
+        <entry>test_xpath</entry>
+        <entry>element_xpath</entry>
+        <entry>Upd</entry>
+        <entry>lastfilenumber</entry>
+        <entry encoding="base64">XDxxdWVyeVw+</entry>
+        <entry encoding="base64">XDx0aW1lXD4=</entry>
+        <entry>working</entry>
+        <entry encoding="base64">XDxkcnZcPg==</entry>
+        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
+        <entry>%s</entry>
+        <entry>%%s</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/%s/%%s/gc</entry>
+        <entry>%s/%%s/%s/gc</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/TAgetqueryresults.py" timestamp="1590350964716">
+        <mark key="[" line="2" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590373913864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/amz-docker/build.sh" timestamp="1590353583358">
+        <mark key="[" line="1" column="57" />
+      </file>
+      <file name="/Python Console" timestamp="1590386359642">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/getsellerreviews/getsellerreviews.py" timestamp="1590380758050">
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="60" column="82" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/TAsubmitquery.py" timestamp="1590352049384">
+        <mark key="[" line="32" column="55" />
+      </file>
+      <file name="/a.dummy" timestamp="1590352116558">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/build.sh" timestamp="1590351398077">
+        <mark key="[" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/config.ini" timestamp="1590373853330">
+        <mark key="[" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/HandlerVpn.py" timestamp="1590351786136">
+        <mark key="[" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/libs/HandlerDocker.py" timestamp="1590350873344">
+        <mark key="[" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/getsellerreviews/Dockerfile" timestamp="1590379741112">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/build.sh" timestamp="1590350483433">
+        <mark key="[" line="1" column="71" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/TA/Dockerfile" timestamp="1590351333530">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/" timestamp="1590447496623">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/getasinsellers/Dockerfile" timestamp="1590350602792">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/getsellerreviews/libs/HandlerSelenium.py" timestamp="1590444943917">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="124" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/getsellerreviews.py" timestamp="1590350651555">
+        <mark key="[" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/getasinsellers/build.sh" timestamp="1590350346667">
+        <mark key="[" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Amz-Sourcing/getsellerreviews/Dockerfile" timestamp="1590351210234">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/python/combined.py" />
+      <jump line="94" column="15" filename="$USER_HOME$/Documents/python/combined.py" />
+      <jump line="22" column="9" filename="$USER_HOME$/Documents/python/combined.py" />
+      <jump line="32" column="10" filename="$USER_HOME$/Documents/python/combined.py" />
+      <jump line="85" column="12" filename="$USER_HOME$/Documents/python/combined.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/Documents/python/combined.py" />
+      <jump line="19" column="16" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="18" column="6" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/gsheetHandler.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/gsheetHandler.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/gsheetHandler.py" />
+      <jump line="57" column="26" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/seleniumHandler.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="55" column="68" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="86" column="18" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="72" column="31" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="73" column="45" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="25" column="6" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/Test out exceptions.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/Test out exceptions.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/submitTAsellerquery.py" />
+      <jump line="45" column="43" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/submitTAsellerquery.py" />
+      <jump line="27" column="35" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/submitTAsellerquery.py" />
+      <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/submitTAsellerquery.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/submitTAsellerquery.py" />
+      <jump line="62" column="45" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="41" column="33" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="60" column="45" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="21" column="34" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="22" column="34" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="4" column="30" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getsellerreviews.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getsellerreviews.py" />
+      <jump line="60" column="31" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="28" column="33" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers.py" />
+      <jump line="25" column="33" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getsellerreviews.py" />
+      <jump line="16" column="41" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getsellerreviews.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/Test out exceptions.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/HandlerCSV.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/HandlerCSV.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/Utility Scripts/Initial-GsheetToMysql.py" />
+      <jump line="7" column="27" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/submitTAsellerquery.py" />
+      <jump line="30" column="12" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/config.json" />
+      <jump line="58" column="16" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/Test out exceptions.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getqueryresults.py" />
+      <jump line="1" column="19" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/removedockerinfp.py" />
+      <jump line="36" column="120" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/config.json" />
+      <jump line="1" column="136" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/config.json" />
+      <jump line="10" column="109" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/config.json" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers6.py" />
+      <jump line="39" column="61" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getasinsellers6.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/getsellerreviews6.py" />
+      <jump line="2" column="4" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/upload_brands_from_spreadsheet.py" />
+      <jump line="34" column="29" filename="$USER_HOME$/PycharmProjects/AmazonAutomation/old-hubspot.py" />
+      <jump line="32" column="6" filename="$USER_HOME$/PycharmProjects/TA/config.ini" />
+      <jump line="37" column="604" filename="$USER_HOME$/PycharmProjects/TA/config.ini" />
+      <jump line="3" column="7" filename="$USER_HOME$/PycharmProjects/TA/config.ini" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkcnYgPSBIcy5nZXRfYnJvd3NlcihzdHJfaXA9b3MuZW52aXJvblsnSVAnXSwgc3RyX3BvcnQ9b3MuZW52aXJvblsnUE9SVCddKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text>%%s</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkcnYgPSBIcy5nZXRfYnJvd3NlcihzdHJfaXA9b3MuZW52aXJvblsnSVAnXSwgc3RyX3BvcnQ9b3MuZW52aXJvblsnUE9SVCddKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkcnYgPSBIcy5nZXRfYnJvd3NlcihzdHJfaXA9b3MuZW52aXJvblsnSVAnXSwgc3RyX3BvcnQ9b3MuZW52aXJvblsnUE9SVCddKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGRDT1BZIC4gLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Q09QWSAuL0hhbmRsZXJWUE4ucHkgLi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Q09QWSAuL0hhbmRsZXJWUE4ucHkgLi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Q09QWSAuIC4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Q09QWSAuL2NvbmZpZy5pbmkgLi8gCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/%%s/%s/gc</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>%%s</last-search>
+      <last-offset />
+      <last-pattern>%%s</last-pattern>
+      <last-replace>%s</last-replace>
+      <last-substitute>%%s</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

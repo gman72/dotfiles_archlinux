@@ -1,0 +1,5 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="randomBackgroundImage">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+</keymap>

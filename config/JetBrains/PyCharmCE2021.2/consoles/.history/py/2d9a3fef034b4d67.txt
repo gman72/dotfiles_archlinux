@@ -1,0 +1,39 @@
+import os
+-. . -..- - / . -. - .-. -.--
+if os.environ.get("XDG_CONFIG_HOME"):
+    xdg_config_home = os.environ.get("XDG_CONFIG_HOME")
+else:    
+    xdg_config_home = "~/.config"
+    
+-. . -..- - / . -. - .-. -.--
+print(xdg_config_home)
+-. . -..- - / . -. - .-. -.--
+system_config_files = ['/etc/myclirc', os.path.join(xdg_config_home, 'mycli', 'myclirc')]
+-. . -..- - / . -. - .-. -.--
+print(system_config_files)
+-. . -..- - / . -. - .-. -.--
+print(PACKAGE_ROOT)
+-. . -..- - / . -. - .-. -.--
+default_config_file = os.path.join(PACKAGE_ROOT, 'myclirc')
+-. . -..- - / . -. - .-. -.--
+vim default_config_file
+-. . -..- - / . -. - .-. -.--
+print(default_config_file)
+-. . -..- - / . -. - .-. -.--
+PACKAGE_ROOT = os.path.abspath(os.path.dirname(__file__))
+-. . -..- - / . -. - .-. -.--
+pwd_config_file = os.path.join(os.getcwd(), ".myclirc")
+-. . -..- - / . -. - .-. -.--
+print(pwd_config_file)
+-. . -..- - / . -. - .-. -.--
+print(os.getcwd())
+-. . -..- - / . -. - .-. -.--
+from datetime import datetime, timedelta
+-. . -..- - / . -. - .-. -.--
+expire = datetime.now()-timedelta(hours=1)
+-. . -..- - / . -. - .-. -.--
+expire = expire.strptime('%Y-%m-%d %H:%M:%S')
+-. . -..- - / . -. - .-. -.--
+expire = expire.strftime('%Y-%m-%d %H:%M:%S')
+-. . -..- - / . -. - .-. -.--
+print(expire)

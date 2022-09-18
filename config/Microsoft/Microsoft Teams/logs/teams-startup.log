@@ -1,0 +1,78 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/gman72/.config/Microsoft/Microsoft Teams/hooks.json'"
+(node:56855) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:56855) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:56855) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:56855) UnhandledPromiseRejectionWarning: Error: LocalStorageService: key or value not defined
+    at f.setValue (/usr/share/teams/resources/app.asar/main.bundle.js:1:420349)
+    at t.AppLevel.set (/usr/share/teams/resources/app.asar/main.bundle.js:16:714686)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:16:721131
+    at Array.forEach (<anonymous>)
+    at t.appPreferenceKeys.reduce.n (/usr/share/teams/resources/app.asar/main.bundle.js:16:721078)
+    at Object.t.loadAppPreferencesFromLocalStorage (/usr/share/teams/resources/app.asar/main.bundle.js:16:721164)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:148:254655
+    at /usr/share/teams/resources/app.asar/main.bundle.js:148:254757
+    at Object.dispatch (/usr/share/teams/resources/app.asar/main.bundle.js:148:223433)
+    at Object.t.createStore (/usr/share/teams/resources/app.asar/main.bundle.js:148:191390)
+(node:56855) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:56855) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:56855) UnhandledPromiseRejectionWarning: Error: LocalStorageService: key or value not defined
+    at f.setValue (/usr/share/teams/resources/app.asar/main.bundle.js:1:420349)
+    at t.AppLevel.set (/usr/share/teams/resources/app.asar/main.bundle.js:16:714686)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:16:721131
+    at Array.forEach (<anonymous>)
+    at t.appPreferenceKeys.reduce.n (/usr/share/teams/resources/app.asar/main.bundle.js:16:721078)
+    at Object.t.loadAppPreferencesFromLocalStorage (/usr/share/teams/resources/app.asar/main.bundle.js:16:721164)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:148:254655
+    at /usr/share/teams/resources/app.asar/main.bundle.js:148:254757
+    at Object.dispatch (/usr/share/teams/resources/app.asar/main.bundle.js:148:223433)
+    at Object.t.createStore (/usr/share/teams/resources/app.asar/main.bundle.js:148:191390)
+(node:56855) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:57008) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 remote-videos-count-changed listeners added to [CallHandler]. Use emitter.setMaxListeners() to increase limit
+(node:57008) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 remote-videos-count-changed listeners added to [CallHandler]. Use emitter.setMaxListeners() to increase limit
+[56894:0916/092314.141069:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.142112:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.146178:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.146759:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.147126:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.147530:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.147822:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.148462:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.148879:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.149287:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.149776:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.150148:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092314.150461:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092336.708441:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092336.714415:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092336.827484:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092336.887599:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092336.890806:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092337.058291:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092514.353849:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/092516.173771:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db2c6f420] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.829580:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.829996:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.834192:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.834688:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.835036:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.835340:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.835635:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.835998:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.836405:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.836854:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.837209:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.837663:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093717.838116:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093746.226160:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093746.303881:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093746.347881:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093746.349403:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093746.403683:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093903.604228:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093904.499285:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093904.518058:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093905.614005:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+[56894:0916/093905.615014:ERROR:gl_utils.cc(316)] [.RendererMainThread-0x560db3061bf0] GL_INVALID_FRAMEBUFFER_OPERATION: Framebuffer is incomplete.
+Assertion 'o' failed at ../pulseaudio/src/pulse/operation.c:136, function pa_operation_get_state(). Aborting.
+/dev/fd/3: No such file or directory
+Server response: 

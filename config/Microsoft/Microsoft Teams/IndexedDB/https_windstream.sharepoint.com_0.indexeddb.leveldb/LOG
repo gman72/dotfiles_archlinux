@@ -1,0 +1,5 @@
+2022/09/16-09:22:51.633 304d2 Reusing MANIFEST /home/gman72/.config/Microsoft/Microsoft Teams/IndexedDB/https_windstream.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/16-10:07:15.317 dee6 Level-0 table #5: started
+2022/09/16-10:07:15.330 dee6 Level-0 table #5: 529547 bytes OK
+2022/09/16-10:07:15.332 dee6 Delete type=0 #3
+2022/09/16-10:07:15.333 dee6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
