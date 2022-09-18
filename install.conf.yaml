@@ -10,8 +10,7 @@
 
 - link:
     ~/.gitconfig:
-    ~/.config/tint2: config/tint2
-    ~/.config/Debauchee: config/Debauchee
+    ~/.config: config/
 - create:
     - ~/.vim/undo-history
 
