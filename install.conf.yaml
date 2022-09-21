@@ -11,8 +11,10 @@
 - link:
     ~/.gitconfig:
     ~/.config: config/
+    ~/.config/pikaur.conf: config/pikaur/pikaur.conf  
 - create:
     - ~/.vim/undo-history
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
+  - [sudo cp scripts/* /usr/local/bin]
