@@ -1,2 +1,3 @@
-export COLORFGBG="default;default"
-eval $(dircolors ~/.config/fish/dircolors)
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+end
