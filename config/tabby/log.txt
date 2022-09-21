@@ -986,3 +986,8 @@ debug: Resizing to 114x60
 debug: Resizing to 114x60
 info: Starting profile User default {"color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"type":"local","weight":0}
 debug: Resizing to 114x60
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/gman72","secondInstance":false}
+debug: Resizing to 111x59
+info: Destroying

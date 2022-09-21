@@ -1,3 +1,3 @@
-2022/09/16-15:58:31.538 612ba Reusing MANIFEST /home/gman72/.config/Microsoft/Microsoft Teams/Service Worker/Database/MANIFEST-000001
-2022/09/16-15:58:31.539 612ba Recovering log #3
-2022/09/16-15:58:31.540 612ba Reusing old log /home/gman72/.config/Microsoft/Microsoft Teams/Service Worker/Database/000003.log 
+2022/09/20-13:36:59.581 40699 Reusing MANIFEST /home/gman72/.dotfiles/config/Microsoft/Microsoft Teams/Service Worker/Database/MANIFEST-000001
+2022/09/20-13:36:59.581 40699 Recovering log #3
+2022/09/20-13:36:59.581 40699 Reusing old log /home/gman72/.dotfiles/config/Microsoft/Microsoft Teams/Service Worker/Database/000003.log 

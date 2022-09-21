@@ -31,8 +31,8 @@ gaps outer 5
 font pango:DejaVu Sans Mono 10
 
 # $Mod = Super or Alt?
-#set $Mod Mod4
-set $Mod Mod1
+set $Mod Mod4
+#set $Mod Mod1
 
 # direction keys
 set $up l
@@ -308,8 +308,8 @@ for_window [title="^Microsoft Teams Notification$"] floating enable
 # Assign Applications to specific workspace
 # get class with xprop
 assign [class="(?i)(?:firefox)"] → $WS10
-assign [class="(?i)(?:genymotion)"] $WS1
-for_window [class="(?i)(?:genymotion)"] no_focus
+assign [class="(?i)(?:Genymotion)"] $WS6
+for_window [class="(?i)(?:Genymotion)"] no_focus, layout stacking 
 assign [class="(?i)(?:jetbrains-pycharm-ce)"] → $WS2
 assign [class="(?i)(?:thunar)"] → $WS3
 assign [class="mpv"] $WS4

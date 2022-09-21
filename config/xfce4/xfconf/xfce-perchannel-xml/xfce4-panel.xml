@@ -62,6 +62,14 @@
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="polychromatic-tray-applet"/>
       </property>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="ethernet network connection “wired connection 2” active"/>
+        <value type="string" value="volumeicon"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="Microsoft Teams - Preview1"/>
+        <value type="string" value="polychromatic-tray-applet"/>
+      </property>
     </property>
     <property name="plugin-7" type="string" value="statusnotifier">
       <property name="square-icons" type="bool" value="true"/>
