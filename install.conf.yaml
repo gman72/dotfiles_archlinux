@@ -17,6 +17,8 @@
     - ~/documents
     - ~/downloads
     - ~/pictures
+    - ~/drive
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
   - [sudo cp scripts/* /usr/local/bin]
+  - [sudo mount /dev/sda1 ~/drive/]
