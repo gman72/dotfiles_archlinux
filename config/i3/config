@@ -79,7 +79,7 @@ exec_always --no-startup-id xrdb -load ~/.Xresources
 
 # run once
 #exec --no-startup-id xfsettingsd
-exec --no-startup-id al-compositor --start
+#exec --no-startup-id al-compositor --start
 
 # polkit, required for authentication
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
@@ -107,7 +107,8 @@ bindsym Control+space exec --no-startup-id rofr.sh -r
 
 # core
 bindsym $Mod+e exec --no-startup-id geany
-bindsym $Mod+t exec exo-open --launch TerminalEmulator
+#bindsym $Mod+t exec exo-open --launch TerminalEmulator
+bindsym $Mod+t exec alacritty
 bindsym $Mod+b exec exo-open --launch WebBrowser
 bindsym $Mod+f exec exo-open --launch FileManager
 bindsym $Mod+w exec --no-startup-id feh --randomize --bg-scale /usr/share/backgrounds/*
