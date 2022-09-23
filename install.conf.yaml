@@ -11,7 +11,8 @@
 - link:
     ~/.gitconfig:
     ~/.config: config/
-    ~/.config/pikaur.conf: config/pikaur/pikaur.conf  
+    ~/.config/pikaur.conf: config/pikaur/pikaur.conf
+    ~/pictures/wallpaper: wallpaper/  
 - create:
     - ~/documents
     - ~/downloads
