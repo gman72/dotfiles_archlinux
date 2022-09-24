@@ -20,5 +20,7 @@ cd /home/gman72/
 git clone https://aur.archlinux.org/pikaur.git
 cd pikaur
 sudo -u gman72 makepkg -fsri --noconfirm
-sudo -u gman72 pikaur -S spotify-tui teams genymotion networkmanager-dmenu-git openrazer-meta polychromatic universal-android-deblotter ttf-dejavu-sans-code ttf-materal-design-icons --noconfirm
-	
+sudo -u gman72 
+pikaur -S spotify-tui teams genymotion networkmanager-dmenu-git openrazer-meta polychromatic universal-android-deblotter ttf-dejavu-sans-code ttf-materal-design-icons --noconfirm
+pip install opencv-python pytesseract pure-python-adb
+

@@ -27,3 +27,6 @@ xorg-server
 xorg-xinit
 man-db
 nitrogen
+python-pip
+playerctl
+unp
