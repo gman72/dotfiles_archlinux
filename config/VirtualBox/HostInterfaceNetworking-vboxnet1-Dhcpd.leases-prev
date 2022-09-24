@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Leases version="1.0">
-  <Lease mac="08:00:27:03:51:cf" network="0.0.0.0" state="acked">
+  <Lease mac="08:00:27:03:51:cf" network="0.0.0.0" state="expired">
     <Address value="192.168.57.105"/>
-    <Time issued="1663900790" expiration="600"/>
+    <Time issued="1663968821" expiration="600"/>
   </Lease>
-  <Lease mac="08:00:27:59:74:42" network="0.0.0.0" state="acked">
+  <Lease mac="08:00:27:59:74:42" network="0.0.0.0" state="expired">
     <Address value="192.168.57.104"/>
-    <Time issued="1663900964" expiration="600"/>
+    <Time issued="1663942938" expiration="600"/>
   </Lease>
   <Lease mac="08:00:27:ca:6d:ea" network="0.0.0.0" state="expired">
     <Address value="192.168.57.103"/>
@@ -18,6 +18,6 @@
   </Lease>
   <Lease mac="08:00:27:59:ce:ff" network="0.0.0.0" state="acked">
     <Address value="192.168.57.101"/>
-    <Time issued="1663900693" expiration="600"/>
+    <Time issued="1663969682" expiration="600"/>
   </Lease>
 </Leases>

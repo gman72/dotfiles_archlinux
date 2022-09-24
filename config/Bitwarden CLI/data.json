@@ -1,0 +1,61 @@
+{
+  "global": {
+    "theme": "system",
+    "window": {},
+    "stateVersion": 6,
+    "environmentUrls": {
+      "base": null,
+      "api": null,
+      "identity": null,
+      "icons": null,
+      "notifications": null,
+      "events": null,
+      "webVault": null,
+      "keyConnector": null
+    },
+    "installedVersion": "2022.9.0"
+  },
+  "authenticatedAccounts": [],
+  "appId": "0a161954-151f-493a-9378-76343060774d",
+  "05ac7aa3-e708-4734-a4a5-aefb016a2877": {
+    "data": {
+      "ciphers": {},
+      "folders": {},
+      "sends": {},
+      "collections": {},
+      "policies": {},
+      "passwordGenerationHistory": {}
+    },
+    "keys": {
+      "cryptoSymmetricKey": {},
+      "organizationKeys": {},
+      "providerKeys": {},
+      "privateKey": {}
+    },
+    "profile": {},
+    "settings": {
+      "environmentUrls": {
+        "base": null,
+        "api": null,
+        "identity": null,
+        "icons": null,
+        "notifications": null,
+        "events": null,
+        "webVault": null,
+        "keyConnector": null
+      },
+      "pinProtected": {
+        "decrypted": null,
+        "encrypted": null
+      },
+      "protectedPin": null,
+      "settings": null,
+      "vaultTimeoutAction": "lock"
+    },
+    "tokens": {}
+  },
+  "accountActivity": {
+    "05ac7aa3-e708-4734-a4a5-aefb016a2877": null
+  },
+  "activeUserId": null
+}
