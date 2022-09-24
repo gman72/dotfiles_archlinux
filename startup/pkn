@@ -30,3 +30,5 @@ nitrogen
 python-pip
 playerctl
 unp
+pavucontrol
+pamixer

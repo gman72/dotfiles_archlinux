@@ -41,14 +41,14 @@ set $down k
 set $left j
 set $right semicolon
 
-set $WS1 "1: "
-set $WS2 "2: "
-set $WS3 "3: "
+set $WS1 "1:  "
+set $WS2 "2:  "
+set $WS3 "3:  "
 set $WS4 "4: "
 set $WS5 "5: "
-set $WS6 "6: "
-set $WS7 "7: "
-set $WS8 "8: "
+set $WS6 "6:  "
+set $WS7 "7: "
+set $WS8 "8: "
 set $WS9 "9: :)"
 set $WS10 "10: "
 set $WS11 "11: "
@@ -309,11 +309,11 @@ for_window [title="^Microsoft Teams Notification$"] floating enable
 
 # Assign Applications to specific workspace
 # get class with xprop
-assign [class="(?i)(?:firefox)"] → $WS10
+assign [class="(?i)(?:vivaldi)"] → $WS2
 assign [class="(?i)(?:Genymotion)"] $WS6
 for_window [class="(?i)(?:Genymotion)"] no_focus, layout stacking 
-assign [class="(?i)(?:jetbrains-pycharm-ce)"] → $WS2
-assign [class="(?i)(?:thunar)"] → $WS3
+assign [class="(?i)(?:jetbrains-pycharm-ce)"] → $WS4
+assign [class="(?i)(?:thunar)"] → $WS1
 assign [class="mpv"] $WS4
 for_window [class="mpv"] fullscreen,focus
 #for_window [class="mpv"] focus
