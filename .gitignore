@@ -1,3 +1,4 @@
-config/Microsoft/Microsoft Teams/
+config/Microsoft/
 *.log*
-
+config/teams/
+config/skypeforlinux/
