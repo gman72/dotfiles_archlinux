@@ -29,6 +29,15 @@ man-db
 nitrogen
 python-pip
 playerctl
-unp
+unarchiver
 pavucontrol
 pamixer
+transmission-cli
+mpv
+mupdf
+zip
+unzip
+wireguard-tools
+jq
+bottom
+

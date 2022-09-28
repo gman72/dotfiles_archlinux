@@ -10,6 +10,7 @@
 
 - link:
     ~/.gitconfig:
+    ~/.rtorrent.rc:  
     ~/.config: config/
     ~/.config/pikaur.conf: config/pikaur/pikaur.conf
     ~/pictures/wallpaper: wallpaper/  
