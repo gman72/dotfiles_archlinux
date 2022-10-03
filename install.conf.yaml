@@ -13,13 +13,20 @@
     ~/.config: config/
     ~/pictures/wallpaper: wallpaper/  
 - create:
-    - ~/documents
-    - ~/downloads
+    - ~/Documents
+    - ~/Downloads
     - ~/pictures
     - ~/drive
+    - ~/.local/share/applications
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
   - [sudo cp scripts/* /usr/local/bin]
   - [sudo mount /dev/sda1 ~/drive/]
   - [sudo mkdir -p /etc/systemd/system/getty@tty1.service.d/]
-  - [sudo cp misc/autologin.conf /etc/systemd/getty1.service.d/]
+  - [sudo mkdir -p /etc/systemd/system/transmission.service.d/]
+  - [sudo mkdir -p /mnt/torrent/downloads]
+  - [sudo chown -R gman72:transmission /mnt/torrent/]
+  - [sudo chmod -R 775 /mnt/torrent]
+  - [sudo cp misc/autologin.conf /etc/systemd/system/getty1.service.d/]
+  - [cp misc/torrent-magnet.desktop ~/.local/share/applications/]
+  - [xdg-mime default torrent-magnet.desktop x-scheme-handler/magnet]

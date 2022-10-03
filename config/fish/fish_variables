@@ -1,8 +1,11 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export SPOTIFYD_CLIENT_ID:cc2ff5c4325344f28a04ea977cbb5c23
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_ls:ls\x20\x2daF
 SETUVAR _fish_abbr_vim:nvim
+SETUVAR _fish_abbr_vpn_2D_down:wg\x2dquick\x20down\x20pia
+SETUVAR _fish_abbr_vpn_2D_up:wg\x2dquick\x20up\x20pia
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:blue
