@@ -1,12 +1,20 @@
 <?xml version="1.0"?>
 <Leases version="1.0">
+  <Lease mac="08:00:27:4d:ac:b2" network="0.0.0.0" state="acked">
+    <Address value="192.168.56.115"/>
+    <Time issued="1691704315" expiration="600"/>
+  </Lease>
+  <Lease mac="08:00:27:82:ee:5d" network="0.0.0.0" state="acked">
+    <Address value="192.168.56.114"/>
+    <Time issued="1691703902" expiration="600"/>
+  </Lease>
   <Lease mac="08:00:27:03:51:cf" network="0.0.0.0" state="expired">
     <Address value="192.168.56.113"/>
-    <Time issued="1661997817" expiration="600"/>
+    <Time issued="1668362668" expiration="600"/>
   </Lease>
   <Lease mac="08:00:27:59:74:42" network="0.0.0.0" state="acked">
     <Address value="192.168.56.112"/>
-    <Time issued="1661998141" expiration="600"/>
+    <Time issued="1691704012" expiration="600"/>
   </Lease>
   <Lease mac="08:00:27:f7:ad:08" network="0.0.0.0" state="expired">
     <Address value="192.168.56.111"/>
@@ -16,9 +24,9 @@
     <Address value="192.168.56.110"/>
     <Time issued="1650627234" expiration="600"/>
   </Lease>
-  <Lease mac="08:00:27:59:ce:ff" network="0.0.0.0" state="acked">
+  <Lease mac="08:00:27:59:ce:ff" network="0.0.0.0" state="expired">
     <Address value="192.168.56.109"/>
-    <Time issued="1661998489" expiration="600"/>
+    <Time issued="1685025021" expiration="600"/>
   </Lease>
   <Lease mac="08:00:27:1f:73:24" network="0.0.0.0" state="expired">
     <Address value="192.168.56.108"/>

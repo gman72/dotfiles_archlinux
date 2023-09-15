@@ -62,16 +62,18 @@ set $WS16 "16: "
 
 
 # monitors
-set $Mon1 HDMI-0
-set $Mon2 HDMI-2
-set $Mon3 DP-0
+set $Mon1 HDMI-A-0
+set $Mon2 DisplayPort-2
+set $Mon3 DisplayPort-0
 #####################################################
 ###############     Autostart      ##################
 #####################################################
 #exec --no-startup-id "i3-msg 'workspace 8; append_layout /home/gman72/.config/i3/workspace-1.json'"
 # run with reload
+exec --no-startup-id dunst
 exec_always --no-startup-id /home/gman72/.config/i3/launch.sh
-exec_always --no-startup-id /home/gman72/adb/startup.sh
+exec_always --no-startup-id picom &
+#exec_always --no-startup-id /home/gman72/adb/startup.sh
 #exec_always --no-startup-id al-polybar-session
 exec_always --no-startup-id nitrogen --restore
 #exec_always --no-startup-id xrdb -load ~/.Xresources

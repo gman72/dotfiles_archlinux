@@ -11,10 +11,18 @@
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
       <ExtraDataItem name="GUI/Details/Elements/Preview/UpdateInterval" value="disabled"/>
       <ExtraDataItem name="GUI/GroupDefinitions/" value="n=GLOBAL,m=fe9808ba-03af-4b54-87bb-a54e99ac24d9,m=dec91013-6552-4202-b952-6bc0e5fe42f6,m=a9b9911f-29a5-4d1a-ab73-339a9d436257,m=ca06ce6f-7c95-424d-8b18-1c145a6f5e67"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=S9Tony"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="2889,46,930,1013"/>
+      <ExtraDataItem name="GUI/HostNetworkManager/Details/Expanded" value="true"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="n=GLOBAL"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="969,46,930,1013"/>
+      <ExtraDataItem name="GUI/LogWindowGeometry" value="1449,46,450,1013"/>
+      <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="978,148,960,810"/>
+      <ExtraDataItem name="GUI/NotificationCenter/KeepSuccessfullProgresses" value="true"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/gman72/Downloads"/>
+      <ExtraDataItem name="GUI/RecentFolderHD" value="/home/gman72/drive/.Genymotion/deployed/S9Tony"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/gman72/Downloads/android-x86_64-9.0-r2.iso,/mnt/torrent/downloads/archlinux-2022.10.01-x86_64.iso"/>
+      <ExtraDataItem name="GUI/RecentListHD" value="/home/gman72/drive/.Genymotion/deployed/S9Tony/S9Tony-disk1.vmdk,/home/gman72/drive/.Genymotion/deployed/S9Tony/S9James-disk2.vmdk"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="332,597"/>
-      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
+      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Network,Details"/>
       <ExtraDataItem name="GUI/UpdateCheckCount" value="2"/>
       <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-11-20, stable, 6.0.14"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPAddress" value="192.168.56.1"/>
@@ -23,21 +31,31 @@
       <ExtraDataItem name="HostOnly/vboxnet1/IPNetMask" value="255.255.255.0"/>
       <ExtraDataItem name="HostOnly/vboxnet2/IPAddress" value="192.168.58.1"/>
       <ExtraDataItem name="HostOnly/vboxnet2/IPNetMask" value="255.255.255.0"/>
+      <ExtraDataItem name="HostOnly/vboxnet3/IPAddress" value="192.168.59.1"/>
+      <ExtraDataItem name="HostOnly/vboxnet3/IPNetMask" value="255.255.255.0"/>
     </ExtraData>
     <MachineRegistry>
-      <MachineEntry uuid="{fe9808ba-03af-4b54-87bb-a54e99ac24d9}" src="/home/gman72/VirtualBox VMs/centos7_default_1574216057837_70760/centos7_default_1574216057837_70760.vbox"/>
-      <MachineEntry uuid="{dec91013-6552-4202-b952-6bc0e5fe42f6}" src="/home/gman72/drive/.Genymotion/deployed/S9Tony/S9Tony.vbox"/>
-      <MachineEntry uuid="{a9b9911f-29a5-4d1a-ab73-339a9d436257}" src="/home/gman72/drive/.Genymotion/deployed/S9James/S9James.vbox"/>
-      <MachineEntry uuid="{ca06ce6f-7c95-424d-8b18-1c145a6f5e67}" src="/home/gman72/drive/.Genymotion/deployed/S9James/S9Ryuk/S9Ryuk.vbox"/>
-      <MachineEntry uuid="{f3d2ea0a-5daf-4e6e-876d-593f82cefb59}" src="/home/gman72/VirtualBox VMs/Arch/Arch.vbox"/>
+      <MachineEntry uuid="{c8998a6f-4e57-4786-b314-c9bdcaf43def}" src="/home/gman72/VirtualBox VMs/S9Tony/S9Tony.vbox"/>
+      <MachineEntry uuid="{a9b9911f-29a5-4d1a-ab73-339a9d436257}" src="/home/gman72/VirtualBox VMs/S9James/S9James.vbox"/>
+      <MachineEntry uuid="{97b824d6-d2a6-4183-93c7-1408a454daa4}" src="/home/gman72/VirtualBox VMs/S9Ryuk/S9Ryuk.vbox"/>
     </MachineRegistry>
+    <MediaRegistry>
+      <HardDisks>
+        <HardDisk uuid="{3ba47573-b88d-4bda-8c89-1ed58ae96c55}" location="/home/gman72/.Genymobile/Genymotion/system-images/3.0.0/8.0.0/system.vmdk" format="VMDK" type="Normal"/>
+        <HardDisk uuid="{95f38eac-bbc5-49e7-8bd2-24afb36ebdf5}" location="/home/gman72/drive/.Genymotion/deployed/S9Tony/S9Tony-disk.vdi" format="VDI" type="Normal"/>
+      </HardDisks>
+    </MediaRegistry>
     <NetserviceRegistry>
       <DHCPServers>
-        <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="0"/>
+        <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet1" IPAddress="192.168.57.100" networkMask="255.255.255.0" lowerIP="192.168.57.101" upperIP="192.168.57.254" enabled="1"/>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet2" IPAddress="192.168.58.100" networkMask="255.255.255.0" lowerIP="192.168.58.101" upperIP="192.168.58.254" enabled="1"/>
+        <DHCPServer networkName="HostInterfaceNetworking-vboxnet3" IPAddress="192.168.59.100" networkMask="255.255.255.0" lowerIP="192.168.59.101" upperIP="192.168.59.254" enabled="1"/>
       </DHCPServers>
     </NetserviceRegistry>
+    <Updates enabled="false">
+      <Host enabled="false" channel="1" checkFreqSec="86400" repoUrl="https://update.virtualbox.org" checkCount="0"/>
+    </Updates>
     <SystemProperties defaultMachineFolder="/home/gman72/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" proxyMode="0" exclusiveHwVirt="true"/>
     <USBDeviceFilters/>
   </Global>

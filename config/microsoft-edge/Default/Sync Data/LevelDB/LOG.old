@@ -1,0 +1,21 @@
+2023/05/23-09:22:31.466 29785a Reusing MANIFEST /home/gman72/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/05/23-09:22:31.471 29785a Recovering log #36
+2023/05/23-09:22:31.478 29785a Reusing old log /home/gman72/.config/microsoft-edge/Default/Sync Data/LevelDB/000036.log 
+2023/05/23-09:27:17.749 29785b Level-0 table #40: started
+2023/05/23-09:27:17.754 29785b Level-0 table #40: 197121 bytes OK
+2023/05/23-09:27:17.764 29785b Delete type=0 #36
+2023/05/23-09:34:03.135 29785b Level-0 table #42: started
+2023/05/23-09:34:03.141 29785b Level-0 table #42: 221513 bytes OK
+2023/05/23-09:34:03.144 29785b Delete type=0 #39
+2023/05/23-09:34:03.144 29785b Compacting 4@0 + 1@1 files
+2023/05/23-09:34:03.158 29785b Generated table #43@0: 116 keys, 8611 bytes
+2023/05/23-09:34:03.158 29785b Compacted 4@0 + 1@1 files => 8611 bytes
+2023/05/23-09:34:03.160 29785b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/23-09:34:03.161 29785b Delete type=2 #40
+2023/05/23-09:34:03.161 29785b Delete type=2 #32
+2023/05/23-09:34:03.161 29785b Delete type=2 #37
+2023/05/23-09:34:03.161 29785b Delete type=2 #42
+2023/05/23-09:34:03.161 29785b Delete type=2 #35
+2023/05/23-09:36:51.702 29785b Level-0 table #45: started
+2023/05/23-09:36:51.707 29785b Level-0 table #45: 173756 bytes OK
+2023/05/23-09:36:51.709 29785b Delete type=0 #41

@@ -1,0 +1,78 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;ChangesViewManager.DETAILS_SPLITTER_PROPORTION&quot;: &quot;0.6880342&quot;,
+    &quot;CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2&quot;: &quot;0.5988456&quot;,
+    &quot;CommitToolWindow.COMMIT_SPLITTER_PROPORTION&quot;: &quot;0.6025237&quot;,
+    &quot;FindSplitterProportion&quot;: &quot;0.32991013&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;dart\ndar\nda\ninter\ninte&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;dart\nflutter\nfl\nf\namazon&quot;,
+    &quot;NextRunPlatformUpdateBuild&quot;: &quot;PC-231.9225.15&quot;,
+    &quot;NextRunPlatformUpdateVersion&quot;: &quot;2023.1.4&quot;,
+    &quot;NonModalCommitPromotionState&quot;: &quot;ACCEPTED&quot;,
+    &quot;PACKAGE_FILTER&quot;: &quot;flask&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;ProjectStructure.SecondLevelElements&quot;: &quot;0.37055838&quot;,
+    &quot;PyCharm.InitialConfiguration&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V2&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V3&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V4&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V5&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V6&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V7&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V8&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;SettingsSearchHistory&quot;: &quot;dart\nplugin\ninterpreter\ninter\npython sdk&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;PC-231.9161.41-8b016fd8fb08cd39bca1ee6e467fa85b4b09af52616946d96511c154363a6771&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;PC-231.9161.41&quot;,
+    &quot;debugger.smart.chooser.counter&quot;: &quot;1&quot;,
+    &quot;experimental.ui.first.promotion.localdate&quot;: &quot;2023-04-13&quot;,
+    &quot;experimentalFeature.terminal.shell.command.handling&quot;: &quot;false&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;3&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;4&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;21.333334&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;21.333334&quot;,
+    &quot;got.it.tooltip.aws.toolkit.devtool.tab.whatsnew&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.changes.view.toolwindow&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;PC-231.9161.41&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;idea.background.editor&quot;: &quot;/home/gman72/pictures/wallpaper/naruto.jpg,12,scale,center&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/gman72/pictures/wallpaper/naruto.jpg&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;org.intellij.images.editor.actions.BackgroundImageDialog#recent&quot;: &quot;/home/gman72/pictures/wallpaper/naruto.jpg&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Monokai&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;PC-231.9161.41&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/gman72/.local/lib/python3.10/site-packages/cv2&quot;,
+      &quot;/home/gman72/pictures/wallpaper/naruto.jpg&quot;,
+      &quot;/home/gman72/adb&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1690991384428,
+    "SpeedSearch": 1692723541697,
+    "SearchEverywhere": 1694704414007,
+    "GoToDeclaration": 1694614928078,
+    "FindReplaceToggle": 1683659220355,
+    "ShowUsages": 1694006906145,
+    "local_history": 1685159565236,
+    "CamelHumpsInCodeCompletion": 1685240147525,
+    "FindInPath": 1685917857031
+  }
+}]]></component>
+</application>

@@ -1,0 +1,696 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="adb" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/pnc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="659">
+              <caret line="163" column="16" selection-start-line="163" selection-start-column="16" selection-end-line="163" selection-end-column="16" />
+              <folding>
+                <element signature="e#46#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc_event.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc_troop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2790">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc_daily.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1085">
+              <caret line="45" column="54" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#309#978#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc_sql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <element signature="e#22#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc_opencv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc_adb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2046">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc_rss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2697">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pnc.sqbpro">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1684370465736" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="14" lastUsed="1694618256352" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1684943487498" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="8" lastUsed="1684461467979" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="18" lastUsed="1694705325379" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="453" lastUsed="1694705325242" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="41" lastUsed="1685917848949" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="8" lastUsed="1685122180854" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gmtool</find>
+      <find>ocv.</find>
+      <find>device</find>
+      <find>ocv</find>
+      <find>voodolvl4</find>
+      <find>click_once</find>
+      <find>voodo</find>
+      <find>any(</find>
+      <find>all(</find>
+      <find>all</find>
+      <find>sleep_time=</find>
+      <find>escape</find>
+      <find>trea</find>
+      <find>hell</find>
+      <find>any</find>
+      <find>obtain</find>
+      <find>close</find>
+      <find>echo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.adb</replace>
+      <replace>self.ocv</replace>
+      <replace>self.device</replace>
+      <replace>self.key</replace>
+      <replace>self.click_once</replace>
+      <replace>wait=</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/chatgpt-test.py" />
+      <option value="$PROJECT_DIR$/adb_kill.sh" />
+      <option value="$PROJECT_DIR$/pnc_adb_old.py" />
+      <option value="$PROJECT_DIR$/mqtt.py" />
+      <option value="$PROJECT_DIR$/vision.py" />
+      <option value="$PROJECT_DIR$/capture.py" />
+      <option value="$PROJECT_DIR$/herowars/capture.py" />
+      <option value="$PROJECT_DIR$/testing.py" />
+      <option value="$PROJECT_DIR$/james1.sh" />
+      <option value="$PROJECT_DIR$/logging.conf" />
+      <option value="$PROJECT_DIR$/tony1.sh" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/master.conf" />
+      <option value="$PROJECT_DIR$/startup.sh" />
+      <option value="$PROJECT_DIR$/flask.py" />
+      <option value="$PROJECT_DIR$/remote_query.py" />
+      <option value="$PROJECT_DIR$/pnc.sh" />
+      <option value="$PROJECT_DIR$/get_text.py" />
+      <option value="$PROJECT_DIR$/pnc_opencv.py" />
+      <option value="$PROJECT_DIR$/new_events.py" />
+      <option value="$PROJECT_DIR$/test.py" />
+      <option value="$PROJECT_DIR$/pnc_event.py" />
+      <option value="$PROJECT_DIR$/pnc_sql.py" />
+      <option value="$PROJECT_DIR$/mqtt_pub.py" />
+      <option value="$PROJECT_DIR$/pnc_rss.py" />
+      <option value="$PROJECT_DIR$/pnc_adb.py" />
+      <option value="$PROJECT_DIR$/pnc_daily.py" />
+      <option value="$PROJECT_DIR$/pnc_troop.py" />
+      <option value="$PROJECT_DIR$/pnc.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1684943487498" />
+    </language>
+    <language id="Python">
+      <summary usageCount="453" lastUsage="1694705325242" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="41" lastUsage="1685917848949" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="18" lastUsage="1694705325379" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="8" lastUsage="1685122180854" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="adb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/gman72/adb}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.pnc" />
+      <element setting="Python.test" />
+      <element setting="Python.get_text" />
+      <element setting="Python.remote_query" />
+      <element setting="Python.mqtt" />
+      <element setting="Python.client" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" weight="0.3298722" />
+      <window_info id="Commit" sideWeight="0.48024055" weight="0.3298722" />
+      <window_info x="1903" y="306" width="1836" height="334" id="Version Control" order="0" sideWeight="0.540378" side_tool="true" weight="0.21432374" />
+      <window_info id="Bookmarks" order="1" sideWeight="0.53407156" side_tool="true" weight="0.28461128" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.459622" visible="true" weight="0.2144765" />
+      <window_info id="Learn" order="3" />
+      <window_info id="aws.toolkit.explorer" order="4" sideWeight="0.53407156" side_tool="true" weight="0.28461128" />
+      <window_info id="Structure" order="5" sideWeight="0.53407156" side_tool="true" weight="0.28461128" />
+      <window_info anchor="bottom" id="aws.codewhisperer.codereference" />
+      <window_info anchor="bottom" id="Dart Analysis" />
+      <window_info anchor="bottom" id="aws.sqs" />
+      <window_info anchor="bottom" id="aws.cloudformation" />
+      <window_info anchor="bottom" id="aws.cloudwatchlogs" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.3302073" />
+      <window_info anchor="bottom" id="Run" order="1" show_stripe_button="false" weight="0.3302073" />
+      <window_info anchor="bottom" id="Debug" order="2" show_stripe_button="false" weight="0.2561698" />
+      <window_info anchor="bottom" id="Python Packages" order="3" weight="0.3302073" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3302073" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3302073" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.3302073" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.2561698" left="0.2144765" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Pull Requests" weight="0.3298722" />
+      <window_info id="Commit" weight="0.3298722" />
+      <window_info x="1903" y="306" width="1836" height="334" id="Version Control" order="0" sideWeight="0.54088587" side_tool="true" weight="0.21432374" />
+      <window_info id="Bookmarks" order="1" sideWeight="0.53407156" side_tool="true" weight="0.28461128" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.45911413" visible="true" weight="0.21432374" />
+      <window_info id="Learn" order="3" />
+      <window_info id="aws.toolkit.explorer" order="4" sideWeight="0.53407156" side_tool="true" weight="0.28461128" />
+      <window_info id="Structure" order="5" sideWeight="0.53407156" side_tool="true" weight="0.28461128" />
+      <window_info anchor="bottom" id="aws.codewhisperer.codereference" />
+      <window_info anchor="bottom" id="Dart Analysis" />
+      <window_info anchor="bottom" id="aws.sqs" />
+      <window_info anchor="bottom" id="aws.cloudformation" />
+      <window_info anchor="bottom" id="aws.cloudwatchlogs" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.3302073" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.3302073" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.2561698" />
+      <window_info anchor="bottom" id="Python Packages" order="3" weight="0.3302073" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3302073" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3302073" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="8" visible="true" weight="0.3302073" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.3302073" left="0.21432374" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Find</value>
+      <value>Run</value>
+      <value>Python Packages</value>
+      <value>Terminal</value>
+      <value>Python Console</value>
+      <value>Structure</value>
+      <value>Bookmarks</value>
+      <value>aws.toolkit.explorer</value>
+      <value>Pull Requests</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1830" height="231" key="GridCell.Tab.0.bottom" timestamp="1694702595320">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.0.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674436161" />
+    <state width="1836" height="231" key="GridCell.Tab.0.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596430" />
+    <state width="1830" height="231" key="GridCell.Tab.0.bottom/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595320" />
+    <state width="1830" height="231" key="GridCell.Tab.0.center" timestamp="1694702595319">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.0.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674436159" />
+    <state width="1836" height="231" key="GridCell.Tab.0.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596428" />
+    <state width="1830" height="231" key="GridCell.Tab.0.center/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595319" />
+    <state width="1830" height="231" key="GridCell.Tab.0.left" timestamp="1694702595318">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.0.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674436158" />
+    <state width="1836" height="231" key="GridCell.Tab.0.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596428" />
+    <state width="1830" height="231" key="GridCell.Tab.0.left/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595318" />
+    <state width="1830" height="231" key="GridCell.Tab.0.right" timestamp="1694702595320">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.0.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674436160" />
+    <state width="1836" height="231" key="GridCell.Tab.0.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596429" />
+    <state width="1830" height="231" key="GridCell.Tab.0.right/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595320" />
+    <state width="1830" height="231" key="GridCell.Tab.1.bottom" timestamp="1694702595324">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.1.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674438706" />
+    <state width="1836" height="231" key="GridCell.Tab.1.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596432" />
+    <state width="1830" height="231" key="GridCell.Tab.1.bottom/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595324" />
+    <state width="1830" height="231" key="GridCell.Tab.1.center" timestamp="1694702595322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.1.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674438704" />
+    <state width="1836" height="231" key="GridCell.Tab.1.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596431" />
+    <state width="1830" height="231" key="GridCell.Tab.1.center/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595322" />
+    <state width="1830" height="231" key="GridCell.Tab.1.left" timestamp="1694702595321">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.1.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674438703" />
+    <state width="1836" height="231" key="GridCell.Tab.1.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596430" />
+    <state width="1830" height="231" key="GridCell.Tab.1.left/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595321" />
+    <state width="1830" height="231" key="GridCell.Tab.1.right" timestamp="1694702595323">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="231" key="GridCell.Tab.1.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1691674438705" />
+    <state width="1836" height="231" key="GridCell.Tab.1.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691690596432" />
+    <state width="1830" height="231" key="GridCell.Tab.1.right/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694702595323" />
+    <state x="2453" y="24" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1694618496961">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2457" y="80" width="804" height="522" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1691269152632" />
+    <state x="2453" y="24" width="804" height="528" key="Vcs.Push.Dialog.v2/3840.0.1920.1080/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1694618496961" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testing.png" />
+    <entry file="file://$PROJECT_DIR$/pnc_python/pnc.py" />
+    <entry file="file://$PROJECT_DIR$/tst.png" />
+    <entry file="file://$PROJECT_DIR$/ryuk.png" />
+    <entry file="file://$PROJECT_DIR$/herowars/tnyt.py" />
+    <entry file="file://$PROJECT_DIR$/herowars/testing.py" />
+    <entry file="file://$PROJECT_DIR$/voodo.png" />
+    <entry file="file://$PROJECT_DIR$/images/level_5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/level_4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herowars/capture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mqtt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-966">
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.10/logging/handlers.py" />
+    <entry file="file://$PROJECT_DIR$/james1.sh" />
+    <entry file="file://$PROJECT_DIR$/tony1.sh" />
+    <entry file="file://$PROJECT_DIR$/ryuk1.sh" />
+    <entry file="file://$PROJECT_DIR$/logging.conf" />
+    <entry file="file://$PROJECT_DIR$/check.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S9Ryuk.sh" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="75" column="5" lean-forward="true" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S9Ryuk.conf" />
+    <entry file="file:///usr/lib/python3.10/configparser.py" />
+    <entry file="file://$PROJECT_DIR$/m.conf" />
+    <entry file="file://$PROJECT_DIR$/master.conf" />
+    <entry file="file://$PROJECT_DIR$/S9Tony.conf" />
+    <entry file="file://$PROJECT_DIR$/../.local/lib/python3.10/site-packages/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7682">
+          <caret line="355" selection-start-line="355" selection-end-line="355" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.local/lib/python3.10/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32545">
+          <caret line="1483" selection-start-line="1483" selection-end-line="1483" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remote_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="30" column="4" selection-end-line="41" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.local/lib/python3.10/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="1189" selection-start-line="1189" selection-end-line="1189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.local/lib/python3.10/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.local/lib/python3.10/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="422" selection-start-line="422" selection-end-line="422" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.10/site-packages/shiboken2/files.dir/shibokensupport/feature.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.10/logging/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/mqtt_pub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc.sqbpro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc_opencv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#22#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc_daily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="45" column="54" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#309#978#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc_adb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc_troop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc_rss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2697">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="163" column="16" selection-start-line="163" selection-start-column="16" selection-end-line="163" selection-end-column="16" />
+          <folding>
+            <element signature="e#46#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

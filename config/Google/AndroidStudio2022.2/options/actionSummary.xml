@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="42" l="1681590780194" />
+    </e>
+    <e n="Table-selectNextColumn">
+      <i c="1" l="1685545916533" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1684036127962" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="3" l="1685140803992" />
+    </e>
+    <e n="WelcomeScreen.RunDeviceManager">
+      <i c="14" l="1685545686607" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1681583252220" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1681582291372" />
+    </e>
+  </component>
+</application>

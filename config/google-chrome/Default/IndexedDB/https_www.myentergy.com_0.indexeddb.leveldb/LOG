@@ -1,0 +1,27 @@
+2023/07/17-14:49:25.528 f85c8 Reusing MANIFEST /home/gman72/.config/google-chrome/Default/IndexedDB/https_www.myentergy.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/17-14:49:25.528 f85c8 Recovering log #3
+2023/07/17-14:49:25.534 f85c8 Reusing old log /home/gman72/.config/google-chrome/Default/IndexedDB/https_www.myentergy.com_0.indexeddb.leveldb/000003.log 
+2023/07/17-14:49:30.379 f85c9 Level-0 table #5: started
+2023/07/17-14:49:30.421 f85c9 Level-0 table #5: 2086063 bytes OK
+2023/07/17-14:49:30.425 f85c9 Delete type=0 #3
+2023/07/17-14:50:38.290 f85c9 Level-0 table #7: started
+2023/07/17-14:50:38.320 f85c9 Level-0 table #7: 1491060 bytes OK
+2023/07/17-14:50:38.323 f85c9 Delete type=0 #4
+2023/07/17-15:15:25.391 f85c8 Compacting 1@1 + 1@2 files
+2023/07/17-15:15:25.452 f85c8 Generated table #8@1: 1875 keys, 1493194 bytes
+2023/07/17-15:15:25.452 f85c8 Compacted 1@1 + 1@2 files => 1493194 bytes
+2023/07/17-15:15:25.454 f85c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/19-20:44:01.526 f85c9 Level-0 table #10: started
+2023/07/19-20:44:01.985 f85c9 Level-0 table #10: 634224 bytes OK
+2023/07/19-20:44:02.003 f85c9 Delete type=0 #6
+2023/07/19-20:44:02.003 f85c9 Delete type=2 #7
+2023/07/19-20:44:02.003 f85c9 Delete type=2 #5
+2023/07/19-20:44:02.053 f85c9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/19-20:44:02.075 f85c9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x02\x1f\x03\x00p\x9e\xed\x13\xd1xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 10627 : 0
+2023/07/19-20:44:02.075 f85c9 Compacting 1@1 + 1@2 files
+2023/07/19-20:44:02.281 f85c9 Generated table #11@1: 1467 keys, 1363838 bytes
+2023/07/19-20:44:02.281 f85c9 Compacted 1@1 + 1@2 files => 1363838 bytes
+2023/07/19-20:44:02.305 f85c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/19-20:44:02.305 f85c9 Delete type=2 #8
+2023/07/19-20:44:02.305 f85c9 Delete type=2 #10
+2023/07/19-20:44:02.305 f85c9 Manual compaction at level-1 from '\x00\x07\x02\x1f\x03\x00p\x9e\xed\x13\xd1xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 10627 : 0 .. (end); will stop at (end)

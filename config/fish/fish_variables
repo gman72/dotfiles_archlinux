@@ -3,6 +3,12 @@
 SETUVAR --export SPOTIFYD_CLIENT_ID:cc2ff5c4325344f28a04ea977cbb5c23
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_ls:ls\x20\x2daF
+SETUVAR _fish_abbr_psj:/home/gman72/adb/pnc\x2esh\x20start\x20S9James
+SETUVAR _fish_abbr_psr:/home/gman72/adb/pnc\x2esh\x20start\x20S9Ryuk
+SETUVAR _fish_abbr_pst:/home/gman72/adb/pnc\x2esh\x20start\x20S9Tony
+SETUVAR _fish_abbr_pstj:/home/gman72/adb/pnc\x2esh\x20stop\x20S9James
+SETUVAR _fish_abbr_pstr:/home/gman72/adb/pnc\x2esh\x20stop\x20S9Ryuk
+SETUVAR _fish_abbr_pstt:/home/gman72/adb/pnc\x2esh\x20stop\x20S9Tony
 SETUVAR _fish_abbr_vim:nvim
 SETUVAR _fish_abbr_vpn_2D_down:wg\x2dquick\x20down\x20pia
 SETUVAR _fish_abbr_vpn_2D_up:wg\x2dquick\x20up\x20pia

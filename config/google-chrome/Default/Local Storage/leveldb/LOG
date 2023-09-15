@@ -1,0 +1,6 @@
+2023/07/17-14:48:25.266 3 Reusing MANIFEST /home/gman72/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/17-14:48:25.271 3 Recovering log #26
+2023/07/17-14:48:25.301 3 Reusing old log /home/gman72/.config/google-chrome/Default/Local Storage/leveldb/000026.log 
+2023/07/17-14:49:07.322 3 Level-0 table #31: started
+2023/07/17-14:49:07.327 3 Level-0 table #31: 85504 bytes OK
+2023/07/17-14:49:07.330 3 Delete type=0 #26

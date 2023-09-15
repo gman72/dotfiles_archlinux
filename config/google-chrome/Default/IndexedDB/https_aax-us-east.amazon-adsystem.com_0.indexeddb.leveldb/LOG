@@ -1,0 +1,7 @@
+2023/07/13-09:55:33.388 29a9ea Reusing MANIFEST /home/gman72/.config/google-chrome/Default/IndexedDB/https_aax-us-east.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/13-09:55:33.388 29a9ea Recovering log #3
+2023/07/13-09:55:33.389 29a9ea Reusing old log /home/gman72/.config/google-chrome/Default/IndexedDB/https_aax-us-east.amazon-adsystem.com_0.indexeddb.leveldb/000003.log 
+2023/07/13-09:55:37.407 29a9eb Level-0 table #5: started
+2023/07/13-09:55:37.409 29a9eb Level-0 table #5: 413 bytes OK
+2023/07/13-09:55:37.412 29a9eb Delete type=0 #3
+2023/07/13-09:55:37.412 29a9eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

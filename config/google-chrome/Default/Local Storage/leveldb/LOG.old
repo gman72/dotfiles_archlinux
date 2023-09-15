@@ -1,0 +1,15 @@
+2023/07/13-07:59:55.132 3 Reusing MANIFEST /home/gman72/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/13-07:59:55.183 3 Recovering log #23
+2023/07/13-07:59:55.189 3 Reusing old log /home/gman72/.config/google-chrome/Default/Local Storage/leveldb/000023.log 
+2023/07/13-08:00:32.369 4 Level-0 table #27: started
+2023/07/13-08:00:32.372 4 Level-0 table #27: 47588 bytes OK
+2023/07/13-08:00:32.375 4 Delete type=0 #23
+2023/07/13-08:00:32.376 4 Compacting 4@0 + 1@1 files
+2023/07/13-08:00:32.391 4 Generated table #28@0: 239 keys, 268545 bytes
+2023/07/13-08:00:32.391 4 Compacted 4@0 + 1@1 files => 268545 bytes
+2023/07/13-08:00:32.394 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/13-08:00:32.394 4 Delete type=2 #24
+2023/07/13-08:00:32.394 4 Delete type=2 #27
+2023/07/13-08:00:32.394 4 Delete type=2 #20
+2023/07/13-08:00:32.394 4 Delete type=2 #16
+2023/07/13-08:00:32.394 4 Delete type=2 #18

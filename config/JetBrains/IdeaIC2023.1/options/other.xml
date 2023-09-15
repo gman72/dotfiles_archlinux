@@ -1,0 +1,66 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="0.75" />
+    <option name="fontSize" value="9.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY": "1685147750091",
+    "FindSplitterProportion": "0.2137628",
+    "MarketplacePluginsSearchHistory": "python\nflutter\nfl",
+    "NextRunPlatformUpdateBuild": "IC-231.9392.1",
+    "NextRunPlatformUpdateVersion": "2023.1.5",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-231.9011.34-033b0016e40e097e3c90b97ad090bc56858b753e46353e28218a5ba77c0a0142",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "IC-231.9011.34",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "experimental.ui.first.promotion.localdate": "2023-05-26",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IC-231.9011.34",
+    "ide.memory.adjusted": "true",
+    "installed.kotlin.plugin.version": "231-1.8.21-release-380-IJ9011.34",
+    "io.flutter.analytics.clientId": "70b6c308-f525-49e2-afc1-d357564334c8",
+    "io.flutter.analytics.toastShown": "true",
+    "io.flutter.console.preferencesSet": "true",
+    "last_opened_file_path": "/home/gman72/flutter/flutter/bin",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Darcula",
+    "project.wizard.group": "JAVA_MODULE_io.flutter.module.FlutterModuleBuilder",
+    "registry.to.advanced.settings.migration.build": "IC-231.9011.34",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "FLUTTER_SDK_KNOWN_PATHS": [
+      "/home/gman72/flutter/flutter"
+    ],
+    "file.chooser.recent.files": [
+      "/home/gman72/IdeaProjects/pnc_test/build/app/outputs/flutter-apk/app-arm64-v8a-release.apk",
+      "/home/gman72/IdeaProjects/pnc_test/build/app/outputs/apk/release/app-release.apk",
+      "/home/gman72/flutter/flutter/bin",
+      "/home/gman72/flutter"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1685205417131,
+    "FocusProjectToolWindow": 1691376010560
+  }
+}]]></component>
+</application>
